@@ -1,229 +1,229 @@
 Employee_ID,First_Name,Last_Name,Age,Department,Region,Status,Join_Date,Salary,Salary_varience,Email,Phone,Performance_Score,Performance_numeric,Remote_Work,Tenure_variance,Years_Tenure
-EMP1000,Bob,Davis,25,DevOps,California,Active,4/2/2021,59767.65,Low,bob.davis@example.com,1651623197,Average,2,true,4,4–5 Years
-EMP1001,Bob,Brown,N/a,Finance,Texas,Active,7/10/2020,65304.66,Low-Mid,bob.brown@example.com,1898471390,Excellent,4,true,5,4–5 Years
+EMP1000,Bob,Davis,25,DevOps,California,Active,4/2/2021,59767.65,Low,bob.davis@example.com,1651623197,Average,2,true,4,4â€“5 Years
+EMP1001,Bob,Brown,N/a,Finance,Texas,Active,7/10/2020,65304.66,Low-Mid,bob.brown@example.com,1898471390,Excellent,4,true,5,4â€“5 Years
 EMP1002,Alice,Jones,N/a,Admin,Nevada,Pending,12/7/2023,88145.9,Up-Mid,alice.jones@example.com,5596363211,Good,3,true,2,2 Years
-EMP1003,Eva,Davis,25,Admin,Nevada,Inactive,11/27/2021,69450.99,Low-Mid,eva.davis@example.com,3476490784,Good,3,true,4,4–5 Years
-EMP1004,Frank,Williams,25,Cloud Tech,Florida,Active,1/5/2022,109324.61,High,frank.williams@example.com,1586734256,Poor,1,false,4,4–5 Years
-EMP1005,Alice,Garcia,40,Sales,Texas,Inactive,6/10/2020,88642.84,Up-Mid,alice.garcia@example.com,5409003485,Good,3,false,5,4–5 Years
-EMP1006,Frank,Jones,N/a,Admin,Nevada,Active,4/3/2020,96288.43,Up-Mid,frank.jones@example.com,4518376063,Good,3,false,5,4–5 Years
+EMP1003,Eva,Davis,25,Admin,Nevada,Inactive,11/27/2021,69450.99,Low-Mid,eva.davis@example.com,3476490784,Good,3,true,4,4â€“5 Years
+EMP1004,Frank,Williams,25,Cloud Tech,Florida,Active,1/5/2022,109324.61,High,frank.williams@example.com,1586734256,Poor,1,false,4,4â€“5 Years
+EMP1005,Alice,Garcia,40,Sales,Texas,Inactive,6/10/2020,88642.84,Up-Mid,alice.garcia@example.com,5409003485,Good,3,false,5,4â€“5 Years
+EMP1006,Frank,Jones,N/a,Admin,Nevada,Active,4/3/2020,96288.43,Up-Mid,frank.jones@example.com,4518376063,Good,3,false,5,4â€“5 Years
 EMP1007,Bob,Jones,30,Cloud Tech,Florida,Inactive,7/17/2022,94497.91,Up-Mid,bob.jones@example.com,4134327559,Average,2,true,3,3 Years
 EMP1008,Frank,Davis,35,Admin,Nevada,Inactive,12/8/2023,115565.82,High,frank.davis@example.com,4177656123,Excellent,4,true,2,2 Years
 EMP1009,Charlie,Johnson,N/a,DevOps,New York,Active,8/4/2022,76561.88,Low-Mid,charlie.johnson@example.com,8156985699,Excellent,4,true,3,3 Years
 EMP1010,David,Williams,35,Cloud Tech,New York,Active,7/6/2024,72081.71,Low-Mid,david.williams@example.com,2720634590,Average,2,false,1,1 Year
 EMP1011,David,Davis,N/a,DevOps,California,Active,9/4/2023,84946.19,Low-Mid,david.davis@example.com,1238296576,Poor,1,true,2,2 Years
 EMP1012,Heidi,Williams,30,HR,New York,Active,3/5/2024,89295.77,Up-Mid,heidi.williams@example.com,2429543164,Excellent,4,false,1,1 Year
-EMP1013,Grace,Williams,N/a,Finance,California,Active,10/10/2020,85666.84,Up-Mid,grace.williams@example.com,2669300892,Good,3,false,5,4–5 Years
+EMP1013,Grace,Williams,N/a,Finance,California,Active,10/10/2020,85666.84,Up-Mid,grace.williams@example.com,2669300892,Good,3,false,5,4â€“5 Years
 EMP1014,Alice,Garcia,25,Admin,Nevada,Active,6/10/2024,97633.68,Up-Mid,alice.garcia@example.com,1734206968,Excellent,4,true,1,1 Year
-EMP1015,Grace,Jones,40,Sales,Florida,Pending,5/29/2021,117975.49,High,grace.jones@example.com,4215291085,Good,3,true,4,4–5 Years
+EMP1015,Grace,Jones,40,Sales,Florida,Pending,5/29/2021,117975.49,High,grace.jones@example.com,4215291085,Good,3,true,4,4â€“5 Years
 EMP1016,Alice,Brown,25,DevOps,Illinois,Inactive,4/23/2024,94867.33,Up-Mid,alice.brown@example.com,7713334475,Poor,1,false,1,1 Year
 EMP1017,Grace,Garcia,30,Finance,Texas,Pending,11/28/2024,100377.65,Up-Mid,grace.garcia@example.com,2639343625,Average,2,true,1,1 Year
 EMP1018,Charlie,Garcia,N/a,Cloud Tech,Nevada,Inactive,9/19/2024,94726.46,Up-Mid,charlie.garcia@example.com,2044397358,Excellent,4,false,1,1 Year
 EMP1019,Charlie,Williams,35,Admin,Illinois,Pending,1/2/2020,91926.12,Up-Mid,charlie.williams@example.com,7107256365,Average,2,true,6,5+ Years
-EMP1020,Bob,Miller,35,HR,New York,Active,5/8/2021,111460.67,High,bob.miller@example.com,9411800536,Excellent,4,true,4,4–5 Years
-EMP1021,Bob,Jones,40,Cloud Tech,Illinois,Active,9/19/2020,96182.56,Up-Mid,bob.jones@example.com,5990048963,Good,3,false,5,4–5 Years
-EMP1022,Charlie,Johnson,35,Sales,Illinois,Inactive,3/9/2021,115023.94,High,charlie.johnson@example.com,6528092427,Average,2,true,4,4–5 Years
-EMP1023,David,Garcia,35,Finance,Nevada,Pending,2/3/2022,80667.01,Low-Mid,david.garcia@example.com,7572158623,Excellent,4,false,4,4–5 Years
+EMP1020,Bob,Miller,35,HR,New York,Active,5/8/2021,111460.67,High,bob.miller@example.com,9411800536,Excellent,4,true,4,4â€“5 Years
+EMP1021,Bob,Jones,40,Cloud Tech,Illinois,Active,9/19/2020,96182.56,Up-Mid,bob.jones@example.com,5990048963,Good,3,false,5,4â€“5 Years
+EMP1022,Charlie,Johnson,35,Sales,Illinois,Inactive,3/9/2021,115023.94,High,charlie.johnson@example.com,6528092427,Average,2,true,4,4â€“5 Years
+EMP1023,David,Garcia,35,Finance,Nevada,Pending,2/3/2022,80667.01,Low-Mid,david.garcia@example.com,7572158623,Excellent,4,false,4,4â€“5 Years
 EMP1024,Bob,Brown,30,Admin,Texas,Inactive,2/13/2020,91181.61,Up-Mid,bob.brown@example.com,1502745643,Good,3,true,6,5+ Years
-EMP1025,David,Miller,25,Cloud Tech,Nevada,Pending,4/30/2020,66025.92,Low-Mid,david.miller@example.com,9485625727,Average,2,false,5,4–5 Years
+EMP1025,David,Miller,25,Cloud Tech,Nevada,Pending,4/30/2020,66025.92,Low-Mid,david.miller@example.com,9485625727,Average,2,false,5,4â€“5 Years
 EMP1026,Frank,Miller,25,Sales,New York,Inactive,10/2/2023,83979.01,Low-Mid,frank.miller@example.com,7032032073,Average,2,false,2,2 Years
-EMP1027,Heidi,Johnson,30,Finance,Florida,Active,7/12/2020,56785.16,Low,heidi.johnson@example.com,2761707586,Excellent,4,true,5,4–5 Years
+EMP1027,Heidi,Johnson,30,Finance,Florida,Active,7/12/2020,56785.16,Low,heidi.johnson@example.com,2761707586,Excellent,4,true,5,4â€“5 Years
 EMP1028,Grace,Garcia,40,Finance,Nevada,Active,10/11/2023,95741.88,Up-Mid,grace.garcia@example.com,7712151341,Excellent,4,false,2,2 Years
-EMP1029,Alice,Brown,40,DevOps,California,Active,5/24/2021,63411.31,Low,alice.brown@example.com,2849939088,Excellent,4,true,4,4–5 Years
-EMP1030,Charlie,Jones,40,Admin,California,Inactive,5/26/2021,111214.02,High,charlie.jones@example.com,2613715040,Good,3,true,4,4–5 Years
-EMP1031,Bob,Smith,25,DevOps,Illinois,Active,7/10/2020,114845.69,High,bob.smith@example.com,6591520176,Excellent,4,true,5,4–5 Years
+EMP1029,Alice,Brown,40,DevOps,California,Active,5/24/2021,63411.31,Low,alice.brown@example.com,2849939088,Excellent,4,true,4,4â€“5 Years
+EMP1030,Charlie,Jones,40,Admin,California,Inactive,5/26/2021,111214.02,High,charlie.jones@example.com,2613715040,Good,3,true,4,4â€“5 Years
+EMP1031,Bob,Smith,25,DevOps,Illinois,Active,7/10/2020,114845.69,High,bob.smith@example.com,6591520176,Excellent,4,true,5,4â€“5 Years
 EMP1032,Charlie,Brown,40,Finance,Florida,Active,11/5/2024,78072.82,Low-Mid,charlie.brown@example.com,7490509758,Average,2,false,1,1 Year
-EMP1033,Grace,Johnson,25,Finance,California,Inactive,8/7/2021,79610.52,Low-Mid,grace.johnson@example.com,2304501895,Average,2,false,4,4–5 Years
-EMP1034,Heidi,Miller,30,Admin,California,Active,4/29/2020,90542.62,Up-Mid,heidi.miller@example.com,1642361031,Excellent,4,true,5,4–5 Years
+EMP1033,Grace,Johnson,25,Finance,California,Inactive,8/7/2021,79610.52,Low-Mid,grace.johnson@example.com,2304501895,Average,2,false,4,4â€“5 Years
+EMP1034,Heidi,Miller,30,Admin,California,Active,4/29/2020,90542.62,Up-Mid,heidi.miller@example.com,1642361031,Excellent,4,true,5,4â€“5 Years
 EMP1035,Frank,Jones,25,Cloud Tech,Illinois,Inactive,10/26/2022,114357.1,High,frank.jones@example.com,6642147648,Excellent,4,true,3,3 Years
 EMP1036,Alice,Brown,N/a,Cloud Tech,New York,Active,5/3/2023,54757.26,Low,alice.brown@example.com,2515837766,Poor,1,false,2,2 Years
 EMP1037,Grace,Smith,25,Sales,New York,Pending,5/2/2023,52781.92,Low,grace.smith@example.com,4996165925,Average,2,true,2,2 Years
-EMP1038,Frank,Smith,35,Admin,Nevada,Pending,10/5/2021,66708.02,Low-Mid,frank.smith@example.com,6108573277,Good,3,true,4,4–5 Years
+EMP1038,Frank,Smith,35,Admin,Nevada,Pending,10/5/2021,66708.02,Low-Mid,frank.smith@example.com,6108573277,Good,3,true,4,4â€“5 Years
 EMP1039,Eva,Williams,40,HR,Texas,Active,7/27/2022,93481.15,Up-Mid,eva.williams@example.com,8147617421,Poor,1,false,3,3 Years
-EMP1040,Bob,Williams,25,Sales,New York,Pending,6/27/2021,59271.96,Low,bob.williams@example.com,4386490809,Excellent,4,true,4,4–5 Years
+EMP1040,Bob,Williams,25,Sales,New York,Pending,6/27/2021,59271.96,Low,bob.williams@example.com,4386490809,Excellent,4,true,4,4â€“5 Years
 EMP1041,Bob,Davis,30,HR,California,Active,6/16/2022,108362.15,High,bob.davis@example.com,8186617944,Excellent,4,false,3,3 Years
 EMP1042,Alice,Johnson,N/a,HR,Nevada,Active,12/3/2024,59400.38,Low,alice.johnson@example.com,4918017225,Average,2,true,1,1 Year
 EMP1043,Bob,Garcia,N/a,Admin,California,Inactive,5/23/2023,64744.08,Low,bob.garcia@example.com,164597793,Excellent,4,false,2,2 Years
-EMP1044,Eva,Brown,N/a,Finance,California,Active,7/8/2020,94399.91,Up-Mid,eva.brown@example.com,5232194167,Good,3,true,5,4–5 Years
-EMP1045,Alice,Brown,25,HR,New York,Pending,6/20/2021,61310.74,Low,alice.brown@example.com,61027768,Average,2,true,4,4–5 Years
+EMP1044,Eva,Brown,N/a,Finance,California,Active,7/8/2020,94399.91,Up-Mid,eva.brown@example.com,5232194167,Good,3,true,5,4â€“5 Years
+EMP1045,Alice,Brown,25,HR,New York,Pending,6/20/2021,61310.74,Low,alice.brown@example.com,61027768,Average,2,true,4,4â€“5 Years
 EMP1046,Grace,Garcia,N/a,Cloud Tech,Texas,Active,12/13/2024,98371.37,Up-Mid,grace.garcia@example.com,7499564121,Excellent,4,false,1,1 Year
 EMP1047,Alice,Davis,35,Sales,Illinois,Active,5/30/2022,58921.19,Low,alice.davis@example.com,310303722,Average,2,true,3,3 Years
 EMP1048,Alice,Miller,35,Admin,Nevada,Active,9/27/2023,57195.55,Low,alice.miller@example.com,6831472759,Excellent,4,false,2,2 Years
 EMP1049,Grace,Miller,N/a,DevOps,New York,Active,11/5/2024,61375.12,Low,grace.miller@example.com,1227770792,Excellent,4,true,1,1 Year
-EMP1050,Charlie,Davis,40,Cloud Tech,New York,Pending,11/11/2021,104767.05,Up-Mid,charlie.davis@example.com,3496050165,Excellent,4,false,4,4–5 Years
-EMP1051,David,Miller,35,Admin,Nevada,Active,2/22/2022,111051.67,High,david.miller@example.com,7998407677,Good,3,false,4,4–5 Years
+EMP1050,Charlie,Davis,40,Cloud Tech,New York,Pending,11/11/2021,104767.05,Up-Mid,charlie.davis@example.com,3496050165,Excellent,4,false,4,4â€“5 Years
+EMP1051,David,Miller,35,Admin,Nevada,Active,2/22/2022,111051.67,High,david.miller@example.com,7998407677,Good,3,false,4,4â€“5 Years
 EMP1052,David,Williams,30,Finance,California,Inactive,8/7/2024,105674.18,High,david.williams@example.com,9973080694,Good,3,false,1,1 Year
 EMP1053,Alice,Brown,30,Finance,California,Inactive,11/5/2024,54859.45,Low,alice.brown@example.com,8146717956,Average,2,false,1,1 Year
-EMP1054,Frank,Davis,N/a,Finance,Nevada,Pending,11/9/2021,115746.6,High,frank.davis@example.com,6024375737,Excellent,4,true,4,4–5 Years
-EMP1055,Eva,Brown,30,Sales,California,Active,8/10/2020,91759.99,Up-Mid,eva.brown@example.com,3959724664,Excellent,4,true,5,4–5 Years
-EMP1056,Frank,Garcia,40,Sales,Illinois,Active,2/27/2022,112965.33,High,frank.garcia@example.com,7293417222,Good,3,false,4,4–5 Years
+EMP1054,Frank,Davis,N/a,Finance,Nevada,Pending,11/9/2021,115746.6,High,frank.davis@example.com,6024375737,Excellent,4,true,4,4â€“5 Years
+EMP1055,Eva,Brown,30,Sales,California,Active,8/10/2020,91759.99,Up-Mid,eva.brown@example.com,3959724664,Excellent,4,true,5,4â€“5 Years
+EMP1056,Frank,Garcia,40,Sales,Illinois,Active,2/27/2022,112965.33,High,frank.garcia@example.com,7293417222,Good,3,false,4,4â€“5 Years
 EMP1057,Alice,Smith,40,Cloud Tech,Illinois,Pending,11/7/2023,100360.1,Up-Mid,alice.smith@example.com,2971674337,Excellent,4,false,2,2 Years
-EMP1058,David,Williams,35,Finance,Texas,Pending,11/7/2021,93620.88,Up-Mid,david.williams@example.com,54522800,Good,3,false,4,4–5 Years
+EMP1058,David,Williams,35,Finance,Texas,Pending,11/7/2021,93620.88,Up-Mid,david.williams@example.com,54522800,Good,3,false,4,4â€“5 Years
 EMP1059,Bob,Jones,35,Sales,California,Pending,4/16/2022,72832.8,Low-Mid,bob.jones@example.com,5619318373,Excellent,4,true,3,3 Years
 EMP1060,Charlie,Williams,30,Finance,Nevada,Inactive,10/19/2023,102369.42,Up-Mid,charlie.williams@example.com,5508428909,Average,2,true,2,2 Years
-EMP1061,Eva,Davis,40,Sales,Texas,Inactive,8/10/2021,64712.79,Low,eva.davis@example.com,7711991807,Excellent,4,true,4,4–5 Years
-EMP1062,Frank,Jones,40,Finance,Florida,Pending,3/13/2021,85782.18,Up-Mid,frank.jones@example.com,1213524786,Excellent,4,true,4,4–5 Years
+EMP1061,Eva,Davis,40,Sales,Texas,Inactive,8/10/2021,64712.79,Low,eva.davis@example.com,7711991807,Excellent,4,true,4,4â€“5 Years
+EMP1062,Frank,Jones,40,Finance,Florida,Pending,3/13/2021,85782.18,Up-Mid,frank.jones@example.com,1213524786,Excellent,4,true,4,4â€“5 Years
 EMP1063,Charlie,Smith,25,HR,Illinois,Pending,7/20/2023,93348.26,Up-Mid,charlie.smith@example.com,1255213759,Poor,1,false,2,2 Years
 EMP1064,David,Davis,35,Admin,New York,Active,2/20/2020,53234.96,Low,david.davis@example.com,3754821455,Good,3,false,6,5+ Years
-EMP1065,Bob,Johnson,40,Finance,Nevada,Pending,2/2/2021,100284.21,Up-Mid,bob.johnson@example.com,5328632665,Excellent,4,false,5,4–5 Years
+EMP1065,Bob,Johnson,40,Finance,Nevada,Pending,2/2/2021,100284.21,Up-Mid,bob.johnson@example.com,5328632665,Excellent,4,false,5,4â€“5 Years
 EMP1066,Grace,Brown,30,Admin,Nevada,Pending,1/12/2020,112486.19,High,grace.brown@example.com,7850720810,Excellent,4,true,6,5+ Years
 EMP1067,Bob,Smith,40,Admin,New York,Pending,11/26/2022,82518.49,Low-Mid,bob.smith@example.com,5562606028,Poor,1,true,3,3 Years
 EMP1068,Bob,Brown,40,Admin,Florida,Pending,12/23/2022,119152.47,High,bob.brown@example.com,846684549,Poor,1,true,3,3 Years
 EMP1069,Heidi,Miller,N/a,DevOps,Illinois,Inactive,8/28/2024,113479.83,High,heidi.miller@example.com,4892673898,Good,3,false,1,1 Year
 EMP1070,Charlie,Johnson,40,Finance,California,Active,9/16/2024,94636.3,Up-Mid,charlie.johnson@example.com,7563410855,Poor,1,false,1,1 Year
 EMP1071,Heidi,Johnson,30,HR,Florida,Active,1/1/2024,70000.97,Low-Mid,heidi.johnson@example.com,2884318847,Average,2,true,2,2 Years
-EMP1072,Frank,Smith,N/a,Cloud Tech,New York,Active,4/18/2021,76812.47,Low-Mid,frank.smith@example.com,5200894345,Poor,1,false,4,4–5 Years
+EMP1072,Frank,Smith,N/a,Cloud Tech,New York,Active,4/18/2021,76812.47,Low-Mid,frank.smith@example.com,5200894345,Poor,1,false,4,4â€“5 Years
 EMP1073,David,Johnson,25,Finance,Florida,Inactive,1/16/2023,82614.7,Low-Mid,david.johnson@example.com,8105485100,Average,2,true,3,3 Years
 EMP1074,Grace,Jones,40,Sales,Nevada,Active,10/20/2024,111645.97,High,grace.jones@example.com,7490753997,Good,3,true,1,1 Year
 EMP1075,Heidi,Johnson,25,HR,California,Inactive,10/13/2024,112414.91,High,heidi.johnson@example.com,9354492682,Good,3,false,1,1 Year
 EMP1076,David,Brown,40,Admin,California,Inactive,9/21/2022,52031.74,Low,david.brown@example.com,1589357125,Good,3,true,3,3 Years
 EMP1077,Grace,Brown,30,Finance,New York,Pending,12/29/2022,51887.65,Low,grace.brown@example.com,6110627370,Good,3,false,3,3 Years
 EMP1078,Alice,Davis,25,DevOps,Florida,Active,11/10/2024,82318.89,Low-Mid,alice.davis@example.com,5869886496,Good,3,true,1,1 Year
-EMP1079,Grace,Brown,35,Admin,Florida,Inactive,11/22/2021,103286.08,Up-Mid,grace.brown@example.com,6776228276,Average,2,false,4,4–5 Years
+EMP1079,Grace,Brown,35,Admin,Florida,Inactive,11/22/2021,103286.08,Up-Mid,grace.brown@example.com,6776228276,Average,2,false,4,4â€“5 Years
 EMP1080,Grace,Davis,35,Cloud Tech,Florida,Active,3/14/2024,87759.33,Up-Mid,grace.davis@example.com,2881377027,Average,2,false,1,1 Year
-EMP1081,Frank,Brown,30,DevOps,Texas,Pending,3/23/2020,102796.32,Up-Mid,frank.brown@example.com,5196115939,Good,3,false,5,4–5 Years
-EMP1082,David,Jones,25,Sales,New York,Active,9/15/2020,83149.27,Low-Mid,david.jones@example.com,8215454469,Poor,1,true,5,4–5 Years
-EMP1083,David,Garcia,40,DevOps,California,Inactive,12/9/2020,92412.49,Up-Mid,david.garcia@example.com,2296044326,Excellent,4,true,5,4–5 Years
+EMP1081,Frank,Brown,30,DevOps,Texas,Pending,3/23/2020,102796.32,Up-Mid,frank.brown@example.com,5196115939,Good,3,false,5,4â€“5 Years
+EMP1082,David,Jones,25,Sales,New York,Active,9/15/2020,83149.27,Low-Mid,david.jones@example.com,8215454469,Poor,1,true,5,4â€“5 Years
+EMP1083,David,Garcia,40,DevOps,California,Inactive,12/9/2020,92412.49,Up-Mid,david.garcia@example.com,2296044326,Excellent,4,true,5,4â€“5 Years
 EMP1084,Bob,Davis,30,HR,Texas,Pending,2/22/2020,115022.1,High,bob.davis@example.com,185106793,Good,3,false,6,5+ Years
 EMP1085,Grace,Williams,40,DevOps,New York,Active,4/27/2023,98343.01,Up-Mid,grace.williams@example.com,9756792286,Poor,1,false,2,2 Years
 EMP1086,Bob,Miller,35,DevOps,Illinois,Active,6/18/2024,118869.1,High,bob.miller@example.com,7725199662,Excellent,4,true,1,1 Year
-EMP1087,Frank,Smith,N/a,Finance,Nevada,Inactive,5/21/2020,85417.26,Up-Mid,frank.smith@example.com,6580741208,Good,3,true,5,4–5 Years
+EMP1087,Frank,Smith,N/a,Finance,Nevada,Inactive,5/21/2020,85417.26,Up-Mid,frank.smith@example.com,6580741208,Good,3,true,5,4â€“5 Years
 EMP1088,Grace,Brown,40,Cloud Tech,Florida,Inactive,7/25/2023,112410.25,High,grace.brown@example.com,4818139889,Good,3,true,2,2 Years
 EMP1089,Charlie,Johnson,40,Admin,Nevada,Pending,8/25/2023,68905.77,Low-Mid,charlie.johnson@example.com,9837801819,Average,2,false,2,2 Years
-EMP1090,Heidi,Garcia,40,Finance,Nevada,Pending,7/3/2021,72561.32,Low-Mid,heidi.garcia@example.com,4339718955,Excellent,4,true,4,4–5 Years
+EMP1090,Heidi,Garcia,40,Finance,Nevada,Pending,7/3/2021,72561.32,Low-Mid,heidi.garcia@example.com,4339718955,Excellent,4,true,4,4â€“5 Years
 EMP1091,Bob,Brown,35,Finance,New York,Inactive,3/13/2023,92723.22,Up-Mid,bob.brown@example.com,9070562607,Excellent,4,true,2,2 Years
-EMP1092,Alice,Johnson,40,HR,New York,Inactive,3/10/2021,74837.75,Low-Mid,alice.johnson@example.com,5641118241,Poor,1,false,4,4–5 Years
+EMP1092,Alice,Johnson,40,HR,New York,Inactive,3/10/2021,74837.75,Low-Mid,alice.johnson@example.com,5641118241,Poor,1,false,4,4â€“5 Years
 EMP1093,Eva,Miller,N/a,DevOps,California,Pending,1/21/2020,86163.91,Up-Mid,eva.miller@example.com,2412462094,Average,2,true,6,5+ Years
 EMP1094,David,Miller,40,Finance,Illinois,Active,11/15/2023,83326.52,Low-Mid,david.miller@example.com,2004615264,Average,2,true,2,2 Years
 EMP1095,Heidi,Miller,25,Cloud Tech,California,Active,4/8/2022,98425.1,Up-Mid,heidi.miller@example.com,4610339936,Average,2,true,3,3 Years
 EMP1096,Frank,Johnson,40,Sales,Illinois,Inactive,5/21/2022,119764.2,High,frank.johnson@example.com,8861405785,Average,2,false,3,3 Years
-EMP1097,Frank,Brown,40,HR,California,Inactive,4/17/2021,58445.91,Low,frank.brown@example.com,1706304890,Excellent,4,false,4,4–5 Years
-EMP1098,Bob,Miller,N/a,DevOps,New York,Active,3/19/2021,101702.33,Up-Mid,bob.miller@example.com,3824967182,Excellent,4,false,4,4–5 Years
-EMP1099,Eva,Jones,25,Admin,California,Active,1/9/2022,N/A,Unknown,eva.jones@example.com,2582386869,Good,3,false,4,4–5 Years
-EMP1100,Charlie,Davis,35,Cloud Tech,Texas,Pending,8/21/2021,98819.22,Up-Mid,charlie.davis@example.com,794200748,Good,3,false,4,4–5 Years
+EMP1097,Frank,Brown,40,HR,California,Inactive,4/17/2021,58445.91,Low,frank.brown@example.com,1706304890,Excellent,4,false,4,4â€“5 Years
+EMP1098,Bob,Miller,N/a,DevOps,New York,Active,3/19/2021,101702.33,Up-Mid,bob.miller@example.com,3824967182,Excellent,4,false,4,4â€“5 Years
+EMP1099,Eva,Jones,25,Admin,California,Active,1/9/2022,N/A,Unknown,eva.jones@example.com,2582386869,Good,3,false,4,4â€“5 Years
+EMP1100,Charlie,Davis,35,Cloud Tech,Texas,Pending,8/21/2021,98819.22,Up-Mid,charlie.davis@example.com,794200748,Good,3,false,4,4â€“5 Years
 EMP1101,Heidi,Johnson,25,Cloud Tech,Illinois,Inactive,8/19/2022,83509.99,Low-Mid,heidi.johnson@example.com,4653984027,Average,2,false,3,3 Years
 EMP1102,Alice,Johnson,35,Finance,Texas,Active,3/31/2022,84422.26,Low-Mid,alice.johnson@example.com,9141612845,Average,2,false,3,3 Years
-EMP1103,Alice,Brown,30,Admin,Illinois,Inactive,6/23/2020,119574.27,High,alice.brown@example.com,3985547434,Average,2,true,5,4–5 Years
+EMP1103,Alice,Brown,30,Admin,Illinois,Inactive,6/23/2020,119574.27,High,alice.brown@example.com,3985547434,Average,2,true,5,4â€“5 Years
 EMP1104,Grace,Johnson,N/a,Sales,Illinois,Active,5/7/2024,86580.08,Up-Mid,grace.johnson@example.com,5379502096,Good,3,true,1,1 Year
 EMP1105,Heidi,Johnson,35,Sales,Florida,Inactive,3/10/2023,93471.91,Up-Mid,heidi.johnson@example.com,26876810,Poor,1,false,2,2 Years
 EMP1106,Bob,Miller,30,DevOps,New York,Inactive,9/14/2023,55683.12,Low,bob.miller@example.com,8071569561,Poor,1,true,2,2 Years
 EMP1107,Bob,Brown,30,Cloud Tech,Florida,Inactive,11/12/2023,91566.78,Up-Mid,bob.brown@example.com,175370303,Good,3,true,2,2 Years
 EMP1108,David,Miller,35,DevOps,California,Pending,10/26/2024,81782.19,Low-Mid,david.miller@example.com,5319433749,Good,3,false,1,1 Year
-EMP1109,Eva,Davis,N/a,DevOps,New York,Inactive,8/23/2020,88119.37,Up-Mid,eva.davis@example.com,4793036148,Good,3,true,5,4–5 Years
+EMP1109,Eva,Davis,N/a,DevOps,New York,Inactive,8/23/2020,88119.37,Up-Mid,eva.davis@example.com,4793036148,Good,3,true,5,4â€“5 Years
 EMP1110,Eva,Garcia,30,Cloud Tech,Texas,Active,6/11/2024,71532.83,Low-Mid,eva.garcia@example.com,8728399920,Good,3,true,1,1 Year
-EMP1111,Eva,Davis,40,Cloud Tech,Florida,Pending,9/14/2021,98981.36,Up-Mid,eva.davis@example.com,9212493842,Good,3,true,4,4–5 Years
+EMP1111,Eva,Davis,40,Cloud Tech,Florida,Pending,9/14/2021,98981.36,Up-Mid,eva.davis@example.com,9212493842,Good,3,true,4,4â€“5 Years
 EMP1112,Heidi,Garcia,40,Cloud Tech,Illinois,Active,12/26/2024,80242.01,Low-Mid,heidi.garcia@example.com,894870604,Good,3,true,1,1 Year
 EMP1113,Eva,Miller,25,Cloud Tech,New York,Pending,9/8/2024,110236.18,High,eva.miller@example.com,6641877579,Average,2,true,1,1 Year
 EMP1114,Alice,Davis,35,Sales,Texas,Active,8/21/2022,86327.47,Up-Mid,alice.davis@example.com,3046875062,Average,2,false,3,3 Years
 EMP1115,Eva,Brown,30,Sales,Florida,Pending,7/25/2024,84420.81,Low-Mid,eva.brown@example.com,5190361331,Average,2,false,1,1 Year
-EMP1116,Frank,Smith,40,HR,California,Pending,8/2/2020,110041.32,High,frank.smith@example.com,5411076094,Average,2,false,5,4–5 Years
-EMP1117,Heidi,Miller,35,DevOps,Florida,Pending,3/16/2020,81837.81,Low-Mid,heidi.miller@example.com,4317350582,Good,3,true,5,4–5 Years
+EMP1116,Frank,Smith,40,HR,California,Pending,8/2/2020,110041.32,High,frank.smith@example.com,5411076094,Average,2,false,5,4â€“5 Years
+EMP1117,Heidi,Miller,35,DevOps,Florida,Pending,3/16/2020,81837.81,Low-Mid,heidi.miller@example.com,4317350582,Good,3,true,5,4â€“5 Years
 EMP1118,Frank,Garcia,25,Finance,Illinois,Active,9/8/2023,110855.72,High,frank.garcia@example.com,1997179109,Poor,1,false,2,2 Years
 EMP1119,Alice,Jones,30,Sales,California,Pending,3/29/2024,84894.52,Low-Mid,alice.jones@example.com,651207048,Excellent,4,true,1,1 Year
-EMP1120,Alice,Garcia,30,HR,Illinois,Active,8/12/2021,80668.13,Low-Mid,alice.garcia@example.com,6110804660,Good,3,true,4,4–5 Years
+EMP1120,Alice,Garcia,30,HR,Illinois,Active,8/12/2021,80668.13,Low-Mid,alice.garcia@example.com,6110804660,Good,3,true,4,4â€“5 Years
 EMP1121,Bob,Jones,25,DevOps,Illinois,Active,12/24/2023,61086.47,Low,bob.jones@example.com,9639907675,Excellent,4,true,2,2 Years
-EMP1122,Grace,Johnson,25,Admin,Texas,Inactive,8/28/2020,95339.68,Up-Mid,grace.johnson@example.com,9915078592,Poor,1,true,5,4–5 Years
+EMP1122,Grace,Johnson,25,Admin,Texas,Inactive,8/28/2020,95339.68,Up-Mid,grace.johnson@example.com,9915078592,Poor,1,true,5,4â€“5 Years
 EMP1123,Eva,Davis,N/a,DevOps,California,Inactive,9/5/2024,83774.97,Low-Mid,eva.davis@example.com,1109193927,Average,2,false,1,1 Year
 EMP1124,Heidi,Jones,N/a,Admin,Florida,Active,5/12/2023,85576.86,Up-Mid,heidi.jones@example.com,4567972319,Poor,1,false,2,2 Years
-EMP1125,Bob,Garcia,35,Finance,California,Pending,7/1/2021,107438.46,High,bob.garcia@example.com,249685497,Good,3,true,4,4–5 Years
+EMP1125,Bob,Garcia,35,Finance,California,Pending,7/1/2021,107438.46,High,bob.garcia@example.com,249685497,Good,3,true,4,4â€“5 Years
 EMP1126,Eva,Johnson,N/a,Sales,Nevada,Inactive,11/7/2024,60401.68,Low,eva.johnson@example.com,2274954507,Average,2,false,1,1 Year
 EMP1127,Frank,Smith,35,Sales,Illinois,Inactive,7/21/2022,115299.66,High,frank.smith@example.com,9203880652,Good,3,true,3,3 Years
-EMP1128,David,Brown,N/a,Finance,New York,Inactive,3/30/2020,72272.34,Low-Mid,david.brown@example.com,3315377958,Average,2,false,5,4–5 Years
+EMP1128,David,Brown,N/a,Finance,New York,Inactive,3/30/2020,72272.34,Low-Mid,david.brown@example.com,3315377958,Average,2,false,5,4â€“5 Years
 EMP1129,Grace,Brown,40,DevOps,Nevada,Active,10/11/2022,117537.71,High,grace.brown@example.com,9594652169,Excellent,4,false,3,3 Years
 EMP1130,Frank,Brown,25,Finance,Texas,Pending,7/24/2022,51074.33,Low,frank.brown@example.com,7303379336,Excellent,4,true,3,3 Years
 EMP1131,Charlie,Jones,25,Finance,California,Inactive,6/30/2023,98489.32,Up-Mid,charlie.jones@example.com,5636205014,Excellent,4,false,2,2 Years
 EMP1132,Frank,Smith,N/a,Finance,California,Pending,1/11/2024,112120.71,High,frank.smith@example.com,812473949,Poor,1,true,2,2 Years
 EMP1133,Alice,Jones,N/a,Cloud Tech,New York,Pending,11/2/2023,114465.04,High,alice.jones@example.com,334234257,Good,3,false,2,2 Years
 EMP1134,Bob,Davis,40,Cloud Tech,Nevada,Pending,11/22/2024,57035.51,Low,bob.davis@example.com,3230241025,Poor,1,true,1,1 Year
-EMP1135,Eva,Jones,25,Cloud Tech,California,Active,8/23/2021,75092.43,Low-Mid,eva.jones@example.com,1534735527,Excellent,4,true,4,4–5 Years
+EMP1135,Eva,Jones,25,Cloud Tech,California,Active,8/23/2021,75092.43,Low-Mid,eva.jones@example.com,1534735527,Excellent,4,true,4,4â€“5 Years
 EMP1136,David,Smith,N/a,Finance,Illinois,Pending,6/11/2024,62603.98,Low,david.smith@example.com,9611223385,Good,3,false,1,1 Year
 EMP1137,Grace,Smith,N/a,DevOps,New York,Inactive,4/9/2023,60018.24,Low,grace.smith@example.com,5596309937,Excellent,4,false,2,2 Years
 EMP1138,Eva,Davis,40,HR,Nevada,Active,7/5/2024,82567.73,Low-Mid,eva.davis@example.com,4253042896,Poor,1,true,1,1 Year
-EMP1139,Charlie,Smith,25,Finance,California,Pending,9/4/2021,94725.71,Up-Mid,charlie.smith@example.com,3179128684,Poor,1,false,4,4–5 Years
+EMP1139,Charlie,Smith,25,Finance,California,Pending,9/4/2021,94725.71,Up-Mid,charlie.smith@example.com,3179128684,Poor,1,false,4,4â€“5 Years
 EMP1140,Eva,Garcia,40,HR,New York,Inactive,10/13/2024,83824.56,Low-Mid,eva.garcia@example.com,7872558776,Poor,1,false,1,1 Year
 EMP1141,Frank,Smith,N/a,HR,Nevada,Inactive,2/14/2020,118456.11,High,frank.smith@example.com,4969033372,Excellent,4,true,6,5+ Years
-EMP1142,Eva,Brown,25,Sales,Nevada,Pending,4/10/2020,113743.19,High,eva.brown@example.com,6346692547,Good,3,true,5,4–5 Years
+EMP1142,Eva,Brown,25,Sales,Nevada,Pending,4/10/2020,113743.19,High,eva.brown@example.com,6346692547,Good,3,true,5,4â€“5 Years
 EMP1143,Eva,Garcia,30,Sales,California,Active,7/27/2023,63309.24,Low,eva.garcia@example.com,1214785389,Good,3,false,2,2 Years
-EMP1144,Charlie,Garcia,25,DevOps,Nevada,Active,9/24/2021,105202.73,High,charlie.garcia@example.com,7895677664,Excellent,4,true,4,4–5 Years
+EMP1144,Charlie,Garcia,25,DevOps,Nevada,Active,9/24/2021,105202.73,High,charlie.garcia@example.com,7895677664,Excellent,4,true,4,4â€“5 Years
 EMP1145,Frank,Davis,30,Cloud Tech,California,Inactive,3/10/2024,79085.22,Low-Mid,frank.davis@example.com,7546027340,Good,3,true,1,1 Year
-EMP1146,Frank,Williams,N/a,Sales,California,Active,6/10/2021,113983.43,High,frank.williams@example.com,5148881430,Excellent,4,true,4,4–5 Years
-EMP1147,Eva,Williams,35,Cloud Tech,Florida,Active,10/15/2020,102790.6,Up-Mid,eva.williams@example.com,1150835353,Good,3,false,5,4–5 Years
+EMP1146,Frank,Williams,N/a,Sales,California,Active,6/10/2021,113983.43,High,frank.williams@example.com,5148881430,Excellent,4,true,4,4â€“5 Years
+EMP1147,Eva,Williams,35,Cloud Tech,Florida,Active,10/15/2020,102790.6,Up-Mid,eva.williams@example.com,1150835353,Good,3,false,5,4â€“5 Years
 EMP1148,Grace,Smith,N/a,HR,Texas,Inactive,1/29/2020,68512.1,Low-Mid,grace.smith@example.com,4439284043,Average,2,false,6,5+ Years
-EMP1149,Frank,Garcia,35,Sales,Florida,Pending,1/30/2022,57584.23,Low,frank.garcia@example.com,5669078262,Average,2,true,4,4–5 Years
-EMP1150,Alice,Williams,N/a,Sales,California,Pending,3/29/2021,95335.67,Up-Mid,alice.williams@example.com,3373898774,Poor,1,false,4,4–5 Years
-EMP1151,Heidi,Williams,35,DevOps,Florida,Active,10/13/2020,53174.28,Low,heidi.williams@example.com,1536637779,Average,2,true,5,4–5 Years
-EMP1152,Heidi,Smith,25,Cloud Tech,New York,Pending,10/4/2020,77205.21,Low-Mid,heidi.smith@example.com,5292407552,Average,2,false,5,4–5 Years
+EMP1149,Frank,Garcia,35,Sales,Florida,Pending,1/30/2022,57584.23,Low,frank.garcia@example.com,5669078262,Average,2,true,4,4â€“5 Years
+EMP1150,Alice,Williams,N/a,Sales,California,Pending,3/29/2021,95335.67,Up-Mid,alice.williams@example.com,3373898774,Poor,1,false,4,4â€“5 Years
+EMP1151,Heidi,Williams,35,DevOps,Florida,Active,10/13/2020,53174.28,Low,heidi.williams@example.com,1536637779,Average,2,true,5,4â€“5 Years
+EMP1152,Heidi,Smith,25,Cloud Tech,New York,Pending,10/4/2020,77205.21,Low-Mid,heidi.smith@example.com,5292407552,Average,2,false,5,4â€“5 Years
 EMP1153,Grace,Williams,N/a,DevOps,Nevada,Active,12/18/2024,79041.92,Low-Mid,grace.williams@example.com,6668459089,Average,2,true,1,1 Year
 EMP1154,Heidi,Jones,N/a,Finance,California,Active,11/14/2023,75937.1,Low-Mid,heidi.jones@example.com,2259999662,Excellent,4,true,2,2 Years
 EMP1155,David,Johnson,35,Cloud Tech,Nevada,Inactive,1/20/2023,113118.73,High,david.johnson@example.com,6186371596,Average,2,false,3,3 Years
 EMP1156,Alice,Davis,40,HR,New York,Active,10/2/2024,107693.38,High,alice.davis@example.com,4121820969,Average,2,true,1,1 Year
-EMP1157,David,Johnson,N/a,Cloud Tech,Texas,Inactive,5/13/2021,119217.46,High,david.johnson@example.com,2316433480,Poor,1,false,4,4–5 Years
-EMP1158,David,Smith,25,Sales,New York,Pending,3/18/2021,106913.71,High,david.smith@example.com,7058025661,Average,2,false,4,4–5 Years
-EMP1159,Charlie,Brown,N/a,Cloud Tech,California,Active,9/23/2020,87815.08,Up-Mid,charlie.brown@example.com,1286716322,Average,2,true,5,4–5 Years
+EMP1157,David,Johnson,N/a,Cloud Tech,Texas,Inactive,5/13/2021,119217.46,High,david.johnson@example.com,2316433480,Poor,1,false,4,4â€“5 Years
+EMP1158,David,Smith,25,Sales,New York,Pending,3/18/2021,106913.71,High,david.smith@example.com,7058025661,Average,2,false,4,4â€“5 Years
+EMP1159,Charlie,Brown,N/a,Cloud Tech,California,Active,9/23/2020,87815.08,Up-Mid,charlie.brown@example.com,1286716322,Average,2,true,5,4â€“5 Years
 EMP1160,Bob,Davis,25,Admin,Texas,Inactive,6/5/2024,105190.21,High,bob.davis@example.com,4672994937,Good,3,true,1,1 Year
 EMP1161,Alice,Smith,30,HR,Texas,Active,2/28/2024,79467.24,Low-Mid,alice.smith@example.com,7430271692,Poor,1,false,2,2 Years
 EMP1162,Bob,Garcia,40,Finance,California,Pending,4/30/2023,57633.78,Low,bob.garcia@example.com,8597779013,Poor,1,true,2,2 Years
-EMP1163,Alice,Brown,N/a,HR,Florida,Pending,3/4/2020,54257.78,Low,alice.brown@example.com,7546926328,Poor,1,true,5,4–5 Years
+EMP1163,Alice,Brown,N/a,HR,Florida,Pending,3/4/2020,54257.78,Low,alice.brown@example.com,7546926328,Poor,1,true,5,4â€“5 Years
 EMP1164,Grace,Johnson,40,DevOps,Texas,Inactive,12/29/2023,113679.06,High,grace.johnson@example.com,6762916031,Poor,1,true,2,2 Years
-EMP1165,Bob,Smith,35,Sales,New York,Active,9/15/2020,69251.12,Low-Mid,bob.smith@example.com,4841376814,Poor,1,true,5,4–5 Years
+EMP1165,Bob,Smith,35,Sales,New York,Active,9/15/2020,69251.12,Low-Mid,bob.smith@example.com,4841376814,Poor,1,true,5,4â€“5 Years
 EMP1166,Frank,Garcia,40,Sales,Illinois,Inactive,7/18/2022,85388.58,Up-Mid,frank.garcia@example.com,1185672437,Poor,1,true,3,3 Years
 EMP1167,Bob,Davis,N/a,DevOps,New York,Inactive,7/13/2022,112166.37,High,bob.davis@example.com,701765635,Excellent,4,false,3,3 Years
-EMP1168,Heidi,Davis,40,Finance,Nevada,Active,10/2/2021,79873.48,Low-Mid,heidi.davis@example.com,41257770,Average,2,false,4,4–5 Years
-EMP1169,Frank,Miller,30,DevOps,Florida,Active,7/5/2020,108224.03,High,frank.miller@example.com,1837274219,Poor,1,true,5,4–5 Years
+EMP1168,Heidi,Davis,40,Finance,Nevada,Active,10/2/2021,79873.48,Low-Mid,heidi.davis@example.com,41257770,Average,2,false,4,4â€“5 Years
+EMP1169,Frank,Miller,30,DevOps,Florida,Active,7/5/2020,108224.03,High,frank.miller@example.com,1837274219,Poor,1,true,5,4â€“5 Years
 EMP1170,Bob,Garcia,35,Admin,Illinois,Active,4/16/2023,116963.72,High,bob.garcia@example.com,9124186209,Average,2,true,2,2 Years
 EMP1171,Bob,Jones,40,HR,Nevada,Inactive,11/12/2024,114109.06,High,bob.jones@example.com,4275230836,Average,2,true,1,1 Year
 EMP1172,Eva,Williams,N/a,HR,California,Active,3/29/2023,85518.88,Up-Mid,eva.williams@example.com,816470899,Excellent,4,false,2,2 Years
-EMP1173,Heidi,Brown,30,Cloud Tech,California,Pending,1/22/2022,58041.97,Low,heidi.brown@example.com,6335331059,Poor,1,true,4,4–5 Years
+EMP1173,Heidi,Brown,30,Cloud Tech,California,Pending,1/22/2022,58041.97,Low,heidi.brown@example.com,6335331059,Poor,1,true,4,4â€“5 Years
 EMP1174,David,Garcia,40,Sales,Illinois,Pending,10/14/2023,94988.94,Up-Mid,david.garcia@example.com,531312205,Good,3,false,2,2 Years
 EMP1175,Eva,Miller,25,Admin,California,Pending,4/10/2024,71628.93,Low-Mid,eva.miller@example.com,8155839385,Excellent,4,false,1,1 Year
 EMP1176,Alice,Williams,30,Admin,Illinois,Pending,3/31/2022,54870.98,Low,alice.williams@example.com,6133155205,Good,3,false,3,3 Years
-EMP1177,Alice,Williams,25,DevOps,Illinois,Active,2/9/2022,79388.27,Low-Mid,alice.williams@example.com,5063731494,Average,2,true,4,4–5 Years
+EMP1177,Alice,Williams,25,DevOps,Illinois,Active,2/9/2022,79388.27,Low-Mid,alice.williams@example.com,5063731494,Average,2,true,4,4â€“5 Years
 EMP1178,Frank,Smith,35,DevOps,California,Pending,5/6/2023,55946.99,Low,frank.smith@example.com,136497188,Average,2,false,2,2 Years
-EMP1179,Charlie,Williams,N/a,Cloud Tech,Nevada,Active,7/11/2021,81017.91,Low-Mid,charlie.williams@example.com,2419562524,Excellent,4,true,4,4–5 Years
-EMP1180,Heidi,Jones,40,HR,New York,Pending,8/21/2020,74162.1,Low-Mid,heidi.jones@example.com,7150997682,Excellent,4,false,5,4–5 Years
-EMP1181,Heidi,Davis,N/a,DevOps,California,Active,3/27/2021,77668.44,Low-Mid,heidi.davis@example.com,8903091435,Good,3,true,4,4–5 Years
+EMP1179,Charlie,Williams,N/a,Cloud Tech,Nevada,Active,7/11/2021,81017.91,Low-Mid,charlie.williams@example.com,2419562524,Excellent,4,true,4,4â€“5 Years
+EMP1180,Heidi,Jones,40,HR,New York,Pending,8/21/2020,74162.1,Low-Mid,heidi.jones@example.com,7150997682,Excellent,4,false,5,4â€“5 Years
+EMP1181,Heidi,Davis,N/a,DevOps,California,Active,3/27/2021,77668.44,Low-Mid,heidi.davis@example.com,8903091435,Good,3,true,4,4â€“5 Years
 EMP1182,Alice,Miller,30,HR,New York,Active,4/14/2024,67886.37,Low-Mid,alice.miller@example.com,3910257431,Poor,1,false,1,1 Year
-EMP1183,Alice,Williams,40,DevOps,Florida,Active,9/21/2020,76614.52,Low-Mid,alice.williams@example.com,6303975244,Good,3,true,5,4–5 Years
+EMP1183,Alice,Williams,40,DevOps,Florida,Active,9/21/2020,76614.52,Low-Mid,alice.williams@example.com,6303975244,Good,3,true,5,4â€“5 Years
 EMP1184,Frank,Smith,25,Finance,Nevada,Active,6/12/2022,51311.91,Low,frank.smith@example.com,864035532,Excellent,4,false,3,3 Years
 EMP1185,Frank,Jones,N/a,Finance,Illinois,Inactive,12/24/2023,94809.92,Up-Mid,frank.jones@example.com,8033968526,Good,3,true,2,2 Years
 EMP1186,Grace,Johnson,25,HR,New York,Pending,7/31/2022,108241.81,High,grace.johnson@example.com,171302320,Excellent,4,true,3,3 Years
 EMP1187,Bob,Davis,40,Cloud Tech,New York,Inactive,4/21/2023,78031.49,Low-Mid,bob.davis@example.com,2983381673,Good,3,true,2,2 Years
-EMP1188,Eva,Davis,35,Admin,California,Active,6/5/2020,85733.83,Up-Mid,eva.davis@example.com,2336293448,Excellent,4,true,5,4–5 Years
+EMP1188,Eva,Davis,35,Admin,California,Active,6/5/2020,85733.83,Up-Mid,eva.davis@example.com,2336293448,Excellent,4,true,5,4â€“5 Years
 EMP1189,David,Miller,35,HR,Nevada,Pending,7/27/2024,60338.29,Low,david.miller@example.com,7347156626,Excellent,4,false,1,1 Year
 EMP1190,Eva,Davis,30,Admin,Illinois,Active,4/5/2024,103140.67,Up-Mid,eva.davis@example.com,7689627065,Excellent,4,false,1,1 Year
 EMP1191,Heidi,Williams,40,Sales,Illinois,Inactive,10/26/2023,114690.8,High,heidi.williams@example.com,1498282466,Poor,1,true,2,2 Years
 EMP1192,Frank,Smith,35,Admin,Florida,Active,8/18/2022,80954.56,Low-Mid,frank.smith@example.com,4746897151,Good,3,false,3,3 Years
-EMP1193,Eva,Davis,N/a,Cloud Tech,California,Pending,5/31/2020,71728.55,Low-Mid,eva.davis@example.com,7323008575,Good,3,true,5,4–5 Years
+EMP1193,Eva,Davis,N/a,Cloud Tech,California,Pending,5/31/2020,71728.55,Low-Mid,eva.davis@example.com,7323008575,Good,3,true,5,4â€“5 Years
 EMP1194,Alice,Davis,35,HR,Texas,Pending,11/4/2024,118415.8,High,alice.davis@example.com,6656749159,Good,3,true,1,1 Year
-EMP1195,Grace,Johnson,40,Sales,Illinois,Pending,3/25/2020,81481.36,Low-Mid,grace.johnson@example.com,1692364586,Excellent,4,false,5,4–5 Years
-EMP1196,David,Johnson,35,Sales,Florida,Pending,11/4/2020,117040.57,High,david.johnson@example.com,5066337049,Good,3,true,5,4–5 Years
-EMP1197,Frank,Brown,25,Sales,Nevada,Active,3/21/2020,67342.06,Low-Mid,frank.brown@example.com,2497243991,Good,3,true,5,4–5 Years
-EMP1198,Heidi,Jones,N/a,Sales,Illinois,Active,1/15/2022,76099.64,Low-Mid,heidi.jones@example.com,116691835,Excellent,4,false,4,4–5 Years
+EMP1195,Grace,Johnson,40,Sales,Illinois,Pending,3/25/2020,81481.36,Low-Mid,grace.johnson@example.com,1692364586,Excellent,4,false,5,4â€“5 Years
+EMP1196,David,Johnson,35,Sales,Florida,Pending,11/4/2020,117040.57,High,david.johnson@example.com,5066337049,Good,3,true,5,4â€“5 Years
+EMP1197,Frank,Brown,25,Sales,Nevada,Active,3/21/2020,67342.06,Low-Mid,frank.brown@example.com,2497243991,Good,3,true,5,4â€“5 Years
+EMP1198,Heidi,Jones,N/a,Sales,Illinois,Active,1/15/2022,76099.64,Low-Mid,heidi.jones@example.com,116691835,Excellent,4,false,4,4â€“5 Years
 EMP1199,Grace,Williams,35,DevOps,Illinois,Active,6/4/2024,94162.06,Up-Mid,grace.williams@example.com,2644886945,Average,2,true,1,1 Year
-EMP1200,Frank,Davis,25,Sales,Nevada,Inactive,8/4/2021,67639.7,Low-Mid,frank.davis@example.com,1195243639,Excellent,4,true,4,4–5 Years
-EMP1201,Charlie,Garcia,35,Cloud Tech,Illinois,Pending,10/16/2020,114172.25,High,charlie.garcia@example.com,2701168645,Good,3,true,5,4–5 Years
-EMP1202,Grace,Davis,30,Sales,Nevada,Active,9/26/2021,89124.54,Up-Mid,grace.davis@example.com,2252237280,Excellent,4,true,4,4–5 Years
+EMP1200,Frank,Davis,25,Sales,Nevada,Inactive,8/4/2021,67639.7,Low-Mid,frank.davis@example.com,1195243639,Excellent,4,true,4,4â€“5 Years
+EMP1201,Charlie,Garcia,35,Cloud Tech,Illinois,Pending,10/16/2020,114172.25,High,charlie.garcia@example.com,2701168645,Good,3,true,5,4â€“5 Years
+EMP1202,Grace,Davis,30,Sales,Nevada,Active,9/26/2021,89124.54,Up-Mid,grace.davis@example.com,2252237280,Excellent,4,true,4,4â€“5 Years
 EMP1203,Frank,Smith,30,DevOps,Nevada,Pending,11/4/2023,113871.36,High,frank.smith@example.com,7932302345,Average,2,false,2,2 Years
-EMP1204,Grace,Brown,N/a,HR,Texas,Inactive,9/24/2021,62618.4,Low,grace.brown@example.com,7912141613,Excellent,4,false,4,4–5 Years
-EMP1205,Heidi,Jones,30,Admin,New York,Active,6/7/2020,70705.45,Low-Mid,heidi.jones@example.com,1509377099,Good,3,false,5,4–5 Years
-EMP1206,Alice,Garcia,35,Sales,New York,Pending,2/10/2022,60797.69,Low,alice.garcia@example.com,4090138068,Average,2,true,4,4–5 Years
+EMP1204,Grace,Brown,N/a,HR,Texas,Inactive,9/24/2021,62618.4,Low,grace.brown@example.com,7912141613,Excellent,4,false,4,4â€“5 Years
+EMP1205,Heidi,Jones,30,Admin,New York,Active,6/7/2020,70705.45,Low-Mid,heidi.jones@example.com,1509377099,Good,3,false,5,4â€“5 Years
+EMP1206,Alice,Garcia,35,Sales,New York,Pending,2/10/2022,60797.69,Low,alice.garcia@example.com,4090138068,Average,2,true,4,4â€“5 Years
 EMP1207,Charlie,Brown,40,Cloud Tech,Florida,Inactive,10/17/2023,100371,Up-Mid,charlie.brown@example.com,8477596554,Poor,1,true,2,2 Years
-EMP1208,Eva,Miller,40,Admin,Illinois,Active,9/25/2021,117591.76,High,eva.miller@example.com,5356690550,Good,3,false,4,4–5 Years
+EMP1208,Eva,Miller,40,Admin,Illinois,Active,9/25/2021,117591.76,High,eva.miller@example.com,5356690550,Good,3,false,4,4â€“5 Years
 EMP1209,David,Jones,35,DevOps,Illinois,Inactive,8/3/2022,103860.7,Up-Mid,david.jones@example.com,762091842,Average,2,true,3,3 Years
 EMP1210,Grace,Davis,30,Admin,Illinois,Active,11/22/2024,67500.22,Low-Mid,grace.davis@example.com,5797863049,Average,2,true,1,1 Year
 EMP1211,Frank,Davis,N/a,Cloud Tech,Nevada,Pending,10/9/2024,58727.44,Low,frank.davis@example.com,5057397690,Poor,1,true,1,1 Year
 EMP1212,Charlie,Jones,35,Finance,Illinois,Active,8/28/2024,80623.08,Low-Mid,charlie.jones@example.com,5671649327,Excellent,4,true,1,1 Year
-EMP1213,David,Davis,40,HR,Texas,Inactive,4/19/2020,77751.78,Low-Mid,david.davis@example.com,9802714871,Excellent,4,false,5,4–5 Years
-EMP1214,Grace,Williams,25,HR,New York,Active,10/14/2021,115157.81,High,grace.williams@example.com,7178333210,Good,3,false,4,4–5 Years
+EMP1213,David,Davis,40,HR,Texas,Inactive,4/19/2020,77751.78,Low-Mid,david.davis@example.com,9802714871,Excellent,4,false,5,4â€“5 Years
+EMP1214,Grace,Williams,25,HR,New York,Active,10/14/2021,115157.81,High,grace.williams@example.com,7178333210,Good,3,false,4,4â€“5 Years
 EMP1215,Frank,Jones,30,Admin,Texas,Inactive,8/26/2024,83071.85,Low-Mid,frank.jones@example.com,6025643470,Poor,1,false,1,1 Year
 EMP1216,Heidi,Brown,40,Sales,Texas,Active,2/8/2020,67914.67,Low-Mid,heidi.brown@example.com,2871539914,Excellent,4,true,6,5+ Years
-EMP1217,Grace,Jones,25,HR,New York,Inactive,9/6/2020,53342.46,Low,grace.jones@example.com,6686334140,Poor,1,false,5,4–5 Years
+EMP1217,Grace,Jones,25,HR,New York,Inactive,9/6/2020,53342.46,Low,grace.jones@example.com,6686334140,Poor,1,false,5,4â€“5 Years
 EMP1218,Heidi,Garcia,25,Cloud Tech,Florida,Pending,1/2/2023,51150.47,Low,heidi.garcia@example.com,1159319524,Excellent,4,false,3,3 Years
 EMP1219,David,Davis,30,HR,Florida,Active,6/13/2023,74697.12,Low-Mid,david.davis@example.com,6904098365,Average,2,true,2,2 Years
 EMP1220,Charlie,Williams,25,Sales,California,Active,12/13/2022,88085.74,Up-Mid,charlie.williams@example.com,5528993159,Excellent,4,true,3,3 Years
 EMP1221,Alice,Williams,40,Finance,Texas,Pending,3/3/2022,118672.76,High,alice.williams@example.com,8752437728,Poor,1,false,3,3 Years
 EMP1222,Alice,Miller,35,Cloud Tech,California,Active,2/10/2024,95997.31,Up-Mid,alice.miller@example.com,4209548148,Average,2,false,2,2 Years
-EMP1223,Frank,Brown,30,Cloud Tech,California,Pending,11/24/2021,106945.62,High,frank.brown@example.com,7374605232,Average,2,false,4,4–5 Years
-EMP1224,Heidi,Johnson,40,DevOps,New York,Active,5/9/2020,100123.15,Up-Mid,heidi.johnson@example.com,276420864,Average,2,false,5,4–5 Years
+EMP1223,Frank,Brown,30,Cloud Tech,California,Pending,11/24/2021,106945.62,High,frank.brown@example.com,7374605232,Average,2,false,4,4â€“5 Years
+EMP1224,Heidi,Johnson,40,DevOps,New York,Active,5/9/2020,100123.15,Up-Mid,heidi.johnson@example.com,276420864,Average,2,false,5,4â€“5 Years
 EMP1225,Alice,Johnson,35,Admin,Texas,Active,12/19/2024,52933.42,Low,alice.johnson@example.com,6756618442,Poor,1,true,1,1 Year
 EMP1226,Grace,Jones,N/a,Finance,California,Active,3/22/2024,95283.03,Up-Mid,grace.jones@example.com,8612590471,Good,3,false,1,1 Year
 EMP1227,Alice,Miller,35,HR,Texas,Inactive,6/13/2022,112264.06,High,alice.miller@example.com,9277423329,Good,3,false,3,3 Years
@@ -232,93 +232,93 @@ EMP1229,Eva,Jones,25,DevOps,Florida,Active,5/31/2022,92171.73,Up-Mid,eva.jones@e
 EMP1230,Eva,Miller,35,Cloud Tech,Texas,Inactive,9/15/2023,70694.8,Low-Mid,eva.miller@example.com,3013674925,Average,2,true,2,2 Years
 EMP1231,Grace,Brown,30,DevOps,Florida,Inactive,7/4/2022,52964.86,Low,grace.brown@example.com,1764750110,Good,3,true,3,3 Years
 EMP1232,Frank,Brown,N/a,Finance,California,Pending,6/8/2024,116353.31,High,frank.brown@example.com,1783099973,Poor,1,true,1,1 Year
-EMP1233,Grace,Brown,35,Sales,Nevada,Pending,11/23/2020,116695.26,High,grace.brown@example.com,1926764920,Good,3,false,5,4–5 Years
+EMP1233,Grace,Brown,35,Sales,Nevada,Pending,11/23/2020,116695.26,High,grace.brown@example.com,1926764920,Good,3,false,5,4â€“5 Years
 EMP1234,Heidi,Brown,25,Admin,Texas,Active,5/13/2024,95161.4,Up-Mid,heidi.brown@example.com,5182606887,Excellent,4,false,1,1 Year
-EMP1235,Alice,Brown,N/a,Admin,Nevada,Inactive,1/29/2022,76040.94,Low-Mid,alice.brown@example.com,7189813128,Good,3,true,4,4–5 Years
+EMP1235,Alice,Brown,N/a,Admin,Nevada,Inactive,1/29/2022,76040.94,Low-Mid,alice.brown@example.com,7189813128,Good,3,true,4,4â€“5 Years
 EMP1236,Charlie,Miller,N/a,HR,Florida,Inactive,8/23/2023,69508.28,Low-Mid,charlie.miller@example.com,2087510292,Good,3,false,2,2 Years
 EMP1237,Alice,Miller,30,Finance,Illinois,Inactive,2/24/2023,58243.27,Low,alice.miller@example.com,2184011844,Average,2,false,3,3 Years
 EMP1238,Heidi,Williams,30,Sales,California,Pending,10/2/2022,64012.48,Low,heidi.williams@example.com,8260340847,Poor,1,true,3,3 Years
-EMP1239,Bob,Garcia,40,Admin,Nevada,Inactive,6/28/2020,106735.93,High,bob.garcia@example.com,7297585987,Average,2,true,5,4–5 Years
+EMP1239,Bob,Garcia,40,Admin,Nevada,Inactive,6/28/2020,106735.93,High,bob.garcia@example.com,7297585987,Average,2,true,5,4â€“5 Years
 EMP1240,Frank,Johnson,35,DevOps,Texas,Pending,1/15/2023,70325.36,Low-Mid,frank.johnson@example.com,3103032431,Average,2,false,3,3 Years
-EMP1241,Charlie,Davis,30,HR,Illinois,Active,9/5/2020,118959.28,High,charlie.davis@example.com,9839542960,Average,2,true,5,4–5 Years
+EMP1241,Charlie,Davis,30,HR,Illinois,Active,9/5/2020,118959.28,High,charlie.davis@example.com,9839542960,Average,2,true,5,4â€“5 Years
 EMP1242,David,Brown,40,Cloud Tech,California,Pending,3/18/2023,75823.78,Low-Mid,david.brown@example.com,8446267145,Average,2,false,2,2 Years
 EMP1243,Charlie,Smith,N/a,Cloud Tech,Texas,Inactive,3/26/2022,119971.65,High,charlie.smith@example.com,2831435988,Average,2,false,3,3 Years
-EMP1244,Grace,Davis,40,Sales,Texas,Active,10/11/2021,94963.7,Up-Mid,grace.davis@example.com,2625660930,Good,3,false,4,4–5 Years
-EMP1245,Frank,Miller,30,Sales,Nevada,Pending,1/7/2021,103744.71,Up-Mid,frank.miller@example.com,4181861514,Average,2,false,5,4–5 Years
-EMP1246,Alice,Smith,25,Sales,New York,Inactive,12/3/2020,61337.69,Low,alice.smith@example.com,5423401635,Average,2,true,5,4–5 Years
-EMP1247,David,Smith,35,Sales,California,Active,5/28/2021,63741.13,Low,david.smith@example.com,1128497184,Poor,1,true,4,4–5 Years
+EMP1244,Grace,Davis,40,Sales,Texas,Active,10/11/2021,94963.7,Up-Mid,grace.davis@example.com,2625660930,Good,3,false,4,4â€“5 Years
+EMP1245,Frank,Miller,30,Sales,Nevada,Pending,1/7/2021,103744.71,Up-Mid,frank.miller@example.com,4181861514,Average,2,false,5,4â€“5 Years
+EMP1246,Alice,Smith,25,Sales,New York,Inactive,12/3/2020,61337.69,Low,alice.smith@example.com,5423401635,Average,2,true,5,4â€“5 Years
+EMP1247,David,Smith,35,Sales,California,Active,5/28/2021,63741.13,Low,david.smith@example.com,1128497184,Poor,1,true,4,4â€“5 Years
 EMP1248,Eva,Smith,30,DevOps,California,Pending,12/28/2022,56539.99,Low,eva.smith@example.com,9484910255,Excellent,4,true,3,3 Years
 EMP1249,Charlie,Williams,30,DevOps,Illinois,Pending,5/24/2023,73633.37,Low-Mid,charlie.williams@example.com,2588967923,Good,3,true,2,2 Years
 EMP1250,Alice,Miller,25,Cloud Tech,Texas,Pending,4/28/2024,90373.99,Up-Mid,alice.miller@example.com,822269404,Good,3,false,1,1 Year
 EMP1251,Grace,Smith,N/a,DevOps,Texas,Inactive,12/25/2024,93901.48,Up-Mid,grace.smith@example.com,3967275783,Good,3,false,1,1 Year
-EMP1252,Eva,Brown,40,Admin,Nevada,Inactive,9/1/2021,81748.09,Low-Mid,eva.brown@example.com,4683414650,Average,2,true,4,4–5 Years
-EMP1253,Charlie,Jones,40,Finance,Florida,Inactive,2/21/2021,73813.48,Low-Mid,charlie.jones@example.com,1131290147,Average,2,false,5,4–5 Years
+EMP1252,Eva,Brown,40,Admin,Nevada,Inactive,9/1/2021,81748.09,Low-Mid,eva.brown@example.com,4683414650,Average,2,true,4,4â€“5 Years
+EMP1253,Charlie,Jones,40,Finance,Florida,Inactive,2/21/2021,73813.48,Low-Mid,charlie.jones@example.com,1131290147,Average,2,false,5,4â€“5 Years
 EMP1254,Frank,Smith,35,Finance,New York,Inactive,11/20/2022,89315.59,Up-Mid,frank.smith@example.com,7068277880,Average,2,false,3,3 Years
-EMP1255,Heidi,Williams,25,HR,Florida,Active,10/15/2020,56776.82,Low,heidi.williams@example.com,6093068537,Poor,1,false,5,4–5 Years
+EMP1255,Heidi,Williams,25,HR,Florida,Active,10/15/2020,56776.82,Low,heidi.williams@example.com,6093068537,Poor,1,false,5,4â€“5 Years
 EMP1256,Grace,Davis,N/a,Finance,New York,Active,7/24/2024,72920.51,Low-Mid,grace.davis@example.com,9097283214,Excellent,4,true,1,1 Year
 EMP1257,Frank,Miller,30,Admin,Florida,Pending,8/14/2022,84913.18,Low-Mid,frank.miller@example.com,2850676250,Average,2,true,3,3 Years
-EMP1258,Alice,Garcia,25,Finance,Illinois,Inactive,5/8/2021,65060.11,Low-Mid,alice.garcia@example.com,5381447442,Excellent,4,true,4,4–5 Years
+EMP1258,Alice,Garcia,25,Finance,Illinois,Inactive,5/8/2021,65060.11,Low-Mid,alice.garcia@example.com,5381447442,Excellent,4,true,4,4â€“5 Years
 EMP1259,Alice,Williams,35,Finance,Illinois,Pending,10/9/2023,82941.08,Low-Mid,alice.williams@example.com,963480796,Poor,1,false,2,2 Years
-EMP1260,Bob,Smith,40,Admin,California,Pending,1/19/2022,103469.97,Up-Mid,bob.smith@example.com,509754509,Good,3,true,4,4–5 Years
-EMP1261,Grace,Miller,25,Sales,Illinois,Active,1/12/2022,88725.6,Up-Mid,grace.miller@example.com,5265016730,Average,2,true,4,4–5 Years
+EMP1260,Bob,Smith,40,Admin,California,Pending,1/19/2022,103469.97,Up-Mid,bob.smith@example.com,509754509,Good,3,true,4,4â€“5 Years
+EMP1261,Grace,Miller,25,Sales,Illinois,Active,1/12/2022,88725.6,Up-Mid,grace.miller@example.com,5265016730,Average,2,true,4,4â€“5 Years
 EMP1262,Heidi,Jones,N/a,HR,Illinois,Pending,6/5/2023,58316.77,Low,heidi.jones@example.com,8826170242,Excellent,4,true,2,2 Years
 EMP1263,Grace,Smith,35,HR,Illinois,Inactive,3/26/2024,60098.72,Low,grace.smith@example.com,7654562840,Excellent,4,true,1,1 Year
-EMP1264,Grace,Williams,N/a,Cloud Tech,Texas,Active,10/7/2020,99951.43,Up-Mid,grace.williams@example.com,7722560530,Average,2,true,5,4–5 Years
-EMP1265,Heidi,Johnson,30,Sales,Illinois,Active,11/2/2021,115195.81,High,heidi.johnson@example.com,3402665022,Good,3,true,4,4–5 Years
-EMP1266,Grace,Brown,N/a,DevOps,California,Pending,11/19/2021,85512.05,Up-Mid,grace.brown@example.com,7416787255,Good,3,false,4,4–5 Years
-EMP1267,Heidi,Garcia,N/a,HR,Florida,Active,1/24/2022,73186.77,Low-Mid,heidi.garcia@example.com,8621102257,Good,3,false,4,4–5 Years
+EMP1264,Grace,Williams,N/a,Cloud Tech,Texas,Active,10/7/2020,99951.43,Up-Mid,grace.williams@example.com,7722560530,Average,2,true,5,4â€“5 Years
+EMP1265,Heidi,Johnson,30,Sales,Illinois,Active,11/2/2021,115195.81,High,heidi.johnson@example.com,3402665022,Good,3,true,4,4â€“5 Years
+EMP1266,Grace,Brown,N/a,DevOps,California,Pending,11/19/2021,85512.05,Up-Mid,grace.brown@example.com,7416787255,Good,3,false,4,4â€“5 Years
+EMP1267,Heidi,Garcia,N/a,HR,Florida,Active,1/24/2022,73186.77,Low-Mid,heidi.garcia@example.com,8621102257,Good,3,false,4,4â€“5 Years
 EMP1268,Grace,Davis,N/a,HR,Nevada,Pending,7/12/2023,51865.3,Low,grace.davis@example.com,305690673,Poor,1,true,2,2 Years
 EMP1269,David,Williams,25,Sales,Florida,Active,12/9/2022,94031.77,Up-Mid,david.williams@example.com,4716392822,Excellent,4,true,3,3 Years
 EMP1270,Grace,Miller,30,DevOps,New York,Active,3/18/2023,116374.36,High,grace.miller@example.com,4143637188,Excellent,4,false,2,2 Years
 EMP1271,Alice,Garcia,40,HR,Florida,Active,4/25/2022,98335.02,Up-Mid,alice.garcia@example.com,2392312603,Excellent,4,false,3,3 Years
-EMP1272,Heidi,Garcia,25,DevOps,New York,Pending,2/28/2021,89262.07,Up-Mid,heidi.garcia@example.com,3260931065,Poor,1,true,5,4–5 Years
+EMP1272,Heidi,Garcia,25,DevOps,New York,Pending,2/28/2021,89262.07,Up-Mid,heidi.garcia@example.com,3260931065,Poor,1,true,5,4â€“5 Years
 EMP1273,Heidi,Garcia,N/a,Finance,California,Active,7/30/2022,113848.69,High,heidi.garcia@example.com,8433567085,Excellent,4,true,3,3 Years
-EMP1274,Frank,Smith,35,Sales,Florida,Active,5/19/2021,69530.45,Low-Mid,frank.smith@example.com,414545634,Poor,1,true,4,4–5 Years
+EMP1274,Frank,Smith,35,Sales,Florida,Active,5/19/2021,69530.45,Low-Mid,frank.smith@example.com,414545634,Poor,1,true,4,4â€“5 Years
 EMP1275,Eva,Brown,35,DevOps,New York,Pending,12/14/2023,84230.22,Low-Mid,eva.brown@example.com,200053473,Good,3,true,2,2 Years
 EMP1276,Eva,Smith,35,Cloud Tech,Illinois,Pending,1/17/2023,76578.59,Low-Mid,eva.smith@example.com,9162475540,Average,2,false,3,3 Years
 EMP1277,Frank,Miller,30,HR,Texas,Inactive,1/2/2024,55532.06,Low,frank.miller@example.com,1082555988,Excellent,4,true,2,2 Years
-EMP1278,Eva,Smith,40,Admin,New York,Pending,7/9/2021,115311.68,High,eva.smith@example.com,5343961128,Excellent,4,true,4,4–5 Years
-EMP1279,Charlie,Johnson,25,Sales,Nevada,Pending,5/5/2021,66972.06,Low-Mid,charlie.johnson@example.com,1093371188,Good,3,true,4,4–5 Years
-EMP1280,David,Brown,30,Cloud Tech,Texas,Inactive,11/7/2021,100215.06,Up-Mid,david.brown@example.com,5473820235,Average,2,true,4,4–5 Years
+EMP1278,Eva,Smith,40,Admin,New York,Pending,7/9/2021,115311.68,High,eva.smith@example.com,5343961128,Excellent,4,true,4,4â€“5 Years
+EMP1279,Charlie,Johnson,25,Sales,Nevada,Pending,5/5/2021,66972.06,Low-Mid,charlie.johnson@example.com,1093371188,Good,3,true,4,4â€“5 Years
+EMP1280,David,Brown,30,Cloud Tech,Texas,Inactive,11/7/2021,100215.06,Up-Mid,david.brown@example.com,5473820235,Average,2,true,4,4â€“5 Years
 EMP1281,Charlie,Brown,25,Sales,New York,Inactive,8/30/2023,115452.25,High,charlie.brown@example.com,8485571616,Poor,1,false,2,2 Years
 EMP1282,Heidi,Miller,30,HR,California,Inactive,8/15/2023,54141.38,Low,heidi.miller@example.com,6880294239,Average,2,false,2,2 Years
-EMP1283,David,Davis,N/a,DevOps,Nevada,Active,12/24/2020,79251.95,Low-Mid,david.davis@example.com,9036788126,Good,3,false,5,4–5 Years
+EMP1283,David,Davis,N/a,DevOps,Nevada,Active,12/24/2020,79251.95,Low-Mid,david.davis@example.com,9036788126,Good,3,false,5,4â€“5 Years
 EMP1284,Alice,Johnson,40,Finance,New York,Pending,11/21/2024,114822.78,High,alice.johnson@example.com,8686694319,Good,3,true,1,1 Year
-EMP1285,Alice,Williams,35,Sales,Illinois,Active,11/17/2021,69919.32,Low-Mid,alice.williams@example.com,2939087883,Average,2,true,4,4–5 Years
-EMP1286,Heidi,Smith,30,Sales,Florida,Inactive,1/29/2021,106616.97,High,heidi.smith@example.com,4344812307,Poor,1,false,5,4–5 Years
+EMP1285,Alice,Williams,35,Sales,Illinois,Active,11/17/2021,69919.32,Low-Mid,alice.williams@example.com,2939087883,Average,2,true,4,4â€“5 Years
+EMP1286,Heidi,Smith,30,Sales,Florida,Inactive,1/29/2021,106616.97,High,heidi.smith@example.com,4344812307,Poor,1,false,5,4â€“5 Years
 EMP1287,Heidi,Jones,35,DevOps,New York,Active,2/17/2024,73597.85,Low-Mid,heidi.jones@example.com,3402424032,Poor,1,true,2,2 Years
 EMP1288,David,Smith,30,Sales,Nevada,Inactive,8/20/2024,79939.23,Low-Mid,david.smith@example.com,8105955183,Excellent,4,true,1,1 Year
-EMP1289,Grace,Garcia,25,Admin,New York,Inactive,10/24/2021,N/A,Unknown,grace.garcia@example.com,2694500533,Poor,1,false,4,4–5 Years
-EMP1290,Grace,Smith,30,Finance,California,Inactive,9/10/2021,90772.25,Up-Mid,grace.smith@example.com,2408916497,Average,2,false,4,4–5 Years
+EMP1289,Grace,Garcia,25,Admin,New York,Inactive,10/24/2021,N/A,Unknown,grace.garcia@example.com,2694500533,Poor,1,false,4,4â€“5 Years
+EMP1290,Grace,Smith,30,Finance,California,Inactive,9/10/2021,90772.25,Up-Mid,grace.smith@example.com,2408916497,Average,2,false,4,4â€“5 Years
 EMP1291,Eva,Williams,35,DevOps,New York,Active,9/29/2023,58275.74,Low,eva.williams@example.com,3735439626,Good,3,false,2,2 Years
-EMP1292,Grace,Smith,N/a,DevOps,California,Pending,8/28/2020,94709.79,Up-Mid,grace.smith@example.com,3652717271,Excellent,4,false,5,4–5 Years
+EMP1292,Grace,Smith,N/a,DevOps,California,Pending,8/28/2020,94709.79,Up-Mid,grace.smith@example.com,3652717271,Excellent,4,false,5,4â€“5 Years
 EMP1293,Frank,Johnson,N/a,Admin,New York,Active,9/6/2022,60722.99,Low,frank.johnson@example.com,2397240421,Excellent,4,true,3,3 Years
 EMP1294,Frank,Johnson,40,DevOps,Illinois,Inactive,3/31/2024,87626.24,Up-Mid,frank.johnson@example.com,6931216375,Good,3,true,1,1 Year
 EMP1295,David,Brown,30,DevOps,Illinois,Active,12/12/2022,81272.36,Low-Mid,david.brown@example.com,1820916600,Poor,1,false,3,3 Years
 EMP1296,Bob,Miller,N/a,Cloud Tech,Texas,Pending,11/1/2022,64150.97,Low,bob.miller@example.com,23142899,Good,3,true,3,3 Years
 EMP1297,Charlie,Davis,35,Sales,Florida,Active,10/25/2023,64378.1,Low,charlie.davis@example.com,1851327971,Poor,1,false,2,2 Years
-EMP1298,Bob,Jones,N/a,Finance,Texas,Inactive,9/27/2020,85927.35,Up-Mid,bob.jones@example.com,4572308480,Good,3,false,5,4–5 Years
+EMP1298,Bob,Jones,N/a,Finance,Texas,Inactive,9/27/2020,85927.35,Up-Mid,bob.jones@example.com,4572308480,Good,3,false,5,4â€“5 Years
 EMP1299,Alice,Garcia,N/a,Finance,Nevada,Inactive,1/21/2024,51523.93,Low,alice.garcia@example.com,18418619,Average,2,true,2,2 Years
 EMP1300,Alice,Smith,30,Sales,Texas,Active,5/17/2022,74117.02,Low-Mid,alice.smith@example.com,3036625435,Poor,1,false,3,3 Years
 EMP1301,Alice,Smith,25,Finance,Texas,Inactive,4/17/2022,62598.69,Low,alice.smith@example.com,1721314518,Average,2,true,3,3 Years
-EMP1302,Grace,Williams,35,Finance,Florida,Inactive,2/8/2022,55617.5,Low,grace.williams@example.com,5151092267,Excellent,4,true,4,4–5 Years
+EMP1302,Grace,Williams,35,Finance,Florida,Inactive,2/8/2022,55617.5,Low,grace.williams@example.com,5151092267,Excellent,4,true,4,4â€“5 Years
 EMP1303,Charlie,Miller,35,Cloud Tech,New York,Pending,3/15/2022,87018.98,Up-Mid,charlie.miller@example.com,5926249450,Good,3,true,3,3 Years
 EMP1304,David,Johnson,25,Cloud Tech,California,Inactive,10/11/2023,100336.58,Up-Mid,david.johnson@example.com,4754102251,Excellent,4,true,2,2 Years
-EMP1305,Grace,Jones,30,Admin,Florida,Inactive,11/13/2020,69295.48,Low-Mid,grace.jones@example.com,6771196420,Excellent,4,false,5,4–5 Years
+EMP1305,Grace,Jones,30,Admin,Florida,Inactive,11/13/2020,69295.48,Low-Mid,grace.jones@example.com,6771196420,Excellent,4,false,5,4â€“5 Years
 EMP1306,Bob,Brown,25,DevOps,Florida,Pending,4/17/2024,115536.66,High,bob.brown@example.com,5226557675,Excellent,4,true,1,1 Year
-EMP1307,David,Johnson,30,Cloud Tech,Texas,Pending,3/9/2020,81250.87,Low-Mid,david.johnson@example.com,9523668787,Excellent,4,false,5,4–5 Years
+EMP1307,David,Johnson,30,Cloud Tech,Texas,Pending,3/9/2020,81250.87,Low-Mid,david.johnson@example.com,9523668787,Excellent,4,false,5,4â€“5 Years
 EMP1308,Alice,Garcia,30,DevOps,Texas,Inactive,6/17/2022,66403.75,Low-Mid,alice.garcia@example.com,7883619688,Good,3,false,3,3 Years
 EMP1309,Alice,Miller,30,Sales,California,Active,7/28/2024,114147.79,High,alice.miller@example.com,3135030586,Excellent,4,false,1,1 Year
 EMP1310,Frank,Garcia,30,HR,New York,Pending,12/3/2022,65472.99,Low-Mid,frank.garcia@example.com,2105524727,Good,3,false,3,3 Years
 EMP1311,Alice,Davis,N/a,Sales,Nevada,Active,7/6/2023,97512.51,Up-Mid,alice.davis@example.com,6333021259,Good,3,true,2,2 Years
 EMP1312,Alice,Brown,35,DevOps,Nevada,Inactive,5/28/2024,86712.41,Up-Mid,alice.brown@example.com,6501917919,Average,2,true,1,1 Year
 EMP1313,Grace,Davis,30,HR,Florida,Active,3/25/2024,87654.98,Up-Mid,grace.davis@example.com,2521310961,Poor,1,false,1,1 Year
-EMP1314,David,Williams,35,DevOps,New York,Inactive,4/28/2020,89367.02,Up-Mid,david.williams@example.com,2728476569,Poor,1,false,5,4–5 Years
-EMP1315,Charlie,Garcia,40,Admin,California,Active,11/7/2021,95269.41,Up-Mid,charlie.garcia@example.com,4120092819,Good,3,true,4,4–5 Years
-EMP1316,Frank,Williams,25,Sales,Nevada,Active,4/15/2020,68792.31,Low-Mid,frank.williams@example.com,6678498435,Average,2,false,5,4–5 Years
+EMP1314,David,Williams,35,DevOps,New York,Inactive,4/28/2020,89367.02,Up-Mid,david.williams@example.com,2728476569,Poor,1,false,5,4â€“5 Years
+EMP1315,Charlie,Garcia,40,Admin,California,Active,11/7/2021,95269.41,Up-Mid,charlie.garcia@example.com,4120092819,Good,3,true,4,4â€“5 Years
+EMP1316,Frank,Williams,25,Sales,Nevada,Active,4/15/2020,68792.31,Low-Mid,frank.williams@example.com,6678498435,Average,2,false,5,4â€“5 Years
 EMP1317,Alice,Smith,25,Admin,Illinois,Pending,10/7/2023,89119.53,Up-Mid,alice.smith@example.com,2418623689,Good,3,true,2,2 Years
 EMP1318,Frank,Davis,35,Cloud Tech,New York,Active,2/27/2024,58212.13,Low,frank.davis@example.com,3628917755,Good,3,false,2,2 Years
-EMP1319,Heidi,Miller,30,DevOps,Illinois,Pending,2/22/2021,77764.24,Low-Mid,heidi.miller@example.com,6205634110,Good,3,true,5,4–5 Years
+EMP1319,Heidi,Miller,30,DevOps,Illinois,Pending,2/22/2021,77764.24,Low-Mid,heidi.miller@example.com,6205634110,Good,3,true,5,4â€“5 Years
 EMP1320,Frank,Garcia,35,Finance,Florida,Pending,8/21/2023,75148.17,Low-Mid,frank.garcia@example.com,5950342810,Average,2,false,2,2 Years
 EMP1321,Heidi,Jones,40,Cloud Tech,Nevada,Inactive,4/8/2024,108781.18,High,heidi.jones@example.com,3904383033,Poor,1,false,1,1 Year
 EMP1322,Frank,Brown,35,Finance,Texas,Pending,11/4/2024,65489.19,Low-Mid,frank.brown@example.com,1990970050,Average,2,true,1,1 Year
@@ -326,72 +326,72 @@ EMP1323,Eva,Johnson,N/a,Sales,Illinois,Pending,5/5/2022,70663.46,Low-Mid,eva.joh
 EMP1324,David,Miller,40,Sales,New York,Inactive,2/1/2023,95822.56,Up-Mid,david.miller@example.com,2156818208,Average,2,false,3,3 Years
 EMP1325,Eva,Miller,40,DevOps,Nevada,Pending,10/1/2022,82258.03,Low-Mid,eva.miller@example.com,6790422710,Average,2,true,3,3 Years
 EMP1326,Frank,Williams,30,Admin,Nevada,Pending,9/27/2022,62883.34,Low,frank.williams@example.com,3322889856,Average,2,false,3,3 Years
-EMP1327,Alice,Davis,N/a,Cloud Tech,Texas,Pending,4/9/2020,103503.72,Up-Mid,alice.davis@example.com,2545960632,Average,2,true,5,4–5 Years
-EMP1328,David,Garcia,25,DevOps,New York,Active,3/23/2021,85401.3,Up-Mid,david.garcia@example.com,9912971023,Poor,1,true,4,4–5 Years
+EMP1327,Alice,Davis,N/a,Cloud Tech,Texas,Pending,4/9/2020,103503.72,Up-Mid,alice.davis@example.com,2545960632,Average,2,true,5,4â€“5 Years
+EMP1328,David,Garcia,25,DevOps,New York,Active,3/23/2021,85401.3,Up-Mid,david.garcia@example.com,9912971023,Poor,1,true,4,4â€“5 Years
 EMP1329,Heidi,Garcia,40,Cloud Tech,Texas,Pending,2/3/2023,N/A,Unknown,heidi.garcia@example.com,8171752420,Excellent,4,false,3,3 Years
 EMP1330,Eva,Smith,N/a,HR,Texas,Pending,7/23/2024,98850.14,Up-Mid,eva.smith@example.com,4955112746,Poor,1,false,1,1 Year
-EMP1331,Charlie,Smith,25,Cloud Tech,Illinois,Active,5/8/2021,63435.24,Low,charlie.smith@example.com,4721970545,Poor,1,false,4,4–5 Years
+EMP1331,Charlie,Smith,25,Cloud Tech,Illinois,Active,5/8/2021,63435.24,Low,charlie.smith@example.com,4721970545,Poor,1,false,4,4â€“5 Years
 EMP1332,Frank,Brown,35,Finance,Texas,Inactive,4/11/2022,82129.84,Low-Mid,frank.brown@example.com,6927589550,Average,2,false,3,3 Years
 EMP1333,David,Williams,35,DevOps,Texas,Pending,10/23/2024,95492.61,Up-Mid,david.williams@example.com,6874090379,Good,3,false,1,1 Year
-EMP1334,Grace,Miller,40,Finance,Illinois,Inactive,4/24/2020,94572.37,Up-Mid,grace.miller@example.com,2146296135,Good,3,false,5,4–5 Years
+EMP1334,Grace,Miller,40,Finance,Illinois,Inactive,4/24/2020,94572.37,Up-Mid,grace.miller@example.com,2146296135,Good,3,false,5,4â€“5 Years
 EMP1335,Bob,Garcia,40,Finance,Nevada,Inactive,3/4/2023,118413.05,High,bob.garcia@example.com,7157787111,Poor,1,false,2,2 Years
 EMP1336,Alice,Jones,30,Admin,Nevada,Pending,8/31/2022,68976.65,Low-Mid,alice.jones@example.com,1663651558,Poor,1,true,3,3 Years
-EMP1337,Eva,Williams,N/a,Sales,Nevada,Active,1/2/2021,115013.65,High,eva.williams@example.com,7371470826,Average,2,false,5,4–5 Years
-EMP1338,David,Brown,N/a,Admin,Nevada,Inactive,6/6/2020,70949.38,Low-Mid,david.brown@example.com,2359096055,Poor,1,true,5,4–5 Years
-EMP1339,Grace,Brown,N/a,HR,Florida,Pending,10/13/2020,105334.87,High,grace.brown@example.com,7303064420,Average,2,false,5,4–5 Years
-EMP1340,Bob,Williams,N/a,DevOps,California,Active,7/19/2020,80596.18,Low-Mid,bob.williams@example.com,2146147682,Good,3,false,5,4–5 Years
+EMP1337,Eva,Williams,N/a,Sales,Nevada,Active,1/2/2021,115013.65,High,eva.williams@example.com,7371470826,Average,2,false,5,4â€“5 Years
+EMP1338,David,Brown,N/a,Admin,Nevada,Inactive,6/6/2020,70949.38,Low-Mid,david.brown@example.com,2359096055,Poor,1,true,5,4â€“5 Years
+EMP1339,Grace,Brown,N/a,HR,Florida,Pending,10/13/2020,105334.87,High,grace.brown@example.com,7303064420,Average,2,false,5,4â€“5 Years
+EMP1340,Bob,Williams,N/a,DevOps,California,Active,7/19/2020,80596.18,Low-Mid,bob.williams@example.com,2146147682,Good,3,false,5,4â€“5 Years
 EMP1341,Frank,Brown,N/a,Sales,Illinois,Inactive,5/3/2024,72846.37,Low-Mid,frank.brown@example.com,4201654234,Good,3,true,1,1 Year
-EMP1342,Heidi,Williams,40,Admin,California,Pending,2/7/2022,80229.36,Low-Mid,heidi.williams@example.com,6778265959,Excellent,4,false,4,4–5 Years
+EMP1342,Heidi,Williams,40,Admin,California,Pending,2/7/2022,80229.36,Low-Mid,heidi.williams@example.com,6778265959,Excellent,4,false,4,4â€“5 Years
 EMP1343,Grace,Johnson,25,Sales,California,Active,12/31/2023,55145.47,Low,grace.johnson@example.com,8931992549,Good,3,false,2,2 Years
-EMP1344,Grace,Williams,30,DevOps,Florida,Inactive,1/8/2022,N/A,Unknown,grace.williams@example.com,2727516479,Poor,1,true,4,4–5 Years
-EMP1345,Eva,Davis,40,HR,California,Active,9/28/2020,56110.81,Low,eva.davis@example.com,7279103367,Good,3,false,5,4–5 Years
+EMP1344,Grace,Williams,30,DevOps,Florida,Inactive,1/8/2022,N/A,Unknown,grace.williams@example.com,2727516479,Poor,1,true,4,4â€“5 Years
+EMP1345,Eva,Davis,40,HR,California,Active,9/28/2020,56110.81,Low,eva.davis@example.com,7279103367,Good,3,false,5,4â€“5 Years
 EMP1346,Grace,Williams,25,Cloud Tech,Texas,Inactive,2/9/2023,56514.5,Low,grace.williams@example.com,2963533904,Average,2,false,3,3 Years
 EMP1347,Frank,Brown,40,Cloud Tech,California,Inactive,3/5/2022,104541.84,Up-Mid,frank.brown@example.com,5044817765,Good,3,false,3,3 Years
-EMP1348,David,Garcia,N/a,Sales,New York,Pending,2/18/2022,61865.12,Low,david.garcia@example.com,5586851275,Excellent,4,true,4,4–5 Years
+EMP1348,David,Garcia,N/a,Sales,New York,Pending,2/18/2022,61865.12,Low,david.garcia@example.com,5586851275,Excellent,4,true,4,4â€“5 Years
 EMP1349,Eva,Davis,40,Admin,Texas,Active,6/9/2022,69317.33,Low-Mid,eva.davis@example.com,5289286645,Good,3,false,3,3 Years
 EMP1350,Bob,Brown,35,HR,New York,Pending,7/4/2023,84706.17,Low-Mid,bob.brown@example.com,4911110960,Average,2,false,2,2 Years
 EMP1351,Heidi,Smith,25,Admin,California,Active,3/21/2022,73255.21,Low-Mid,heidi.smith@example.com,7981789045,Average,2,false,3,3 Years
 EMP1352,Frank,Smith,40,HR,Florida,Pending,5/2/2023,59528.71,Low,frank.smith@example.com,3378613714,Poor,1,false,2,2 Years
-EMP1353,David,Garcia,40,HR,New York,Inactive,10/15/2021,70401.37,Low-Mid,david.garcia@example.com,7660538443,Good,3,true,4,4–5 Years
-EMP1354,Heidi,Garcia,N/a,Admin,California,Inactive,7/28/2021,107154.62,High,heidi.garcia@example.com,4630600024,Average,2,true,4,4–5 Years
-EMP1355,Bob,Davis,N/a,Admin,Illinois,Pending,1/3/2021,97719.88,Up-Mid,bob.davis@example.com,8955296385,Excellent,4,false,5,4–5 Years
-EMP1356,Heidi,Johnson,30,Finance,California,Pending,5/21/2020,107327.59,High,heidi.johnson@example.com,3960962625,Poor,1,false,5,4–5 Years
-EMP1357,Grace,Garcia,40,Admin,Nevada,Inactive,5/10/2021,67687.72,Low-Mid,grace.garcia@example.com,5826312818,Excellent,4,true,4,4–5 Years
+EMP1353,David,Garcia,40,HR,New York,Inactive,10/15/2021,70401.37,Low-Mid,david.garcia@example.com,7660538443,Good,3,true,4,4â€“5 Years
+EMP1354,Heidi,Garcia,N/a,Admin,California,Inactive,7/28/2021,107154.62,High,heidi.garcia@example.com,4630600024,Average,2,true,4,4â€“5 Years
+EMP1355,Bob,Davis,N/a,Admin,Illinois,Pending,1/3/2021,97719.88,Up-Mid,bob.davis@example.com,8955296385,Excellent,4,false,5,4â€“5 Years
+EMP1356,Heidi,Johnson,30,Finance,California,Pending,5/21/2020,107327.59,High,heidi.johnson@example.com,3960962625,Poor,1,false,5,4â€“5 Years
+EMP1357,Grace,Garcia,40,Admin,Nevada,Inactive,5/10/2021,67687.72,Low-Mid,grace.garcia@example.com,5826312818,Excellent,4,true,4,4â€“5 Years
 EMP1358,Grace,Smith,40,Cloud Tech,Florida,Pending,9/8/2022,90757.08,Up-Mid,grace.smith@example.com,6482531105,Good,3,true,3,3 Years
 EMP1359,Grace,Williams,N/a,Cloud Tech,California,Pending,7/21/2024,87583.42,Up-Mid,grace.williams@example.com,920981959,Good,3,false,1,1 Year
-EMP1360,Bob,Brown,25,Admin,Nevada,Pending,12/28/2021,61643.69,Low,bob.brown@example.com,2752334382,Good,3,true,4,4–5 Years
-EMP1361,Grace,Smith,35,Finance,Texas,Active,7/20/2020,68111.69,Low-Mid,grace.smith@example.com,6404120910,Poor,1,false,5,4–5 Years
+EMP1360,Bob,Brown,25,Admin,Nevada,Pending,12/28/2021,61643.69,Low,bob.brown@example.com,2752334382,Good,3,true,4,4â€“5 Years
+EMP1361,Grace,Smith,35,Finance,Texas,Active,7/20/2020,68111.69,Low-Mid,grace.smith@example.com,6404120910,Poor,1,false,5,4â€“5 Years
 EMP1362,David,Smith,40,HR,Florida,Inactive,4/30/2024,97568.88,Up-Mid,david.smith@example.com,7911244210,Average,2,true,1,1 Year
-EMP1363,Charlie,Johnson,35,Cloud Tech,Florida,Active,8/28/2021,79118.28,Low-Mid,charlie.johnson@example.com,7536170616,Poor,1,true,4,4–5 Years
+EMP1363,Charlie,Johnson,35,Cloud Tech,Florida,Active,8/28/2021,79118.28,Low-Mid,charlie.johnson@example.com,7536170616,Poor,1,true,4,4â€“5 Years
 EMP1364,Bob,Davis,30,HR,California,Inactive,7/21/2022,104898.9,Up-Mid,bob.davis@example.com,1366572239,Excellent,4,true,3,3 Years
 EMP1365,Frank,Davis,40,Cloud Tech,Florida,Pending,11/27/2023,81671.3,Low-Mid,frank.davis@example.com,2990155798,Poor,1,true,2,2 Years
-EMP1366,Alice,Miller,25,Cloud Tech,California,Pending,8/11/2020,97399.75,Up-Mid,alice.miller@example.com,8028413907,Excellent,4,false,5,4–5 Years
-EMP1367,David,Johnson,N/a,Admin,Illinois,Active,11/8/2021,89189.43,Up-Mid,david.johnson@example.com,882351304,Poor,1,true,4,4–5 Years
+EMP1366,Alice,Miller,25,Cloud Tech,California,Pending,8/11/2020,97399.75,Up-Mid,alice.miller@example.com,8028413907,Excellent,4,false,5,4â€“5 Years
+EMP1367,David,Johnson,N/a,Admin,Illinois,Active,11/8/2021,89189.43,Up-Mid,david.johnson@example.com,882351304,Poor,1,true,4,4â€“5 Years
 EMP1368,David,Williams,40,DevOps,New York,Active,8/4/2023,96011.55,Up-Mid,david.williams@example.com,2312447314,Average,2,true,2,2 Years
 EMP1369,David,Davis,40,Sales,Florida,Inactive,1/10/2020,99331.49,Up-Mid,david.davis@example.com,8477686341,Excellent,4,false,6,5+ Years
-EMP1370,Bob,Brown,N/a,Cloud Tech,Illinois,Active,1/19/2022,72818.94,Low-Mid,bob.brown@example.com,3461994236,Good,3,true,4,4–5 Years
+EMP1370,Bob,Brown,N/a,Cloud Tech,Illinois,Active,1/19/2022,72818.94,Low-Mid,bob.brown@example.com,3461994236,Good,3,true,4,4â€“5 Years
 EMP1371,Eva,Garcia,40,Sales,Nevada,Inactive,5/7/2023,77204.75,Low-Mid,eva.garcia@example.com,6769459195,Good,3,true,2,2 Years
-EMP1372,Bob,Johnson,35,HR,Florida,Pending,12/19/2020,106961.68,High,bob.johnson@example.com,6395517207,Poor,1,false,5,4–5 Years
-EMP1373,Eva,Garcia,N/a,Sales,Texas,Pending,10/1/2020,71923,Low-Mid,eva.garcia@example.com,4964985600,Good,3,true,5,4–5 Years
+EMP1372,Bob,Johnson,35,HR,Florida,Pending,12/19/2020,106961.68,High,bob.johnson@example.com,6395517207,Poor,1,false,5,4â€“5 Years
+EMP1373,Eva,Garcia,N/a,Sales,Texas,Pending,10/1/2020,71923,Low-Mid,eva.garcia@example.com,4964985600,Good,3,true,5,4â€“5 Years
 EMP1374,Bob,Smith,30,HR,Nevada,Active,11/12/2022,77192.43,Low-Mid,bob.smith@example.com,2562531354,Excellent,4,false,3,3 Years
 EMP1375,Grace,Brown,40,Admin,Florida,Pending,1/5/2023,98540.3,Up-Mid,grace.brown@example.com,2510505378,Good,3,false,3,3 Years
-EMP1376,Charlie,Brown,N/a,Admin,Florida,Inactive,10/14/2020,63096.9,Low,charlie.brown@example.com,5381649382,Average,2,false,5,4–5 Years
-EMP1377,Alice,Smith,35,Cloud Tech,Florida,Active,2/3/2021,107065.12,High,alice.smith@example.com,1849196654,Average,2,false,5,4–5 Years
+EMP1376,Charlie,Brown,N/a,Admin,Florida,Inactive,10/14/2020,63096.9,Low,charlie.brown@example.com,5381649382,Average,2,false,5,4â€“5 Years
+EMP1377,Alice,Smith,35,Cloud Tech,Florida,Active,2/3/2021,107065.12,High,alice.smith@example.com,1849196654,Average,2,false,5,4â€“5 Years
 EMP1378,Heidi,Johnson,40,DevOps,Florida,Inactive,12/25/2023,108792.43,High,heidi.johnson@example.com,3307704610,Poor,1,true,2,2 Years
-EMP1379,Bob,Smith,N/a,Cloud Tech,New York,Inactive,3/7/2020,69239.7,Low-Mid,bob.smith@example.com,7295963903,Excellent,4,false,5,4–5 Years
+EMP1379,Bob,Smith,N/a,Cloud Tech,New York,Inactive,3/7/2020,69239.7,Low-Mid,bob.smith@example.com,7295963903,Excellent,4,false,5,4â€“5 Years
 EMP1380,Charlie,Garcia,40,Sales,Nevada,Inactive,1/30/2023,85756.42,Up-Mid,charlie.garcia@example.com,907426087,Average,2,true,3,3 Years
 EMP1381,Eva,Miller,N/a,HR,Illinois,Active,4/5/2024,100328.62,Up-Mid,eva.miller@example.com,501716444,Average,2,true,1,1 Year
-EMP1382,Grace,Brown,25,DevOps,Nevada,Active,9/1/2021,111236.69,High,grace.brown@example.com,5618579063,Excellent,4,true,4,4–5 Years
+EMP1382,Grace,Brown,25,DevOps,Nevada,Active,9/1/2021,111236.69,High,grace.brown@example.com,5618579063,Excellent,4,true,4,4â€“5 Years
 EMP1383,Eva,Jones,35,Cloud Tech,Florida,Active,5/7/2024,106832.22,High,eva.jones@example.com,7715910299,Good,3,true,1,1 Year
 EMP1384,Frank,Jones,N/a,DevOps,Florida,Active,6/15/2023,59746.45,Low,frank.jones@example.com,2156321357,Good,3,true,2,2 Years
-EMP1385,David,Garcia,25,Sales,California,Pending,7/29/2021,91780.04,Up-Mid,david.garcia@example.com,40104144,Poor,1,true,4,4–5 Years
+EMP1385,David,Garcia,25,Sales,California,Pending,7/29/2021,91780.04,Up-Mid,david.garcia@example.com,40104144,Poor,1,true,4,4â€“5 Years
 EMP1386,Eva,Williams,35,Sales,California,Pending,10/23/2023,107062.66,High,eva.williams@example.com,9642297124,Good,3,true,2,2 Years
 EMP1387,Grace,Davis,25,HR,Nevada,Active,12/7/2023,110625.52,High,grace.davis@example.com,2967188396,Excellent,4,true,2,2 Years
-EMP1388,Frank,Smith,30,DevOps,Florida,Inactive,10/18/2020,90419.79,Up-Mid,frank.smith@example.com,7457314414,Average,2,true,5,4–5 Years
+EMP1388,Frank,Smith,30,DevOps,Florida,Inactive,10/18/2020,90419.79,Up-Mid,frank.smith@example.com,7457314414,Average,2,true,5,4â€“5 Years
 EMP1389,Grace,Smith,40,Finance,Texas,Pending,6/15/2024,111608.76,High,grace.smith@example.com,8331170302,Good,3,true,1,1 Year
 EMP1390,Eva,Williams,35,Finance,Florida,Inactive,4/6/2023,50173.12,Low,eva.williams@example.com,7637153987,Poor,1,false,2,2 Years
-EMP1391,Bob,Williams,40,DevOps,Nevada,Pending,1/3/2022,109507.44,High,bob.williams@example.com,5472812355,Good,3,false,4,4–5 Years
-EMP1392,Grace,Garcia,30,Finance,New York,Inactive,7/3/2021,72600.56,Low-Mid,grace.garcia@example.com,7983631461,Excellent,4,false,4,4–5 Years
+EMP1391,Bob,Williams,40,DevOps,Nevada,Pending,1/3/2022,109507.44,High,bob.williams@example.com,5472812355,Good,3,false,4,4â€“5 Years
+EMP1392,Grace,Garcia,30,Finance,New York,Inactive,7/3/2021,72600.56,Low-Mid,grace.garcia@example.com,7983631461,Excellent,4,false,4,4â€“5 Years
 EMP1393,Charlie,Garcia,N/a,Finance,California,Pending,4/10/2024,53388.65,Low,charlie.garcia@example.com,4912711306,Poor,1,true,1,1 Year
 EMP1394,Heidi,Williams,25,Cloud Tech,New York,Inactive,7/23/2022,50047.32,Low,heidi.williams@example.com,2407875417,Good,3,false,3,3 Years
 EMP1395,David,Brown,30,DevOps,California,Active,11/25/2024,115290.79,High,david.brown@example.com,1563268684,Poor,1,false,1,1 Year
@@ -399,86 +399,86 @@ EMP1396,Frank,Garcia,35,Cloud Tech,California,Pending,8/21/2023,61586.76,Low,fra
 EMP1397,Eva,Miller,30,Finance,Nevada,Active,12/12/2023,56662.86,Low,eva.miller@example.com,3629489785,Average,2,true,2,2 Years
 EMP1398,Bob,Garcia,30,Sales,New York,Pending,10/24/2023,N/A,Unknown,bob.garcia@example.com,1031310093,Excellent,4,true,2,2 Years
 EMP1399,Frank,Smith,25,Finance,Nevada,Active,9/5/2022,54957.98,Low,frank.smith@example.com,3181439665,Excellent,4,true,3,3 Years
-EMP1400,Bob,Garcia,25,HR,California,Inactive,10/7/2020,76790.47,Low-Mid,bob.garcia@example.com,1347323548,Excellent,4,true,5,4–5 Years
+EMP1400,Bob,Garcia,25,HR,California,Inactive,10/7/2020,76790.47,Low-Mid,bob.garcia@example.com,1347323548,Excellent,4,true,5,4â€“5 Years
 EMP1401,Charlie,Brown,30,Cloud Tech,Illinois,Pending,1/18/2020,92722.35,Up-Mid,charlie.brown@example.com,4012897431,Excellent,4,false,6,5+ Years
 EMP1402,Frank,Williams,30,DevOps,Nevada,Active,4/23/2022,93125.32,Up-Mid,frank.williams@example.com,5122572075,Average,2,false,3,3 Years
 EMP1403,David,Smith,25,Cloud Tech,New York,Active,4/22/2023,101100.64,Up-Mid,david.smith@example.com,5024120956,Average,2,false,2,2 Years
 EMP1404,Grace,Garcia,35,Admin,New York,Inactive,8/13/2023,55897.41,Low,grace.garcia@example.com,9073710093,Poor,1,false,2,2 Years
 EMP1405,Eva,Brown,25,DevOps,California,Active,11/26/2022,92484.88,Up-Mid,eva.brown@example.com,3882211456,Good,3,true,3,3 Years
 EMP1406,Grace,Miller,35,DevOps,Texas,Active,10/10/2022,77011.99,Low-Mid,grace.miller@example.com,7584745704,Average,2,true,3,3 Years
-EMP1407,Bob,Garcia,N/a,Cloud Tech,California,Inactive,9/27/2020,77078.68,Low-Mid,bob.garcia@example.com,4589714801,Average,2,true,5,4–5 Years
+EMP1407,Bob,Garcia,N/a,Cloud Tech,California,Inactive,9/27/2020,77078.68,Low-Mid,bob.garcia@example.com,4589714801,Average,2,true,5,4â€“5 Years
 EMP1408,Grace,Brown,35,Sales,Nevada,Active,4/11/2024,82971.02,Low-Mid,grace.brown@example.com,6325703964,Good,3,false,1,1 Year
-EMP1409,Bob,Miller,25,Sales,Texas,Active,6/20/2021,65102.01,Low-Mid,bob.miller@example.com,3136148781,Average,2,true,4,4–5 Years
+EMP1409,Bob,Miller,25,Sales,Texas,Active,6/20/2021,65102.01,Low-Mid,bob.miller@example.com,3136148781,Average,2,true,4,4â€“5 Years
 EMP1410,Grace,Williams,N/a,HR,Nevada,Pending,10/23/2022,103697.7,Up-Mid,grace.williams@example.com,4556964429,Excellent,4,true,3,3 Years
 EMP1411,Grace,Garcia,25,DevOps,Illinois,Pending,6/15/2023,60687.63,Low,grace.garcia@example.com,9859167953,Excellent,4,false,2,2 Years
-EMP1412,Bob,Miller,N/a,Admin,New York,Pending,10/31/2021,77351.21,Low-Mid,bob.miller@example.com,1072728497,Good,3,false,4,4–5 Years
+EMP1412,Bob,Miller,N/a,Admin,New York,Pending,10/31/2021,77351.21,Low-Mid,bob.miller@example.com,1072728497,Good,3,false,4,4â€“5 Years
 EMP1413,Bob,Smith,35,DevOps,Florida,Pending,9/29/2024,66704.62,Low-Mid,bob.smith@example.com,2474140702,Poor,1,true,1,1 Year
-EMP1414,Grace,Williams,25,Finance,Illinois,Pending,4/22/2020,71650.3,Low-Mid,grace.williams@example.com,4910740649,Poor,1,true,5,4–5 Years
+EMP1414,Grace,Williams,25,Finance,Illinois,Pending,4/22/2020,71650.3,Low-Mid,grace.williams@example.com,4910740649,Poor,1,true,5,4â€“5 Years
 EMP1415,Charlie,Smith,25,Cloud Tech,Nevada,Active,12/7/2023,50794.54,Low,charlie.smith@example.com,425488213,Good,3,true,2,2 Years
-EMP1416,Frank,Jones,N/a,Sales,Nevada,Inactive,12/7/2020,76030.86,Low-Mid,frank.jones@example.com,2369143074,Good,3,true,5,4–5 Years
-EMP1417,Eva,Johnson,25,Cloud Tech,California,Inactive,7/11/2021,86669.79,Up-Mid,eva.johnson@example.com,3666144941,Excellent,4,true,4,4–5 Years
-EMP1418,Bob,Garcia,40,Finance,Illinois,Inactive,4/23/2020,84972.7,Low-Mid,bob.garcia@example.com,9659234267,Poor,1,true,5,4–5 Years
+EMP1416,Frank,Jones,N/a,Sales,Nevada,Inactive,12/7/2020,76030.86,Low-Mid,frank.jones@example.com,2369143074,Good,3,true,5,4â€“5 Years
+EMP1417,Eva,Johnson,25,Cloud Tech,California,Inactive,7/11/2021,86669.79,Up-Mid,eva.johnson@example.com,3666144941,Excellent,4,true,4,4â€“5 Years
+EMP1418,Bob,Garcia,40,Finance,Illinois,Inactive,4/23/2020,84972.7,Low-Mid,bob.garcia@example.com,9659234267,Poor,1,true,5,4â€“5 Years
 EMP1419,Frank,Miller,30,HR,Texas,Pending,10/12/2023,100594.49,Up-Mid,frank.miller@example.com,3441497825,Average,2,false,2,2 Years
 EMP1420,Alice,Johnson,25,Cloud Tech,New York,Active,8/24/2022,75478.35,Low-Mid,alice.johnson@example.com,6128758574,Excellent,4,false,3,3 Years
 EMP1421,Charlie,Johnson,25,Sales,Nevada,Pending,9/4/2023,79355.85,Low-Mid,charlie.johnson@example.com,6766708060,Good,3,false,2,2 Years
-EMP1422,Grace,Miller,35,HR,Texas,Pending,2/2/2022,58358.07,Low,grace.miller@example.com,2943985297,Poor,1,true,4,4–5 Years
+EMP1422,Grace,Miller,35,HR,Texas,Pending,2/2/2022,58358.07,Low,grace.miller@example.com,2943985297,Poor,1,true,4,4â€“5 Years
 EMP1423,Alice,Williams,30,Admin,Illinois,Active,4/1/2022,54824.85,Low,alice.williams@example.com,9406260786,Average,2,false,3,3 Years
 EMP1424,Eva,Garcia,35,HR,Texas,Pending,7/24/2022,50557.84,Low,eva.garcia@example.com,104159148,Average,2,true,3,3 Years
 EMP1425,Eva,Jones,N/a,Admin,Florida,Inactive,4/26/2023,118030.04,High,eva.jones@example.com,7501980381,Excellent,4,true,2,2 Years
 EMP1426,David,Smith,N/a,Admin,New York,Active,4/19/2022,51673.72,Low,david.smith@example.com,8723244078,Poor,1,false,3,3 Years
 EMP1427,Alice,Brown,35,Cloud Tech,Nevada,Inactive,10/4/2024,101665.79,Up-Mid,alice.brown@example.com,3110291812,Poor,1,true,1,1 Year
-EMP1428,David,Smith,N/a,Admin,Florida,Inactive,5/2/2020,118079.15,High,david.smith@example.com,3170876013,Good,3,true,5,4–5 Years
+EMP1428,David,Smith,N/a,Admin,Florida,Inactive,5/2/2020,118079.15,High,david.smith@example.com,3170876013,Good,3,true,5,4â€“5 Years
 EMP1429,Eva,Brown,25,Cloud Tech,New York,Pending,4/25/2022,99059.28,Up-Mid,eva.brown@example.com,6723849790,Poor,1,false,3,3 Years
 EMP1430,Bob,Smith,N/a,Cloud Tech,Illinois,Active,7/29/2023,107397.4,High,bob.smith@example.com,6202232882,Poor,1,false,2,2 Years
-EMP1431,Alice,Miller,40,DevOps,New York,Active,8/20/2021,68269.37,Low-Mid,alice.miller@example.com,7744197545,Excellent,4,false,4,4–5 Years
-EMP1432,Grace,Jones,35,HR,Florida,Inactive,4/23/2021,55228.12,Low,grace.jones@example.com,6176620470,Poor,1,true,4,4–5 Years
+EMP1431,Alice,Miller,40,DevOps,New York,Active,8/20/2021,68269.37,Low-Mid,alice.miller@example.com,7744197545,Excellent,4,false,4,4â€“5 Years
+EMP1432,Grace,Jones,35,HR,Florida,Inactive,4/23/2021,55228.12,Low,grace.jones@example.com,6176620470,Poor,1,true,4,4â€“5 Years
 EMP1433,Bob,Garcia,30,Cloud Tech,New York,Inactive,8/12/2022,71982.33,Low-Mid,bob.garcia@example.com,9609409704,Average,2,false,3,3 Years
-EMP1434,Frank,Brown,30,Finance,California,Inactive,6/26/2021,109673.75,High,frank.brown@example.com,2774025882,Excellent,4,false,4,4–5 Years
-EMP1435,Eva,Garcia,N/a,Cloud Tech,New York,Inactive,10/30/2020,56384.9,Low,eva.garcia@example.com,5868122594,Excellent,4,true,5,4–5 Years
-EMP1436,Frank,Garcia,40,Sales,Texas,Pending,9/4/2021,68211.68,Low-Mid,frank.garcia@example.com,7244617678,Good,3,false,4,4–5 Years
+EMP1434,Frank,Brown,30,Finance,California,Inactive,6/26/2021,109673.75,High,frank.brown@example.com,2774025882,Excellent,4,false,4,4â€“5 Years
+EMP1435,Eva,Garcia,N/a,Cloud Tech,New York,Inactive,10/30/2020,56384.9,Low,eva.garcia@example.com,5868122594,Excellent,4,true,5,4â€“5 Years
+EMP1436,Frank,Garcia,40,Sales,Texas,Pending,9/4/2021,68211.68,Low-Mid,frank.garcia@example.com,7244617678,Good,3,false,4,4â€“5 Years
 EMP1437,Alice,Garcia,40,Finance,Illinois,Pending,1/31/2023,67489.68,Low-Mid,alice.garcia@example.com,2988425994,Poor,1,false,3,3 Years
-EMP1438,Charlie,Davis,25,Cloud Tech,Texas,Active,9/24/2020,63869.31,Low,charlie.davis@example.com,9961002310,Good,3,false,5,4–5 Years
+EMP1438,Charlie,Davis,25,Cloud Tech,Texas,Active,9/24/2020,63869.31,Low,charlie.davis@example.com,9961002310,Good,3,false,5,4â€“5 Years
 EMP1439,Bob,Williams,N/a,Sales,California,Active,2/14/2020,119801.3,High,bob.williams@example.com,7753312660,Average,2,true,6,5+ Years
-EMP1440,Heidi,Smith,30,Cloud Tech,California,Active,3/28/2020,115959.65,High,heidi.smith@example.com,941017589,Excellent,4,true,5,4–5 Years
+EMP1440,Heidi,Smith,30,Cloud Tech,California,Active,3/28/2020,115959.65,High,heidi.smith@example.com,941017589,Excellent,4,true,5,4â€“5 Years
 EMP1441,Grace,Garcia,40,Finance,Texas,Inactive,10/31/2023,79866.48,Low-Mid,grace.garcia@example.com,2517629832,Excellent,4,true,2,2 Years
-EMP1442,Charlie,Smith,35,HR,Florida,Active,3/11/2020,92987.46,Up-Mid,charlie.smith@example.com,4774332682,Excellent,4,true,5,4–5 Years
-EMP1443,Eva,Garcia,40,Finance,Illinois,Inactive,5/4/2020,56140.51,Low,eva.garcia@example.com,1901302055,Average,2,false,5,4–5 Years
+EMP1442,Charlie,Smith,35,HR,Florida,Active,3/11/2020,92987.46,Up-Mid,charlie.smith@example.com,4774332682,Excellent,4,true,5,4â€“5 Years
+EMP1443,Eva,Garcia,40,Finance,Illinois,Inactive,5/4/2020,56140.51,Low,eva.garcia@example.com,1901302055,Average,2,false,5,4â€“5 Years
 EMP1444,Grace,Brown,30,DevOps,Illinois,Active,7/15/2023,119586.11,High,grace.brown@example.com,9815287338,Average,2,true,2,2 Years
 EMP1445,Alice,Williams,40,DevOps,California,Inactive,1/20/2023,104700.46,Up-Mid,alice.williams@example.com,7855982175,Good,3,true,3,3 Years
-EMP1446,Frank,Williams,40,HR,New York,Active,10/15/2021,91798.14,Up-Mid,frank.williams@example.com,6191284116,Good,3,false,4,4–5 Years
+EMP1446,Frank,Williams,40,HR,New York,Active,10/15/2021,91798.14,Up-Mid,frank.williams@example.com,6191284116,Good,3,false,4,4â€“5 Years
 EMP1447,Eva,Miller,25,Finance,Illinois,Inactive,4/19/2024,90879.22,Up-Mid,eva.miller@example.com,3098503445,Good,3,false,1,1 Year
-EMP1448,Charlie,Davis,25,Admin,Nevada,Active,6/29/2021,87358.27,Up-Mid,charlie.davis@example.com,5124189388,Poor,1,false,4,4–5 Years
+EMP1448,Charlie,Davis,25,Admin,Nevada,Active,6/29/2021,87358.27,Up-Mid,charlie.davis@example.com,5124189388,Poor,1,false,4,4â€“5 Years
 EMP1449,Alice,Miller,30,Sales,Florida,Inactive,9/14/2024,119407.93,High,alice.miller@example.com,8469081973,Excellent,4,true,1,1 Year
-EMP1450,David,Miller,N/a,HR,Nevada,Pending,1/4/2022,113978.6,High,david.miller@example.com,56435022,Excellent,4,true,4,4–5 Years
-EMP1451,Frank,Miller,N/a,Sales,New York,Pending,1/20/2021,108568.78,High,frank.miller@example.com,8503719904,Good,3,true,5,4–5 Years
-EMP1452,Heidi,Miller,N/a,HR,New York,Inactive,3/18/2020,56318.02,Low,heidi.miller@example.com,1699187239,Excellent,4,false,5,4–5 Years
-EMP1453,David,Miller,25,Sales,Florida,Active,11/10/2021,114252.73,High,david.miller@example.com,1078356742,Good,3,false,4,4–5 Years
-EMP1454,Charlie,Jones,35,DevOps,New York,Inactive,5/1/2020,51533.9,Low,charlie.jones@example.com,3896086,Poor,1,true,5,4–5 Years
-EMP1455,Charlie,Williams,25,Sales,California,Active,2/4/2022,99317.66,Up-Mid,charlie.williams@example.com,662668216,Poor,1,false,4,4–5 Years
-EMP1456,Bob,Miller,35,HR,California,Active,11/18/2020,101264.64,Up-Mid,bob.miller@example.com,1955356032,Average,2,false,5,4–5 Years
+EMP1450,David,Miller,N/a,HR,Nevada,Pending,1/4/2022,113978.6,High,david.miller@example.com,56435022,Excellent,4,true,4,4â€“5 Years
+EMP1451,Frank,Miller,N/a,Sales,New York,Pending,1/20/2021,108568.78,High,frank.miller@example.com,8503719904,Good,3,true,5,4â€“5 Years
+EMP1452,Heidi,Miller,N/a,HR,New York,Inactive,3/18/2020,56318.02,Low,heidi.miller@example.com,1699187239,Excellent,4,false,5,4â€“5 Years
+EMP1453,David,Miller,25,Sales,Florida,Active,11/10/2021,114252.73,High,david.miller@example.com,1078356742,Good,3,false,4,4â€“5 Years
+EMP1454,Charlie,Jones,35,DevOps,New York,Inactive,5/1/2020,51533.9,Low,charlie.jones@example.com,3896086,Poor,1,true,5,4â€“5 Years
+EMP1455,Charlie,Williams,25,Sales,California,Active,2/4/2022,99317.66,Up-Mid,charlie.williams@example.com,662668216,Poor,1,false,4,4â€“5 Years
+EMP1456,Bob,Miller,35,HR,California,Active,11/18/2020,101264.64,Up-Mid,bob.miller@example.com,1955356032,Average,2,false,5,4â€“5 Years
 EMP1457,Heidi,Garcia,35,Admin,Nevada,Pending,11/21/2023,112272.02,High,heidi.garcia@example.com,1903689002,Poor,1,false,2,2 Years
-EMP1458,Frank,Williams,30,DevOps,Illinois,Active,2/13/2022,71477.63,Low-Mid,frank.williams@example.com,102724054,Good,3,true,4,4–5 Years
+EMP1458,Frank,Williams,30,DevOps,Illinois,Active,2/13/2022,71477.63,Low-Mid,frank.williams@example.com,102724054,Good,3,true,4,4â€“5 Years
 EMP1459,Charlie,Williams,30,DevOps,Texas,Pending,3/19/2023,77412.1,Low-Mid,charlie.williams@example.com,9342967110,Poor,1,false,2,2 Years
-EMP1460,Alice,Johnson,30,Sales,California,Pending,3/28/2021,94775.27,Up-Mid,alice.johnson@example.com,4837537457,Average,2,false,4,4–5 Years
-EMP1461,Heidi,Jones,30,HR,Nevada,Active,5/2/2021,74276.71,Low-Mid,heidi.jones@example.com,4384588104,Excellent,4,true,4,4–5 Years
-EMP1462,Bob,Miller,35,Finance,Texas,Inactive,3/5/2021,67467.86,Low-Mid,bob.miller@example.com,6974132833,Good,3,true,4,4–5 Years
-EMP1463,Eva,Smith,25,DevOps,Texas,Active,3/1/2022,80675.41,Low-Mid,eva.smith@example.com,8315203770,Excellent,4,false,4,4–5 Years
+EMP1460,Alice,Johnson,30,Sales,California,Pending,3/28/2021,94775.27,Up-Mid,alice.johnson@example.com,4837537457,Average,2,false,4,4â€“5 Years
+EMP1461,Heidi,Jones,30,HR,Nevada,Active,5/2/2021,74276.71,Low-Mid,heidi.jones@example.com,4384588104,Excellent,4,true,4,4â€“5 Years
+EMP1462,Bob,Miller,35,Finance,Texas,Inactive,3/5/2021,67467.86,Low-Mid,bob.miller@example.com,6974132833,Good,3,true,4,4â€“5 Years
+EMP1463,Eva,Smith,25,DevOps,Texas,Active,3/1/2022,80675.41,Low-Mid,eva.smith@example.com,8315203770,Excellent,4,false,4,4â€“5 Years
 EMP1464,Charlie,Brown,40,Finance,Florida,Inactive,1/23/2023,76274.33,Low-Mid,charlie.brown@example.com,704496409,Average,2,false,3,3 Years
-EMP1465,David,Davis,30,Finance,Texas,Active,8/26/2021,51405.46,Low,david.davis@example.com,4967066702,Average,2,true,4,4–5 Years
-EMP1466,Bob,Garcia,25,HR,New York,Inactive,11/25/2020,101238.96,Up-Mid,bob.garcia@example.com,3626804084,Average,2,true,5,4–5 Years
+EMP1465,David,Davis,30,Finance,Texas,Active,8/26/2021,51405.46,Low,david.davis@example.com,4967066702,Average,2,true,4,4â€“5 Years
+EMP1466,Bob,Garcia,25,HR,New York,Inactive,11/25/2020,101238.96,Up-Mid,bob.garcia@example.com,3626804084,Average,2,true,5,4â€“5 Years
 EMP1467,Bob,Smith,35,Sales,Illinois,Inactive,12/13/2023,52169.52,Low,bob.smith@example.com,954930595,Excellent,4,false,2,2 Years
-EMP1468,Charlie,Jones,N/a,Finance,New York,Active,7/26/2020,73176.62,Low-Mid,charlie.jones@example.com,6018648768,Excellent,4,false,5,4–5 Years
-EMP1469,Grace,Brown,N/a,DevOps,Nevada,Pending,6/27/2021,96241.85,Up-Mid,grace.brown@example.com,9842673203,Excellent,4,false,4,4–5 Years
+EMP1468,Charlie,Jones,N/a,Finance,New York,Active,7/26/2020,73176.62,Low-Mid,charlie.jones@example.com,6018648768,Excellent,4,false,5,4â€“5 Years
+EMP1469,Grace,Brown,N/a,DevOps,Nevada,Pending,6/27/2021,96241.85,Up-Mid,grace.brown@example.com,9842673203,Excellent,4,false,4,4â€“5 Years
 EMP1470,Bob,Jones,25,Finance,Illinois,Pending,9/16/2024,84366.38,Low-Mid,bob.jones@example.com,4138459608,Excellent,4,false,1,1 Year
 EMP1471,Alice,Garcia,40,Cloud Tech,California,Pending,7/4/2023,92015.09,Up-Mid,alice.garcia@example.com,4544901494,Average,2,true,2,2 Years
-EMP1472,Alice,Williams,30,Admin,Nevada,Inactive,6/16/2020,83149.95,Low-Mid,alice.williams@example.com,4277070704,Average,2,false,5,4–5 Years
-EMP1473,Grace,Brown,40,Finance,Nevada,Inactive,7/5/2020,94930.65,Up-Mid,grace.brown@example.com,7836091497,Good,3,false,5,4–5 Years
-EMP1474,Frank,Williams,40,HR,New York,Inactive,4/1/2020,68430.72,Low-Mid,frank.williams@example.com,5172444722,Good,3,true,5,4–5 Years
+EMP1472,Alice,Williams,30,Admin,Nevada,Inactive,6/16/2020,83149.95,Low-Mid,alice.williams@example.com,4277070704,Average,2,false,5,4â€“5 Years
+EMP1473,Grace,Brown,40,Finance,Nevada,Inactive,7/5/2020,94930.65,Up-Mid,grace.brown@example.com,7836091497,Good,3,false,5,4â€“5 Years
+EMP1474,Frank,Williams,40,HR,New York,Inactive,4/1/2020,68430.72,Low-Mid,frank.williams@example.com,5172444722,Good,3,true,5,4â€“5 Years
 EMP1475,David,Garcia,35,Sales,Texas,Active,3/20/2024,98752.97,Up-Mid,david.garcia@example.com,2290310286,Excellent,4,false,1,1 Year
 EMP1476,Frank,Smith,N/a,Finance,Illinois,Active,2/7/2023,54268.86,Low,frank.smith@example.com,9508304404,Poor,1,true,3,3 Years
 EMP1477,Grace,Garcia,N/a,DevOps,Florida,Pending,12/10/2024,66494.94,Low-Mid,grace.garcia@example.com,8093511870,Poor,1,false,1,1 Year
 EMP1478,Grace,Smith,25,Sales,Illinois,Pending,6/27/2024,90003.98,Up-Mid,grace.smith@example.com,8133595615,Average,2,false,1,1 Year
-EMP1479,Charlie,Brown,25,Finance,New York,Active,3/9/2021,106592.25,High,charlie.brown@example.com,4205955656,Average,2,true,4,4–5 Years
+EMP1479,Charlie,Brown,25,Finance,New York,Active,3/9/2021,106592.25,High,charlie.brown@example.com,4205955656,Average,2,true,4,4â€“5 Years
 EMP1480,Grace,Brown,25,DevOps,Florida,Active,8/11/2024,93905.83,Up-Mid,grace.brown@example.com,4902504289,Average,2,true,1,1 Year
 EMP1481,Eva,Miller,35,DevOps,Texas,Active,3/5/2022,88945.49,Up-Mid,eva.miller@example.com,1935889535,Good,3,false,3,3 Years
 EMP1482,Eva,Jones,N/a,Finance,Texas,Pending,6/30/2023,91130.33,Up-Mid,eva.jones@example.com,9026113988,Good,3,false,2,2 Years
@@ -486,12 +486,12 @@ EMP1483,Bob,Miller,40,Admin,New York,Pending,4/19/2023,90787.4,Up-Mid,bob.miller
 EMP1484,Bob,Jones,25,Sales,Texas,Inactive,11/11/2024,87494.34,Up-Mid,bob.jones@example.com,7543943534,Average,2,true,1,1 Year
 EMP1485,Grace,Miller,35,Finance,Nevada,Inactive,3/17/2023,92627.35,Up-Mid,grace.miller@example.com,3751376514,Average,2,false,2,2 Years
 EMP1486,Eva,Williams,40,Admin,Illinois,Pending,10/26/2023,98556.29,Up-Mid,eva.williams@example.com,8815793762,Poor,1,true,2,2 Years
-EMP1487,Frank,Brown,30,Cloud Tech,Nevada,Inactive,7/4/2021,112792.2,High,frank.brown@example.com,9283692943,Good,3,true,4,4–5 Years
+EMP1487,Frank,Brown,30,Cloud Tech,Nevada,Inactive,7/4/2021,112792.2,High,frank.brown@example.com,9283692943,Good,3,true,4,4â€“5 Years
 EMP1488,Eva,Smith,35,HR,Florida,Pending,11/3/2023,56875.22,Low,eva.smith@example.com,5511668296,Poor,1,false,2,2 Years
-EMP1489,Charlie,Jones,35,DevOps,Florida,Inactive,7/5/2021,101015.96,Up-Mid,charlie.jones@example.com,3270216486,Poor,1,true,4,4–5 Years
+EMP1489,Charlie,Jones,35,DevOps,Florida,Inactive,7/5/2021,101015.96,Up-Mid,charlie.jones@example.com,3270216486,Poor,1,true,4,4â€“5 Years
 EMP1490,Bob,Garcia,30,Finance,New York,Inactive,2/26/2024,83912.22,Low-Mid,bob.garcia@example.com,1206021287,Average,2,false,2,2 Years
-EMP1491,Frank,Jones,25,Sales,New York,Active,9/29/2021,99669.86,Up-Mid,frank.jones@example.com,6652683414,Average,2,false,4,4–5 Years
-EMP1492,Alice,Smith,30,Admin,New York,Active,5/25/2021,52314.97,Low,alice.smith@example.com,5999101575,Excellent,4,false,4,4–5 Years
+EMP1491,Frank,Jones,25,Sales,New York,Active,9/29/2021,99669.86,Up-Mid,frank.jones@example.com,6652683414,Average,2,false,4,4â€“5 Years
+EMP1492,Alice,Smith,30,Admin,New York,Active,5/25/2021,52314.97,Low,alice.smith@example.com,5999101575,Excellent,4,false,4,4â€“5 Years
 EMP1493,Frank,Miller,30,HR,California,Inactive,10/31/2022,77785.96,Low-Mid,frank.miller@example.com,7647229811,Excellent,4,false,3,3 Years
 EMP1494,Alice,Jones,30,HR,Florida,Pending,7/2/2022,62430.86,Low,alice.jones@example.com,995765727,Poor,1,false,3,3 Years
 EMP1495,Frank,Davis,35,Admin,California,Pending,8/28/2024,98219.54,Up-Mid,frank.davis@example.com,9413475097,Good,3,true,1,1 Year
@@ -500,9 +500,9 @@ EMP1497,David,Brown,35,DevOps,Florida,Pending,2/11/2020,110524.1,High,david.brow
 EMP1498,Alice,Smith,40,Admin,Nevada,Active,5/16/2023,106060.54,High,alice.smith@example.com,4214477323,Poor,1,false,2,2 Years
 EMP1499,Eva,Brown,35,Finance,Florida,Inactive,7/29/2022,67639.91,Low-Mid,eva.brown@example.com,4913421387,Excellent,4,true,3,3 Years
 EMP1500,Grace,Davis,N/a,Cloud Tech,Texas,Pending,9/18/2023,117653.98,High,grace.davis@example.com,2090883069,Good,3,true,2,2 Years
-EMP1501,Eva,Jones,35,DevOps,Texas,Inactive,5/10/2020,73539.86,Low-Mid,eva.jones@example.com,5349678273,Excellent,4,true,5,4–5 Years
+EMP1501,Eva,Jones,35,DevOps,Texas,Inactive,5/10/2020,73539.86,Low-Mid,eva.jones@example.com,5349678273,Excellent,4,true,5,4â€“5 Years
 EMP1502,Frank,Jones,35,HR,Nevada,Pending,8/27/2023,70915.38,Low-Mid,frank.jones@example.com,1176741240,Excellent,4,true,2,2 Years
-EMP1503,David,Garcia,25,Sales,Florida,Pending,10/16/2021,97652.9,Up-Mid,david.garcia@example.com,5131528546,Excellent,4,false,4,4–5 Years
+EMP1503,David,Garcia,25,Sales,Florida,Pending,10/16/2021,97652.9,Up-Mid,david.garcia@example.com,5131528546,Excellent,4,false,4,4â€“5 Years
 EMP1504,Heidi,Davis,35,HR,Florida,Inactive,3/6/2022,101571.25,Up-Mid,heidi.davis@example.com,8150618537,Excellent,4,false,3,3 Years
 EMP1505,David,Smith,35,DevOps,Nevada,Active,11/6/2023,87424.46,Up-Mid,david.smith@example.com,32963346,Average,2,true,2,2 Years
 EMP1506,Frank,Garcia,N/a,HR,New York,Pending,11/30/2024,89077.36,Up-Mid,frank.garcia@example.com,2727423182,Average,2,false,1,1 Year
@@ -510,30 +510,30 @@ EMP1507,Heidi,Williams,30,DevOps,California,Pending,7/13/2024,89132.22,Up-Mid,he
 EMP1508,Frank,Garcia,25,Admin,California,Active,3/4/2024,111000.26,High,frank.garcia@example.com,4969357823,Good,3,false,1,1 Year
 EMP1509,Frank,Johnson,35,HR,Illinois,Inactive,8/7/2022,109584.97,High,frank.johnson@example.com,3477695873,Poor,1,true,3,3 Years
 EMP1510,Bob,Smith,40,Admin,Illinois,Active,11/11/2024,97648.84,Up-Mid,bob.smith@example.com,1314675360,Good,3,false,1,1 Year
-EMP1511,Grace,Johnson,25,Admin,New York,Active,12/2/2021,78643.43,Low-Mid,grace.johnson@example.com,2751562778,Good,3,true,4,4–5 Years
+EMP1511,Grace,Johnson,25,Admin,New York,Active,12/2/2021,78643.43,Low-Mid,grace.johnson@example.com,2751562778,Good,3,true,4,4â€“5 Years
 EMP1512,Heidi,Davis,30,HR,Nevada,Active,5/14/2024,55656.8,Low,heidi.davis@example.com,6304483607,Good,3,true,1,1 Year
 EMP1513,Charlie,Miller,35,DevOps,Texas,Active,7/14/2022,69146.95,Low-Mid,charlie.miller@example.com,5456676639,Excellent,4,false,3,3 Years
-EMP1514,Charlie,Johnson,N/a,Admin,Florida,Active,9/22/2020,93013.58,Up-Mid,charlie.johnson@example.com,4735047638,Average,2,true,5,4–5 Years
-EMP1515,Grace,Williams,40,Finance,Florida,Active,3/18/2020,87364.78,Up-Mid,grace.williams@example.com,2831995297,Good,3,false,5,4–5 Years
+EMP1514,Charlie,Johnson,N/a,Admin,Florida,Active,9/22/2020,93013.58,Up-Mid,charlie.johnson@example.com,4735047638,Average,2,true,5,4â€“5 Years
+EMP1515,Grace,Williams,40,Finance,Florida,Active,3/18/2020,87364.78,Up-Mid,grace.williams@example.com,2831995297,Good,3,false,5,4â€“5 Years
 EMP1516,Alice,Garcia,35,Sales,New York,Active,10/17/2023,50288.67,Low,alice.garcia@example.com,61558107,Excellent,4,false,2,2 Years
-EMP1517,David,Miller,35,HR,New York,Active,2/24/2022,85233.55,Up-Mid,david.miller@example.com,3583286341,Good,3,true,4,4–5 Years
+EMP1517,David,Miller,35,HR,New York,Active,2/24/2022,85233.55,Up-Mid,david.miller@example.com,3583286341,Good,3,true,4,4â€“5 Years
 EMP1518,Bob,Garcia,25,HR,California,Inactive,1/30/2024,86420.19,Up-Mid,bob.garcia@example.com,5563830007,Good,3,false,2,2 Years
 EMP1519,Grace,Johnson,30,HR,Florida,Inactive,3/16/2024,63189.82,Low,grace.johnson@example.com,1867024402,Excellent,4,false,1,1 Year
-EMP1520,Grace,Garcia,25,Admin,New York,Pending,9/25/2020,64783.32,Low,grace.garcia@example.com,3041662410,Average,2,false,5,4–5 Years
+EMP1520,Grace,Garcia,25,Admin,New York,Pending,9/25/2020,64783.32,Low,grace.garcia@example.com,3041662410,Average,2,false,5,4â€“5 Years
 EMP1521,Charlie,Davis,25,HR,Nevada,Pending,6/10/2024,52615.44,Low,charlie.davis@example.com,1860089218,Average,2,false,1,1 Year
-EMP1522,Eva,Miller,N/a,Sales,Texas,Pending,4/8/2020,96337.89,Up-Mid,eva.miller@example.com,6394568043,Poor,1,false,5,4–5 Years
+EMP1522,Eva,Miller,N/a,Sales,Texas,Pending,4/8/2020,96337.89,Up-Mid,eva.miller@example.com,6394568043,Poor,1,false,5,4â€“5 Years
 EMP1523,Alice,Davis,25,DevOps,Texas,Inactive,6/28/2022,76617.76,Low-Mid,alice.davis@example.com,7314976460,Excellent,4,true,3,3 Years
 EMP1524,Heidi,Johnson,30,Admin,Nevada,Pending,7/14/2023,50651.32,Low,heidi.johnson@example.com,3684748835,Poor,1,false,2,2 Years
 EMP1525,Bob,Davis,N/a,HR,Illinois,Pending,12/6/2023,59601.45,Low,bob.davis@example.com,765817389,Poor,1,false,2,2 Years
-EMP1526,Bob,Williams,N/a,DevOps,Illinois,Active,8/1/2021,57980.88,Low,bob.williams@example.com,6375791451,Poor,1,false,4,4–5 Years
-EMP1527,David,Johnson,N/a,Admin,California,Pending,2/17/2021,75054.53,Low-Mid,david.johnson@example.com,1182379311,Average,2,false,5,4–5 Years
+EMP1526,Bob,Williams,N/a,DevOps,Illinois,Active,8/1/2021,57980.88,Low,bob.williams@example.com,6375791451,Poor,1,false,4,4â€“5 Years
+EMP1527,David,Johnson,N/a,Admin,California,Pending,2/17/2021,75054.53,Low-Mid,david.johnson@example.com,1182379311,Average,2,false,5,4â€“5 Years
 EMP1528,Charlie,Johnson,25,Sales,Florida,Active,11/10/2023,115318.7,High,charlie.johnson@example.com,6978930745,Excellent,4,false,2,2 Years
 EMP1529,Alice,Johnson,25,DevOps,Texas,Active,9/6/2024,90190.69,Up-Mid,alice.johnson@example.com,4520599603,Poor,1,true,1,1 Year
-EMP1530,Bob,Smith,N/a,Cloud Tech,Nevada,Pending,7/26/2020,113334.56,High,bob.smith@example.com,3878753576,Excellent,4,false,5,4–5 Years
-EMP1531,Heidi,Garcia,35,HR,Florida,Active,7/23/2020,106922.49,High,heidi.garcia@example.com,8811616201,Excellent,4,true,5,4–5 Years
+EMP1530,Bob,Smith,N/a,Cloud Tech,Nevada,Pending,7/26/2020,113334.56,High,bob.smith@example.com,3878753576,Excellent,4,false,5,4â€“5 Years
+EMP1531,Heidi,Garcia,35,HR,Florida,Active,7/23/2020,106922.49,High,heidi.garcia@example.com,8811616201,Excellent,4,true,5,4â€“5 Years
 EMP1532,Eva,Smith,35,DevOps,California,Inactive,2/21/2024,58113.07,Low,eva.smith@example.com,8123710671,Average,2,true,2,2 Years
-EMP1533,Alice,Smith,25,Admin,Nevada,Pending,12/15/2020,73006.26,Low-Mid,alice.smith@example.com,8728660415,Poor,1,true,5,4–5 Years
-EMP1534,Eva,Williams,25,HR,California,Active,8/21/2020,78054.43,Low-Mid,eva.williams@example.com,4485959223,Poor,1,true,5,4–5 Years
+EMP1533,Alice,Smith,25,Admin,Nevada,Pending,12/15/2020,73006.26,Low-Mid,alice.smith@example.com,8728660415,Poor,1,true,5,4â€“5 Years
+EMP1534,Eva,Williams,25,HR,California,Active,8/21/2020,78054.43,Low-Mid,eva.williams@example.com,4485959223,Poor,1,true,5,4â€“5 Years
 EMP1535,Eva,Miller,40,DevOps,Florida,Inactive,8/21/2023,112028.67,High,eva.miller@example.com,8395894772,Excellent,4,false,2,2 Years
 EMP1536,Charlie,Garcia,25,Admin,Texas,Inactive,4/24/2023,83787.24,Low-Mid,charlie.garcia@example.com,5228705621,Good,3,true,2,2 Years
 EMP1537,Heidi,Davis,30,Sales,Florida,Inactive,6/6/2023,52017.14,Low,heidi.davis@example.com,7104331874,Average,2,true,2,2 Years
@@ -542,80 +542,80 @@ EMP1539,Frank,Johnson,25,DevOps,Nevada,Pending,4/20/2024,102053.67,Up-Mid,frank.
 EMP1540,David,Davis,35,Sales,Illinois,Pending,12/5/2023,93276.73,Up-Mid,david.davis@example.com,6488319212,Average,2,false,2,2 Years
 EMP1541,David,Johnson,40,HR,Nevada,Pending,8/6/2023,76941.36,Low-Mid,david.johnson@example.com,4249128964,Poor,1,true,2,2 Years
 EMP1542,Alice,Williams,25,DevOps,New York,Pending,10/4/2024,82850.23,Low-Mid,alice.williams@example.com,9994973202,Poor,1,false,1,1 Year
-EMP1543,Charlie,Johnson,25,Finance,California,Active,11/8/2021,117910.15,High,charlie.johnson@example.com,3192227050,Good,3,false,4,4–5 Years
+EMP1543,Charlie,Johnson,25,Finance,California,Active,11/8/2021,117910.15,High,charlie.johnson@example.com,3192227050,Good,3,false,4,4â€“5 Years
 EMP1544,David,Smith,N/a,DevOps,Florida,Inactive,7/31/2024,66450,Low-Mid,david.smith@example.com,287675480,Average,2,true,1,1 Year
-EMP1545,Heidi,Garcia,25,Finance,Florida,Inactive,8/31/2020,118646.95,High,heidi.garcia@example.com,3866675484,Average,2,false,5,4–5 Years
+EMP1545,Heidi,Garcia,25,Finance,Florida,Inactive,8/31/2020,118646.95,High,heidi.garcia@example.com,3866675484,Average,2,false,5,4â€“5 Years
 EMP1546,Alice,Jones,25,Finance,Florida,Active,2/15/2023,88436.92,Up-Mid,alice.jones@example.com,8193242686,Excellent,4,false,3,3 Years
 EMP1547,Eva,Brown,N/a,Sales,New York,Pending,10/7/2023,81934.55,Low-Mid,eva.brown@example.com,7418652056,Poor,1,false,2,2 Years
 EMP1548,Alice,Johnson,30,Finance,California,Pending,4/20/2024,93383.06,Up-Mid,alice.johnson@example.com,5639836519,Average,2,false,1,1 Year
-EMP1549,Frank,Davis,40,Cloud Tech,Texas,Pending,3/30/2021,50153.79,Low,frank.davis@example.com,3758309450,Good,3,true,4,4–5 Years
-EMP1550,Eva,Smith,N/a,Sales,California,Pending,8/5/2020,53204.47,Low,eva.smith@example.com,5480940475,Good,3,false,5,4–5 Years
-EMP1551,Charlie,Brown,40,Cloud Tech,California,Pending,2/5/2021,63128.04,Low,charlie.brown@example.com,440907976,Poor,1,false,5,4–5 Years
-EMP1552,Grace,Jones,30,Finance,New York,Pending,11/23/2021,57543.6,Low,grace.jones@example.com,2781050921,Good,3,true,4,4–5 Years
+EMP1549,Frank,Davis,40,Cloud Tech,Texas,Pending,3/30/2021,50153.79,Low,frank.davis@example.com,3758309450,Good,3,true,4,4â€“5 Years
+EMP1550,Eva,Smith,N/a,Sales,California,Pending,8/5/2020,53204.47,Low,eva.smith@example.com,5480940475,Good,3,false,5,4â€“5 Years
+EMP1551,Charlie,Brown,40,Cloud Tech,California,Pending,2/5/2021,63128.04,Low,charlie.brown@example.com,440907976,Poor,1,false,5,4â€“5 Years
+EMP1552,Grace,Jones,30,Finance,New York,Pending,11/23/2021,57543.6,Low,grace.jones@example.com,2781050921,Good,3,true,4,4â€“5 Years
 EMP1553,Bob,Brown,40,Finance,Nevada,Pending,10/29/2022,59424.52,Low,bob.brown@example.com,2161070517,Good,3,false,3,3 Years
 EMP1554,Alice,Smith,N/a,Finance,Illinois,Inactive,11/7/2022,104675.7,Up-Mid,alice.smith@example.com,4390552957,Poor,1,true,3,3 Years
 EMP1555,Charlie,Garcia,30,Cloud Tech,Florida,Pending,5/14/2023,92431.25,Up-Mid,charlie.garcia@example.com,660138240,Average,2,false,2,2 Years
-EMP1556,Grace,Garcia,40,Sales,Nevada,Active,7/14/2021,77850.9,Low-Mid,grace.garcia@example.com,2704938619,Average,2,true,4,4–5 Years
+EMP1556,Grace,Garcia,40,Sales,Nevada,Active,7/14/2021,77850.9,Low-Mid,grace.garcia@example.com,2704938619,Average,2,true,4,4â€“5 Years
 EMP1557,Eva,Miller,40,Admin,New York,Inactive,5/18/2023,99001,Up-Mid,eva.miller@example.com,4485157918,Good,3,true,2,2 Years
 EMP1558,Eva,Garcia,N/a,HR,Nevada,Pending,2/7/2023,94280.83,Up-Mid,eva.garcia@example.com,7111212589,Good,3,true,3,3 Years
 EMP1559,Eva,Miller,35,DevOps,New York,Pending,8/24/2023,118262.56,High,eva.miller@example.com,2035713431,Average,2,true,2,2 Years
 EMP1560,Frank,Brown,25,HR,Illinois,Inactive,4/8/2023,89944.67,Up-Mid,frank.brown@example.com,4064242955,Poor,1,false,2,2 Years
 EMP1561,Grace,Williams,N/a,HR,Florida,Active,12/6/2022,57452.93,Low,grace.williams@example.com,3343244740,Good,3,true,3,3 Years
-EMP1562,Alice,Davis,25,Admin,California,Active,8/9/2021,97837.32,Up-Mid,alice.davis@example.com,7595587208,Excellent,4,false,4,4–5 Years
-EMP1563,Alice,Davis,35,Admin,Illinois,Active,1/4/2022,106981.84,High,alice.davis@example.com,6289365434,Poor,1,true,4,4–5 Years
+EMP1562,Alice,Davis,25,Admin,California,Active,8/9/2021,97837.32,Up-Mid,alice.davis@example.com,7595587208,Excellent,4,false,4,4â€“5 Years
+EMP1563,Alice,Davis,35,Admin,Illinois,Active,1/4/2022,106981.84,High,alice.davis@example.com,6289365434,Poor,1,true,4,4â€“5 Years
 EMP1564,David,Brown,N/a,Finance,New York,Pending,5/25/2024,105778.36,High,david.brown@example.com,8841834373,Good,3,true,1,1 Year
-EMP1565,Alice,Johnson,40,Finance,Florida,Pending,10/2/2021,117608.32,High,alice.johnson@example.com,182727954,Good,3,true,4,4–5 Years
+EMP1565,Alice,Johnson,40,Finance,Florida,Pending,10/2/2021,117608.32,High,alice.johnson@example.com,182727954,Good,3,true,4,4â€“5 Years
 EMP1566,Eva,Johnson,30,Sales,Florida,Active,7/21/2023,99324.03,Up-Mid,eva.johnson@example.com,9690515025,Excellent,4,false,2,2 Years
 EMP1567,David,Garcia,30,HR,Florida,Active,10/30/2023,55212.83,Low,david.garcia@example.com,7551254277,Excellent,4,true,2,2 Years
 EMP1568,Bob,Davis,40,Cloud Tech,Florida,Inactive,2/13/2023,68496.77,Low-Mid,bob.davis@example.com,2079799666,Average,2,false,3,3 Years
-EMP1569,Eva,Davis,25,HR,Florida,Pending,11/13/2020,52795.84,Low,eva.davis@example.com,3459576402,Poor,1,false,5,4–5 Years
+EMP1569,Eva,Davis,25,HR,Florida,Pending,11/13/2020,52795.84,Low,eva.davis@example.com,3459576402,Poor,1,false,5,4â€“5 Years
 EMP1570,Alice,Miller,N/a,DevOps,California,Inactive,6/5/2024,90087.39,Up-Mid,alice.miller@example.com,8166496901,Poor,1,false,1,1 Year
-EMP1571,Frank,Williams,N/a,Admin,New York,Pending,5/19/2020,105038.08,High,frank.williams@example.com,8249839224,Average,2,false,5,4–5 Years
+EMP1571,Frank,Williams,N/a,Admin,New York,Pending,5/19/2020,105038.08,High,frank.williams@example.com,8249839224,Average,2,false,5,4â€“5 Years
 EMP1572,Grace,Smith,25,HR,New York,Active,9/20/2023,73231.85,Low-Mid,grace.smith@example.com,142576269,Poor,1,false,2,2 Years
 EMP1573,David,Johnson,N/a,Sales,Florida,Pending,8/13/2024,102649.36,Up-Mid,david.johnson@example.com,2324412335,Poor,1,false,1,1 Year
 EMP1574,Bob,Davis,35,Finance,New York,Pending,6/10/2023,114302.51,High,bob.davis@example.com,1328507250,Poor,1,false,2,2 Years
-EMP1575,Alice,Miller,35,Finance,Texas,Inactive,6/9/2021,87816.61,Up-Mid,alice.miller@example.com,7863767315,Poor,1,false,4,4–5 Years
-EMP1576,Frank,Jones,N/a,Sales,Florida,Inactive,3/30/2020,70750.38,Low-Mid,frank.jones@example.com,2526546967,Poor,1,false,5,4–5 Years
+EMP1575,Alice,Miller,35,Finance,Texas,Inactive,6/9/2021,87816.61,Up-Mid,alice.miller@example.com,7863767315,Poor,1,false,4,4â€“5 Years
+EMP1576,Frank,Jones,N/a,Sales,Florida,Inactive,3/30/2020,70750.38,Low-Mid,frank.jones@example.com,2526546967,Poor,1,false,5,4â€“5 Years
 EMP1577,Frank,Miller,N/a,Cloud Tech,Texas,Active,5/2/2024,N/A,Unknown,frank.miller@example.com,1579039234,Excellent,4,true,1,1 Year
 EMP1578,Bob,Johnson,30,DevOps,Nevada,Active,11/6/2024,97978.36,Up-Mid,bob.johnson@example.com,5580996131,Poor,1,true,1,1 Year
 EMP1579,David,Johnson,N/a,DevOps,Nevada,Inactive,8/17/2023,107172.8,High,david.johnson@example.com,7303461561,Excellent,4,true,2,2 Years
-EMP1580,Charlie,Miller,25,Finance,Nevada,Inactive,3/18/2020,56126.46,Low,charlie.miller@example.com,6244670461,Poor,1,true,5,4–5 Years
-EMP1581,Eva,Smith,N/a,Cloud Tech,Illinois,Active,6/13/2021,78534.29,Low-Mid,eva.smith@example.com,2681715159,Average,2,true,4,4–5 Years
+EMP1580,Charlie,Miller,25,Finance,Nevada,Inactive,3/18/2020,56126.46,Low,charlie.miller@example.com,6244670461,Poor,1,true,5,4â€“5 Years
+EMP1581,Eva,Smith,N/a,Cloud Tech,Illinois,Active,6/13/2021,78534.29,Low-Mid,eva.smith@example.com,2681715159,Average,2,true,4,4â€“5 Years
 EMP1582,Grace,Brown,40,HR,Texas,Inactive,10/10/2023,N/A,Unknown,grace.brown@example.com,2529867075,Good,3,false,2,2 Years
-EMP1583,Bob,Johnson,N/a,Cloud Tech,Nevada,Active,1/2/2022,114963.34,High,bob.johnson@example.com,6046419784,Excellent,4,false,4,4–5 Years
-EMP1584,Eva,Miller,N/a,Cloud Tech,California,Inactive,2/20/2022,77657.93,Low-Mid,eva.miller@example.com,7585126860,Poor,1,false,4,4–5 Years
+EMP1583,Bob,Johnson,N/a,Cloud Tech,Nevada,Active,1/2/2022,114963.34,High,bob.johnson@example.com,6046419784,Excellent,4,false,4,4â€“5 Years
+EMP1584,Eva,Miller,N/a,Cloud Tech,California,Inactive,2/20/2022,77657.93,Low-Mid,eva.miller@example.com,7585126860,Poor,1,false,4,4â€“5 Years
 EMP1585,Heidi,Davis,30,Sales,New York,Active,3/9/2024,77369.48,Low-Mid,heidi.davis@example.com,2059438975,Average,2,false,1,1 Year
 EMP1586,Eva,Miller,30,HR,Nevada,Pending,8/19/2023,76119.14,Low-Mid,eva.miller@example.com,740177508,Good,3,false,2,2 Years
 EMP1587,Charlie,Williams,25,Cloud Tech,Texas,Pending,5/6/2023,77585.72,Low-Mid,charlie.williams@example.com,5465408423,Excellent,4,false,2,2 Years
 EMP1588,Bob,Brown,35,Admin,Nevada,Pending,1/26/2024,74069.62,Low-Mid,bob.brown@example.com,5607540914,Good,3,false,2,2 Years
 EMP1589,Charlie,Jones,30,Admin,New York,Pending,9/5/2024,67691.92,Low-Mid,charlie.jones@example.com,863218121,Average,2,true,1,1 Year
-EMP1590,Alice,Smith,N/a,Finance,Nevada,Pending,5/29/2020,70345.69,Low-Mid,alice.smith@example.com,7645793896,Excellent,4,true,5,4–5 Years
-EMP1591,Bob,Garcia,30,DevOps,Illinois,Inactive,11/8/2021,74999.69,Low-Mid,bob.garcia@example.com,155029167,Good,3,true,4,4–5 Years
-EMP1592,David,Jones,25,HR,Illinois,Active,1/31/2021,72245.02,Low-Mid,david.jones@example.com,1546602415,Poor,1,true,5,4–5 Years
-EMP1593,Eva,Brown,N/a,Admin,Illinois,Pending,1/16/2022,106538.98,High,eva.brown@example.com,1394498829,Excellent,4,false,4,4–5 Years
+EMP1590,Alice,Smith,N/a,Finance,Nevada,Pending,5/29/2020,70345.69,Low-Mid,alice.smith@example.com,7645793896,Excellent,4,true,5,4â€“5 Years
+EMP1591,Bob,Garcia,30,DevOps,Illinois,Inactive,11/8/2021,74999.69,Low-Mid,bob.garcia@example.com,155029167,Good,3,true,4,4â€“5 Years
+EMP1592,David,Jones,25,HR,Illinois,Active,1/31/2021,72245.02,Low-Mid,david.jones@example.com,1546602415,Poor,1,true,5,4â€“5 Years
+EMP1593,Eva,Brown,N/a,Admin,Illinois,Pending,1/16/2022,106538.98,High,eva.brown@example.com,1394498829,Excellent,4,false,4,4â€“5 Years
 EMP1594,Charlie,Brown,25,HR,New York,Active,12/29/2023,101787.14,Up-Mid,charlie.brown@example.com,5973642479,Good,3,false,2,2 Years
 EMP1595,Frank,Brown,30,DevOps,Nevada,Inactive,12/2/2024,83596.78,Low-Mid,frank.brown@example.com,9624406305,Average,2,false,1,1 Year
 EMP1596,Eva,Jones,40,Sales,Texas,Active,8/15/2023,92463.94,Up-Mid,eva.jones@example.com,2447951329,Average,2,true,2,2 Years
 EMP1597,Charlie,Davis,N/a,Admin,California,Pending,12/20/2024,93863.32,Up-Mid,charlie.davis@example.com,5319497968,Excellent,4,false,1,1 Year
 EMP1598,Alice,Brown,N/a,DevOps,Texas,Pending,3/31/2023,78359.41,Low-Mid,alice.brown@example.com,5867805554,Good,3,false,2,2 Years
 EMP1599,Alice,Miller,N/a,HR,Illinois,Pending,8/24/2022,95773.57,Up-Mid,alice.miller@example.com,7277382645,Excellent,4,false,3,3 Years
-EMP1600,Grace,Jones,30,Sales,Nevada,Inactive,10/1/2020,82529.08,Low-Mid,grace.jones@example.com,917851384,Excellent,4,true,5,4–5 Years
-EMP1601,Grace,Garcia,35,Sales,Texas,Pending,5/4/2021,109358.73,High,grace.garcia@example.com,4457702991,Good,3,false,4,4–5 Years
-EMP1602,Charlie,Brown,N/a,Admin,Florida,Active,1/1/2021,89645.01,Up-Mid,charlie.brown@example.com,9596604872,Good,3,true,5,4–5 Years
+EMP1600,Grace,Jones,30,Sales,Nevada,Inactive,10/1/2020,82529.08,Low-Mid,grace.jones@example.com,917851384,Excellent,4,true,5,4â€“5 Years
+EMP1601,Grace,Garcia,35,Sales,Texas,Pending,5/4/2021,109358.73,High,grace.garcia@example.com,4457702991,Good,3,false,4,4â€“5 Years
+EMP1602,Charlie,Brown,N/a,Admin,Florida,Active,1/1/2021,89645.01,Up-Mid,charlie.brown@example.com,9596604872,Good,3,true,5,4â€“5 Years
 EMP1603,Charlie,Miller,40,HR,Texas,Active,4/8/2024,84134.95,Low-Mid,charlie.miller@example.com,6826911632,Poor,1,true,1,1 Year
 EMP1604,Frank,Davis,30,Cloud Tech,Nevada,Active,11/26/2022,113540.83,High,frank.davis@example.com,1942268652,Good,3,true,3,3 Years
-EMP1605,Heidi,Williams,40,Cloud Tech,Texas,Pending,10/25/2021,57225.75,Low,heidi.williams@example.com,6945515887,Average,2,true,4,4–5 Years
-EMP1606,Eva,Davis,35,Sales,Illinois,Pending,12/22/2020,76366.17,Low-Mid,eva.davis@example.com,6367747225,Excellent,4,false,5,4–5 Years
+EMP1605,Heidi,Williams,40,Cloud Tech,Texas,Pending,10/25/2021,57225.75,Low,heidi.williams@example.com,6945515887,Average,2,true,4,4â€“5 Years
+EMP1606,Eva,Davis,35,Sales,Illinois,Pending,12/22/2020,76366.17,Low-Mid,eva.davis@example.com,6367747225,Excellent,4,false,5,4â€“5 Years
 EMP1607,Bob,Garcia,N/a,HR,Florida,Active,11/23/2022,78408.95,Low-Mid,bob.garcia@example.com,4085721695,Excellent,4,true,3,3 Years
 EMP1608,Frank,Brown,40,Finance,Illinois,Active,10/24/2022,111742.4,High,frank.brown@example.com,6630932997,Average,2,true,3,3 Years
-EMP1609,David,Garcia,25,Sales,Nevada,Inactive,3/9/2021,60516.83,Low,david.garcia@example.com,1996059328,Good,3,false,4,4–5 Years
-EMP1610,Bob,Jones,30,Finance,California,Pending,8/20/2020,83706.17,Low-Mid,bob.jones@example.com,7150968831,Average,2,false,5,4–5 Years
+EMP1609,David,Garcia,25,Sales,Nevada,Inactive,3/9/2021,60516.83,Low,david.garcia@example.com,1996059328,Good,3,false,4,4â€“5 Years
+EMP1610,Bob,Jones,30,Finance,California,Pending,8/20/2020,83706.17,Low-Mid,bob.jones@example.com,7150968831,Average,2,false,5,4â€“5 Years
 EMP1611,David,Johnson,N/a,Admin,Nevada,Inactive,2/15/2020,67056.92,Low-Mid,david.johnson@example.com,7532735240,Average,2,true,6,5+ Years
 EMP1612,Charlie,Brown,30,DevOps,Illinois,Active,12/29/2024,90058.85,Up-Mid,charlie.brown@example.com,397739731,Poor,1,false,1,1 Year
 EMP1613,Eva,Johnson,30,Sales,Florida,Pending,2/28/2023,94633.59,Up-Mid,eva.johnson@example.com,7819523709,Average,2,true,3,3 Years
 EMP1614,Eva,Miller,25,Admin,Florida,Pending,8/23/2022,110711.17,High,eva.miller@example.com,687616480,Excellent,4,true,3,3 Years
 EMP1615,Grace,Williams,N/a,Admin,Illinois,Active,6/30/2023,96175.41,Up-Mid,grace.williams@example.com,9807704604,Average,2,true,2,2 Years
-EMP1616,Frank,Smith,40,Sales,Illinois,Active,4/15/2021,76474.79,Low-Mid,frank.smith@example.com,6876112490,Excellent,4,true,4,4–5 Years
+EMP1616,Frank,Smith,40,Sales,Illinois,Active,4/15/2021,76474.79,Low-Mid,frank.smith@example.com,6876112490,Excellent,4,true,4,4â€“5 Years
 EMP1617,Alice,Garcia,30,Sales,Illinois,Pending,5/9/2022,107855.99,High,alice.garcia@example.com,2565237340,Excellent,4,false,3,3 Years
 EMP1618,Charlie,Davis,40,Sales,Illinois,Active,12/2/2024,104870.78,Up-Mid,charlie.davis@example.com,5177345474,Excellent,4,true,1,1 Year
 EMP1619,Bob,Williams,25,Finance,Nevada,Active,5/20/2023,N/A,Unknown,bob.williams@example.com,7494902283,Good,3,false,2,2 Years
@@ -623,37 +623,37 @@ EMP1620,Grace,Brown,N/a,Finance,California,Active,11/29/2023,87087.16,Up-Mid,gra
 EMP1621,Heidi,Johnson,40,HR,Illinois,Pending,4/8/2024,108603.34,High,heidi.johnson@example.com,7742229463,Excellent,4,false,1,1 Year
 EMP1622,Grace,Davis,30,HR,Florida,Active,10/25/2024,55867.23,Low,grace.davis@example.com,3039429044,Excellent,4,false,1,1 Year
 EMP1623,Grace,Johnson,35,Admin,Texas,Pending,3/2/2024,105259.57,High,grace.johnson@example.com,8867925297,Good,3,true,1,1 Year
-EMP1624,Bob,Jones,N/a,Cloud Tech,Florida,Pending,2/24/2021,98143.67,Up-Mid,bob.jones@example.com,5856728726,Excellent,4,false,5,4–5 Years
+EMP1624,Bob,Jones,N/a,Cloud Tech,Florida,Pending,2/24/2021,98143.67,Up-Mid,bob.jones@example.com,5856728726,Excellent,4,false,5,4â€“5 Years
 EMP1625,Frank,Johnson,25,Admin,Florida,Pending,4/13/2023,67754.29,Low-Mid,frank.johnson@example.com,6015343323,Average,2,true,2,2 Years
 EMP1626,Grace,Jones,N/a,HR,Illinois,Inactive,10/25/2023,77821.79,Low-Mid,grace.jones@example.com,9135779082,Average,2,false,2,2 Years
 EMP1627,Heidi,Miller,30,HR,Illinois,Pending,9/17/2022,67764.44,Low-Mid,heidi.miller@example.com,3506158147,Poor,1,false,3,3 Years
-EMP1628,Frank,Davis,40,DevOps,New York,Pending,8/31/2020,102346.99,Up-Mid,frank.davis@example.com,8810798333,Excellent,4,true,5,4–5 Years
+EMP1628,Frank,Davis,40,DevOps,New York,Pending,8/31/2020,102346.99,Up-Mid,frank.davis@example.com,8810798333,Excellent,4,true,5,4â€“5 Years
 EMP1629,Charlie,Davis,25,Admin,Illinois,Inactive,5/28/2024,73690.65,Low-Mid,charlie.davis@example.com,2337209483,Good,3,true,1,1 Year
 EMP1630,Alice,Smith,30,Finance,Nevada,Active,7/5/2024,56376.2,Low,alice.smith@example.com,1312840332,Average,2,true,1,1 Year
-EMP1631,Grace,Brown,25,Cloud Tech,California,Active,1/29/2022,55602.78,Low,grace.brown@example.com,9977180512,Good,3,false,4,4–5 Years
-EMP1632,Grace,Jones,40,Sales,Nevada,Pending,8/9/2021,99812.41,Up-Mid,grace.jones@example.com,7171731892,Good,3,false,4,4–5 Years
+EMP1631,Grace,Brown,25,Cloud Tech,California,Active,1/29/2022,55602.78,Low,grace.brown@example.com,9977180512,Good,3,false,4,4â€“5 Years
+EMP1632,Grace,Jones,40,Sales,Nevada,Pending,8/9/2021,99812.41,Up-Mid,grace.jones@example.com,7171731892,Good,3,false,4,4â€“5 Years
 EMP1633,Charlie,Smith,40,Finance,Texas,Active,10/7/2024,95981.9,Up-Mid,charlie.smith@example.com,9749096172,Average,2,true,1,1 Year
 EMP1634,Eva,Johnson,30,Cloud Tech,Illinois,Pending,11/22/2022,98891.48,Up-Mid,eva.johnson@example.com,9970469471,Good,3,true,3,3 Years
-EMP1635,Alice,Johnson,35,Admin,Nevada,Active,11/18/2020,56079,Low,alice.johnson@example.com,5878444834,Average,2,true,5,4–5 Years
+EMP1635,Alice,Johnson,35,Admin,Nevada,Active,11/18/2020,56079,Low,alice.johnson@example.com,5878444834,Average,2,true,5,4â€“5 Years
 EMP1636,Grace,Smith,35,DevOps,Florida,Inactive,4/15/2023,N/A,Unknown,grace.smith@example.com,4884712704,Good,3,true,2,2 Years
 EMP1637,Bob,Davis,25,Sales,California,Pending,8/26/2024,89137.97,Up-Mid,bob.davis@example.com,8772216416,Average,2,false,1,1 Year
 EMP1638,Frank,Johnson,35,Admin,Illinois,Active,7/20/2022,115079.97,High,frank.johnson@example.com,5823133483,Excellent,4,true,3,3 Years
 EMP1639,Eva,Garcia,30,Finance,Illinois,Active,2/18/2023,55067.02,Low,eva.garcia@example.com,5871493924,Poor,1,true,3,3 Years
-EMP1640,Bob,Miller,N/a,HR,Illinois,Pending,5/27/2021,98593.43,Up-Mid,bob.miller@example.com,2362292586,Average,2,true,4,4–5 Years
+EMP1640,Bob,Miller,N/a,HR,Illinois,Pending,5/27/2021,98593.43,Up-Mid,bob.miller@example.com,2362292586,Average,2,true,4,4â€“5 Years
 EMP1641,Heidi,Miller,30,HR,Florida,Pending,8/1/2022,112756.67,High,heidi.miller@example.com,9643474523,Average,2,true,3,3 Years
 EMP1642,Heidi,Garcia,25,HR,Texas,Inactive,7/21/2023,105205.92,High,heidi.garcia@example.com,5557469659,Poor,1,false,2,2 Years
 EMP1643,David,Smith,35,Finance,California,Pending,1/2/2023,50680.62,Low,david.smith@example.com,6065274032,Average,2,true,3,3 Years
 EMP1644,David,Garcia,35,Cloud Tech,Florida,Pending,3/13/2024,107475.23,High,david.garcia@example.com,4450566587,Average,2,false,1,1 Year
 EMP1645,Charlie,Jones,40,HR,California,Active,3/20/2023,68835.3,Low-Mid,charlie.jones@example.com,3398741131,Good,3,true,2,2 Years
 EMP1646,David,Jones,40,DevOps,New York,Active,2/15/2024,66943.96,Low-Mid,david.jones@example.com,5797067348,Poor,1,true,2,2 Years
-EMP1647,David,Smith,30,Admin,Illinois,Inactive,11/15/2020,104525.69,Up-Mid,david.smith@example.com,9601054856,Excellent,4,false,5,4–5 Years
-EMP1648,Bob,Garcia,40,Sales,Texas,Pending,3/27/2020,109360.74,High,bob.garcia@example.com,4172156228,Average,2,true,5,4–5 Years
-EMP1649,Frank,Jones,40,Sales,California,Inactive,1/9/2021,118907.63,High,frank.jones@example.com,4938173597,Poor,1,false,5,4–5 Years
-EMP1650,Eva,Davis,40,Admin,Illinois,Active,4/20/2020,86801.48,Up-Mid,eva.davis@example.com,4884021556,Good,3,false,5,4–5 Years
+EMP1647,David,Smith,30,Admin,Illinois,Inactive,11/15/2020,104525.69,Up-Mid,david.smith@example.com,9601054856,Excellent,4,false,5,4â€“5 Years
+EMP1648,Bob,Garcia,40,Sales,Texas,Pending,3/27/2020,109360.74,High,bob.garcia@example.com,4172156228,Average,2,true,5,4â€“5 Years
+EMP1649,Frank,Jones,40,Sales,California,Inactive,1/9/2021,118907.63,High,frank.jones@example.com,4938173597,Poor,1,false,5,4â€“5 Years
+EMP1650,Eva,Davis,40,Admin,Illinois,Active,4/20/2020,86801.48,Up-Mid,eva.davis@example.com,4884021556,Good,3,false,5,4â€“5 Years
 EMP1651,Alice,Garcia,N/a,HR,Florida,Pending,5/8/2024,62236.03,Low,alice.garcia@example.com,3257375533,Excellent,4,true,1,1 Year
 EMP1652,Heidi,Davis,35,DevOps,Texas,Active,10/12/2023,64752.67,Low,heidi.davis@example.com,4902166669,Poor,1,false,2,2 Years
 EMP1653,Frank,Jones,35,Sales,California,Active,1/28/2023,68399.43,Low-Mid,frank.jones@example.com,8085096084,Excellent,4,false,3,3 Years
-EMP1654,Frank,Miller,35,Admin,Florida,Inactive,3/7/2021,79336.51,Low-Mid,frank.miller@example.com,8749511917,Excellent,4,false,4,4–5 Years
+EMP1654,Frank,Miller,35,Admin,Florida,Inactive,3/7/2021,79336.51,Low-Mid,frank.miller@example.com,8749511917,Excellent,4,false,4,4â€“5 Years
 EMP1655,Frank,Jones,40,HR,Florida,Active,3/16/2023,59179.74,Low,frank.jones@example.com,1828197930,Excellent,4,false,2,2 Years
 EMP1656,David,Davis,25,DevOps,California,Active,2/11/2023,80255.31,Low-Mid,david.davis@example.com,6477251294,Average,2,false,3,3 Years
 EMP1657,Charlie,Williams,30,Finance,Texas,Active,5/13/2022,84971.85,Low-Mid,charlie.williams@example.com,7860694095,Average,2,false,3,3 Years
@@ -666,12 +666,12 @@ EMP1663,Bob,Miller,40,Sales,California,Inactive,7/17/2023,116961.61,High,bob.mil
 EMP1664,Frank,Smith,40,DevOps,Illinois,Pending,4/8/2022,109423.05,High,frank.smith@example.com,1128981230,Average,2,false,3,3 Years
 EMP1665,Charlie,Jones,35,Admin,California,Inactive,8/30/2023,70394.94,Low-Mid,charlie.jones@example.com,7955633184,Excellent,4,false,2,2 Years
 EMP1666,Grace,Miller,35,Finance,California,Pending,4/17/2023,86465.5,Up-Mid,grace.miller@example.com,7481700665,Poor,1,true,2,2 Years
-EMP1667,Charlie,Brown,30,Cloud Tech,New York,Pending,4/25/2021,96341.58,Up-Mid,charlie.brown@example.com,1554164315,Excellent,4,false,4,4–5 Years
-EMP1668,Bob,Jones,30,Admin,Florida,Active,7/14/2020,54465.47,Low,bob.jones@example.com,7045023289,Excellent,4,false,5,4–5 Years
-EMP1669,Alice,Davis,25,Finance,Illinois,Active,7/31/2020,68371.66,Low-Mid,alice.davis@example.com,2822700933,Poor,1,false,5,4–5 Years
-EMP1670,Grace,Smith,35,Admin,New York,Pending,8/4/2021,81021.23,Low-Mid,grace.smith@example.com,5962622821,Good,3,false,4,4–5 Years
+EMP1667,Charlie,Brown,30,Cloud Tech,New York,Pending,4/25/2021,96341.58,Up-Mid,charlie.brown@example.com,1554164315,Excellent,4,false,4,4â€“5 Years
+EMP1668,Bob,Jones,30,Admin,Florida,Active,7/14/2020,54465.47,Low,bob.jones@example.com,7045023289,Excellent,4,false,5,4â€“5 Years
+EMP1669,Alice,Davis,25,Finance,Illinois,Active,7/31/2020,68371.66,Low-Mid,alice.davis@example.com,2822700933,Poor,1,false,5,4â€“5 Years
+EMP1670,Grace,Smith,35,Admin,New York,Pending,8/4/2021,81021.23,Low-Mid,grace.smith@example.com,5962622821,Good,3,false,4,4â€“5 Years
 EMP1671,Charlie,Miller,25,Cloud Tech,Nevada,Inactive,10/28/2024,114069.07,High,charlie.miller@example.com,5120734653,Good,3,true,1,1 Year
-EMP1672,Heidi,Miller,N/a,HR,Illinois,Inactive,10/3/2020,117867.96,High,heidi.miller@example.com,9500507025,Poor,1,false,5,4–5 Years
+EMP1672,Heidi,Miller,N/a,HR,Illinois,Inactive,10/3/2020,117867.96,High,heidi.miller@example.com,9500507025,Poor,1,false,5,4â€“5 Years
 EMP1673,Charlie,Miller,N/a,Sales,Florida,Pending,3/13/2024,94509.58,Up-Mid,charlie.miller@example.com,869822104,Average,2,false,1,1 Year
 EMP1674,Eva,Brown,35,Finance,Illinois,Active,7/6/2024,56268.78,Low,eva.brown@example.com,3161177686,Excellent,4,false,1,1 Year
 EMP1675,Grace,Jones,35,Admin,California,Active,1/1/2020,86632.14,Up-Mid,grace.jones@example.com,2904774257,Poor,1,true,6,5+ Years
@@ -681,16 +681,16 @@ EMP1678,Frank,Johnson,30,Finance,Illinois,Inactive,3/19/2022,67492.73,Low-Mid,fr
 EMP1679,Grace,Johnson,40,Admin,California,Active,5/14/2022,93772.61,Up-Mid,grace.johnson@example.com,4256529059,Poor,1,false,3,3 Years
 EMP1680,Eva,Garcia,35,DevOps,Nevada,Pending,7/14/2024,68817.54,Low-Mid,eva.garcia@example.com,3202032649,Excellent,4,false,1,1 Year
 EMP1681,Bob,Jones,30,Admin,California,Active,7/28/2023,81874.01,Low-Mid,bob.jones@example.com,9775396736,Good,3,true,2,2 Years
-EMP1682,Heidi,Davis,30,HR,Texas,Active,4/11/2020,117880.14,High,heidi.davis@example.com,9487148551,Average,2,false,5,4–5 Years
+EMP1682,Heidi,Davis,30,HR,Texas,Active,4/11/2020,117880.14,High,heidi.davis@example.com,9487148551,Average,2,false,5,4â€“5 Years
 EMP1683,Bob,Brown,35,HR,New York,Pending,6/16/2022,100897.49,Up-Mid,bob.brown@example.com,4578715840,Average,2,true,3,3 Years
 EMP1684,Charlie,Smith,25,Finance,New York,Inactive,5/10/2022,71810.37,Low-Mid,charlie.smith@example.com,5608213710,Average,2,true,3,3 Years
-EMP1685,Frank,Miller,40,DevOps,Texas,Inactive,6/13/2020,109048.24,High,frank.miller@example.com,8425476817,Poor,1,false,5,4–5 Years
+EMP1685,Frank,Miller,40,DevOps,Texas,Inactive,6/13/2020,109048.24,High,frank.miller@example.com,8425476817,Poor,1,false,5,4â€“5 Years
 EMP1686,Alice,Miller,35,Finance,Texas,Pending,8/20/2022,62712.26,Low,alice.miller@example.com,2683230357,Average,2,false,3,3 Years
-EMP1687,Eva,Jones,40,Cloud Tech,Texas,Pending,5/24/2021,76935.85,Low-Mid,eva.jones@example.com,9298808582,Good,3,true,4,4–5 Years
+EMP1687,Eva,Jones,40,Cloud Tech,Texas,Pending,5/24/2021,76935.85,Low-Mid,eva.jones@example.com,9298808582,Good,3,true,4,4â€“5 Years
 EMP1688,David,Davis,25,Admin,Florida,Pending,4/27/2024,56577.22,Low,david.davis@example.com,8252129327,Poor,1,true,1,1 Year
-EMP1689,David,Johnson,40,Finance,Nevada,Inactive,10/23/2021,61102.8,Low,david.johnson@example.com,9634064685,Good,3,true,4,4–5 Years
-EMP1690,Bob,Johnson,35,Finance,Nevada,Inactive,2/10/2021,75229.87,Low-Mid,bob.johnson@example.com,7752401483,Excellent,4,true,5,4–5 Years
-EMP1691,David,Miller,25,Admin,Nevada,Inactive,10/26/2021,51054.74,Low,david.miller@example.com,3991062271,Excellent,4,false,4,4–5 Years
+EMP1689,David,Johnson,40,Finance,Nevada,Inactive,10/23/2021,61102.8,Low,david.johnson@example.com,9634064685,Good,3,true,4,4â€“5 Years
+EMP1690,Bob,Johnson,35,Finance,Nevada,Inactive,2/10/2021,75229.87,Low-Mid,bob.johnson@example.com,7752401483,Excellent,4,true,5,4â€“5 Years
+EMP1691,David,Miller,25,Admin,Nevada,Inactive,10/26/2021,51054.74,Low,david.miller@example.com,3991062271,Excellent,4,false,4,4â€“5 Years
 EMP1692,Bob,Jones,40,Admin,Texas,Active,4/5/2023,104843.27,Up-Mid,bob.jones@example.com,3626693350,Excellent,4,false,2,2 Years
 EMP1693,Charlie,Brown,35,Cloud Tech,New York,Active,10/20/2022,56398.11,Low,charlie.brown@example.com,3426192371,Excellent,4,false,3,3 Years
 EMP1694,Alice,Johnson,25,HR,Nevada,Active,12/7/2023,87544.73,Up-Mid,alice.johnson@example.com,4501848196,Good,3,false,2,2 Years
@@ -698,71 +698,71 @@ EMP1695,Heidi,Brown,30,HR,Illinois,Pending,3/29/2024,74312.24,Low-Mid,heidi.brow
 EMP1696,David,Davis,25,DevOps,Florida,Inactive,1/23/2024,59431.25,Low,david.davis@example.com,4064176926,Poor,1,true,2,2 Years
 EMP1697,Heidi,Johnson,40,Sales,California,Pending,11/28/2023,84306.44,Low-Mid,heidi.johnson@example.com,4381199536,Average,2,false,2,2 Years
 EMP1698,Frank,Johnson,35,DevOps,Florida,Inactive,11/11/2024,108194.47,High,frank.johnson@example.com,6601444855,Good,3,false,1,1 Year
-EMP1699,Charlie,Williams,25,Sales,New York,Inactive,8/28/2021,107359.3,High,charlie.williams@example.com,4510173972,Excellent,4,false,4,4–5 Years
+EMP1699,Charlie,Williams,25,Sales,New York,Inactive,8/28/2021,107359.3,High,charlie.williams@example.com,4510173972,Excellent,4,false,4,4â€“5 Years
 EMP1700,Heidi,Johnson,25,DevOps,Illinois,Inactive,2/11/2024,N/A,Unknown,heidi.johnson@example.com,9641789968,Good,3,false,2,2 Years
-EMP1701,Frank,Garcia,N/a,Admin,California,Pending,5/9/2020,96080.26,Up-Mid,frank.garcia@example.com,8609191910,Average,2,false,5,4–5 Years
+EMP1701,Frank,Garcia,N/a,Admin,California,Pending,5/9/2020,96080.26,Up-Mid,frank.garcia@example.com,8609191910,Average,2,false,5,4â€“5 Years
 EMP1702,Grace,Smith,30,Sales,Nevada,Inactive,4/17/2024,88602.75,Up-Mid,grace.smith@example.com,3599660576,Average,2,true,1,1 Year
-EMP1703,Frank,Garcia,40,DevOps,California,Active,7/16/2020,86624.04,Up-Mid,frank.garcia@example.com,9806603919,Good,3,true,5,4–5 Years
+EMP1703,Frank,Garcia,40,DevOps,California,Active,7/16/2020,86624.04,Up-Mid,frank.garcia@example.com,9806603919,Good,3,true,5,4â€“5 Years
 EMP1704,Charlie,Jones,30,Cloud Tech,New York,Active,9/21/2022,63413.16,Low,charlie.jones@example.com,5146074554,Good,3,true,3,3 Years
 EMP1705,Grace,Jones,40,Sales,Illinois,Pending,4/23/2023,67915.7,Low-Mid,grace.jones@example.com,3470574237,Good,3,false,2,2 Years
 EMP1706,Bob,Brown,25,Admin,Nevada,Inactive,12/27/2024,108245.44,High,bob.brown@example.com,8565271558,Poor,1,true,1,1 Year
 EMP1707,Alice,Garcia,35,Sales,Nevada,Inactive,8/10/2024,75834.81,Low-Mid,alice.garcia@example.com,8354116596,Excellent,4,true,1,1 Year
 EMP1708,Eva,Garcia,N/a,Cloud Tech,Nevada,Active,9/4/2024,71273.32,Low-Mid,eva.garcia@example.com,2634755751,Good,3,false,1,1 Year
-EMP1709,Bob,Garcia,25,DevOps,New York,Pending,2/28/2022,63262.23,Low,bob.garcia@example.com,2501394883,Good,3,false,4,4–5 Years
+EMP1709,Bob,Garcia,25,DevOps,New York,Pending,2/28/2022,63262.23,Low,bob.garcia@example.com,2501394883,Good,3,false,4,4â€“5 Years
 EMP1710,David,Davis,N/a,DevOps,New York,Pending,3/14/2024,89069.91,Up-Mid,david.davis@example.com,8826913118,Good,3,false,1,1 Year
 EMP1711,Frank,Johnson,40,DevOps,Nevada,Inactive,12/13/2024,57287.17,Low,frank.johnson@example.com,6425856260,Average,2,true,1,1 Year
 EMP1712,Grace,Smith,N/a,HR,Nevada,Active,12/29/2022,119890.35,High,grace.smith@example.com,4991537037,Average,2,true,3,3 Years
 EMP1713,Frank,Brown,35,Sales,California,Inactive,4/24/2022,103492.91,Up-Mid,frank.brown@example.com,2407333372,Poor,1,false,3,3 Years
-EMP1714,Frank,Garcia,N/a,Admin,Illinois,Pending,3/14/2021,76254.42,Low-Mid,frank.garcia@example.com,2043097767,Excellent,4,false,4,4–5 Years
+EMP1714,Frank,Garcia,N/a,Admin,Illinois,Pending,3/14/2021,76254.42,Low-Mid,frank.garcia@example.com,2043097767,Excellent,4,false,4,4â€“5 Years
 EMP1715,Eva,Garcia,35,Finance,Florida,Inactive,1/1/2020,100841.93,Up-Mid,eva.garcia@example.com,8936289695,Poor,1,true,6,5+ Years
-EMP1716,Alice,Williams,N/a,Admin,California,Active,9/7/2021,118907.61,High,alice.williams@example.com,4546553584,Excellent,4,true,4,4–5 Years
+EMP1716,Alice,Williams,N/a,Admin,California,Active,9/7/2021,118907.61,High,alice.williams@example.com,4546553584,Excellent,4,true,4,4â€“5 Years
 EMP1717,Frank,Brown,25,DevOps,California,Pending,11/13/2022,88942.62,Up-Mid,frank.brown@example.com,1253892186,Average,2,false,3,3 Years
-EMP1718,Charlie,Garcia,25,Cloud Tech,Florida,Inactive,11/15/2020,59688.57,Low,charlie.garcia@example.com,8519358373,Average,2,false,5,4–5 Years
+EMP1718,Charlie,Garcia,25,Cloud Tech,Florida,Inactive,11/15/2020,59688.57,Low,charlie.garcia@example.com,8519358373,Average,2,false,5,4â€“5 Years
 EMP1719,David,Brown,30,HR,California,Active,3/14/2023,77985.88,Low-Mid,david.brown@example.com,9079779611,Average,2,true,2,2 Years
 EMP1720,Bob,Johnson,35,Finance,New York,Inactive,8/18/2024,112931.69,High,bob.johnson@example.com,878057214,Poor,1,false,1,1 Year
 EMP1721,Bob,Williams,N/a,DevOps,California,Active,2/5/2024,106583.88,High,bob.williams@example.com,1494097625,Good,3,true,2,2 Years
 EMP1722,Alice,Brown,35,HR,Florida,Inactive,11/12/2024,58437.84,Low,alice.brown@example.com,3748453985,Good,3,true,1,1 Year
-EMP1723,Alice,Smith,40,Cloud Tech,California,Pending,3/25/2020,72352.16,Low-Mid,alice.smith@example.com,2895090590,Average,2,true,5,4–5 Years
-EMP1724,Frank,Smith,N/a,DevOps,New York,Active,4/13/2020,97154.47,Up-Mid,frank.smith@example.com,1918623391,Good,3,true,5,4–5 Years
-EMP1725,Heidi,Jones,N/a,Sales,Illinois,Active,3/30/2021,80235.5,Low-Mid,heidi.jones@example.com,2071511695,Good,3,false,4,4–5 Years
+EMP1723,Alice,Smith,40,Cloud Tech,California,Pending,3/25/2020,72352.16,Low-Mid,alice.smith@example.com,2895090590,Average,2,true,5,4â€“5 Years
+EMP1724,Frank,Smith,N/a,DevOps,New York,Active,4/13/2020,97154.47,Up-Mid,frank.smith@example.com,1918623391,Good,3,true,5,4â€“5 Years
+EMP1725,Heidi,Jones,N/a,Sales,Illinois,Active,3/30/2021,80235.5,Low-Mid,heidi.jones@example.com,2071511695,Good,3,false,4,4â€“5 Years
 EMP1726,Charlie,Williams,30,HR,Texas,Inactive,3/16/2023,102172.05,Up-Mid,charlie.williams@example.com,6672521451,Poor,1,false,2,2 Years
 EMP1727,Eva,Williams,25,Finance,Illinois,Inactive,5/3/2024,98850.94,Up-Mid,eva.williams@example.com,6471246334,Excellent,4,true,1,1 Year
 EMP1728,Heidi,Jones,N/a,Admin,Florida,Inactive,8/28/2023,89993.15,Up-Mid,heidi.jones@example.com,1571840907,Average,2,true,2,2 Years
-EMP1729,David,Brown,30,Cloud Tech,California,Inactive,10/24/2021,97931.66,Up-Mid,david.brown@example.com,512080055,Average,2,true,4,4–5 Years
-EMP1730,Bob,Williams,40,Finance,California,Inactive,1/25/2021,72451.69,Low-Mid,bob.williams@example.com,4099512396,Poor,1,true,5,4–5 Years
+EMP1729,David,Brown,30,Cloud Tech,California,Inactive,10/24/2021,97931.66,Up-Mid,david.brown@example.com,512080055,Average,2,true,4,4â€“5 Years
+EMP1730,Bob,Williams,40,Finance,California,Inactive,1/25/2021,72451.69,Low-Mid,bob.williams@example.com,4099512396,Poor,1,true,5,4â€“5 Years
 EMP1731,Alice,Smith,35,Admin,California,Pending,8/9/2024,119311.14,High,alice.smith@example.com,2835129591,Poor,1,true,1,1 Year
 EMP1732,Charlie,Smith,40,Cloud Tech,New York,Active,11/4/2023,76167.46,Low-Mid,charlie.smith@example.com,7282709080,Good,3,false,2,2 Years
 EMP1733,Bob,Garcia,25,DevOps,Texas,Active,6/25/2023,114871.08,High,bob.garcia@example.com,4415298216,Average,2,false,2,2 Years
-EMP1734,Eva,Johnson,25,HR,Nevada,Active,9/16/2021,81504.31,Low-Mid,eva.johnson@example.com,3929578670,Excellent,4,false,4,4–5 Years
+EMP1734,Eva,Johnson,25,HR,Nevada,Active,9/16/2021,81504.31,Low-Mid,eva.johnson@example.com,3929578670,Excellent,4,false,4,4â€“5 Years
 EMP1735,David,Williams,N/a,Admin,New York,Pending,12/7/2022,102524.86,Up-Mid,david.williams@example.com,8153523735,Poor,1,false,3,3 Years
 EMP1736,Charlie,Brown,25,Finance,Illinois,Pending,12/14/2022,53043.74,Low,charlie.brown@example.com,507918157,Excellent,4,true,3,3 Years
-EMP1737,Eva,Jones,30,DevOps,Illinois,Inactive,4/18/2020,82547.26,Low-Mid,eva.jones@example.com,9988683451,Excellent,4,true,5,4–5 Years
+EMP1737,Eva,Jones,30,DevOps,Illinois,Inactive,4/18/2020,82547.26,Low-Mid,eva.jones@example.com,9988683451,Excellent,4,true,5,4â€“5 Years
 EMP1738,Bob,Jones,40,DevOps,California,Pending,10/11/2024,113900.81,High,bob.jones@example.com,7346666169,Average,2,true,1,1 Year
-EMP1739,Bob,Brown,25,HR,Nevada,Inactive,4/18/2021,118585.5,High,bob.brown@example.com,7158796473,Average,2,true,4,4–5 Years
-EMP1740,Bob,Davis,35,Finance,Illinois,Pending,6/29/2020,63049.22,Low,bob.davis@example.com,803149981,Poor,1,true,5,4–5 Years
-EMP1741,Heidi,Miller,N/a,DevOps,Texas,Active,5/21/2021,114558.91,High,heidi.miller@example.com,5080046357,Average,2,false,4,4–5 Years
-EMP1742,Heidi,Johnson,40,DevOps,New York,Active,12/11/2021,97901.79,Up-Mid,heidi.johnson@example.com,688285030,Average,2,true,4,4–5 Years
+EMP1739,Bob,Brown,25,HR,Nevada,Inactive,4/18/2021,118585.5,High,bob.brown@example.com,7158796473,Average,2,true,4,4â€“5 Years
+EMP1740,Bob,Davis,35,Finance,Illinois,Pending,6/29/2020,63049.22,Low,bob.davis@example.com,803149981,Poor,1,true,5,4â€“5 Years
+EMP1741,Heidi,Miller,N/a,DevOps,Texas,Active,5/21/2021,114558.91,High,heidi.miller@example.com,5080046357,Average,2,false,4,4â€“5 Years
+EMP1742,Heidi,Johnson,40,DevOps,New York,Active,12/11/2021,97901.79,Up-Mid,heidi.johnson@example.com,688285030,Average,2,true,4,4â€“5 Years
 EMP1743,Eva,Jones,30,Sales,California,Active,7/5/2023,68037.56,Low-Mid,eva.jones@example.com,7235137398,Average,2,false,2,2 Years
-EMP1744,Alice,Williams,N/a,HR,New York,Active,11/30/2021,112802.27,High,alice.williams@example.com,63140351,Excellent,4,false,4,4–5 Years
+EMP1744,Alice,Williams,N/a,HR,New York,Active,11/30/2021,112802.27,High,alice.williams@example.com,63140351,Excellent,4,false,4,4â€“5 Years
 EMP1745,Bob,Johnson,40,Sales,Nevada,Pending,11/22/2024,93786.72,Up-Mid,bob.johnson@example.com,6356022938,Poor,1,false,1,1 Year
 EMP1746,David,Williams,N/a,Admin,Florida,Inactive,5/24/2023,73049.93,Low-Mid,david.williams@example.com,4694346065,Good,3,false,2,2 Years
 EMP1747,David,Davis,30,Sales,Illinois,Pending,6/26/2024,64161.72,Low,david.davis@example.com,6437490606,Excellent,4,true,1,1 Year
-EMP1748,Charlie,Smith,40,Admin,Nevada,Pending,11/19/2020,72224.73,Low-Mid,charlie.smith@example.com,2311127127,Average,2,false,5,4–5 Years
+EMP1748,Charlie,Smith,40,Admin,Nevada,Pending,11/19/2020,72224.73,Low-Mid,charlie.smith@example.com,2311127127,Average,2,false,5,4â€“5 Years
 EMP1749,Bob,Johnson,30,HR,New York,Pending,3/1/2020,103580.45,Up-Mid,bob.johnson@example.com,5246484493,Excellent,4,false,6,5+ Years
 EMP1750,Grace,Garcia,40,HR,Florida,Pending,8/9/2024,112589.11,High,grace.garcia@example.com,1163187327,Average,2,false,1,1 Year
-EMP1751,Eva,Jones,30,Admin,Texas,Active,1/13/2021,51833.88,Low,eva.jones@example.com,771130620,Average,2,true,5,4–5 Years
+EMP1751,Eva,Jones,30,Admin,Texas,Active,1/13/2021,51833.88,Low,eva.jones@example.com,771130620,Average,2,true,5,4â€“5 Years
 EMP1752,Eva,Johnson,N/a,Sales,Illinois,Active,5/6/2023,66252.78,Low-Mid,eva.johnson@example.com,1369572789,Excellent,4,true,2,2 Years
 EMP1753,Frank,Johnson,25,DevOps,Florida,Active,10/25/2022,109229.68,High,frank.johnson@example.com,8335090253,Poor,1,true,3,3 Years
-EMP1754,Frank,Johnson,30,Finance,Florida,Inactive,10/8/2020,61465.05,Low,frank.johnson@example.com,2573066247,Average,2,false,5,4–5 Years
+EMP1754,Frank,Johnson,30,Finance,Florida,Inactive,10/8/2020,61465.05,Low,frank.johnson@example.com,2573066247,Average,2,false,5,4â€“5 Years
 EMP1755,Grace,Miller,25,HR,Florida,Active,2/29/2024,96993.74,Up-Mid,grace.miller@example.com,1323570712,Poor,1,false,2,2 Years
 EMP1756,David,Johnson,25,Admin,Florida,Pending,9/30/2022,98150.39,Up-Mid,david.johnson@example.com,9848228500,Good,3,true,3,3 Years
 EMP1757,David,Williams,40,Finance,Texas,Pending,2/14/2024,107703,High,david.williams@example.com,1688092549,Average,2,false,2,2 Years
 EMP1758,Grace,Smith,N/a,DevOps,Illinois,Pending,1/3/2023,86766.14,Up-Mid,grace.smith@example.com,2130609068,Poor,1,true,3,3 Years
 EMP1759,Alice,Davis,N/a,Cloud Tech,Florida,Inactive,8/20/2024,111443.69,High,alice.davis@example.com,1309810795,Poor,1,true,1,1 Year
-EMP1760,David,Brown,N/a,Sales,Florida,Pending,3/21/2020,89039.07,Up-Mid,david.brown@example.com,4967379456,Good,3,false,5,4–5 Years
+EMP1760,David,Brown,N/a,Sales,Florida,Pending,3/21/2020,89039.07,Up-Mid,david.brown@example.com,4967379456,Good,3,false,5,4â€“5 Years
 EMP1761,Alice,Johnson,30,HR,Florida,Inactive,12/16/2024,71318.79,Low-Mid,alice.johnson@example.com,7278532425,Poor,1,false,1,1 Year
-EMP1762,Heidi,Jones,30,Finance,California,Pending,4/21/2020,98296.71,Up-Mid,heidi.jones@example.com,4250642075,Poor,1,false,5,4–5 Years
-EMP1763,Heidi,Johnson,40,Cloud Tech,Nevada,Pending,8/19/2020,62584,Low,heidi.johnson@example.com,8362536666,Good,3,false,5,4–5 Years
+EMP1762,Heidi,Jones,30,Finance,California,Pending,4/21/2020,98296.71,Up-Mid,heidi.jones@example.com,4250642075,Poor,1,false,5,4â€“5 Years
+EMP1763,Heidi,Johnson,40,Cloud Tech,Nevada,Pending,8/19/2020,62584,Low,heidi.johnson@example.com,8362536666,Good,3,false,5,4â€“5 Years
 EMP1764,Charlie,Jones,40,Finance,California,Inactive,2/21/2020,62521.5,Low,charlie.jones@example.com,7767555627,Average,2,true,6,5+ Years
 EMP1765,David,Williams,40,Cloud Tech,California,Inactive,11/17/2023,95400.35,Up-Mid,david.williams@example.com,3333939577,Poor,1,true,2,2 Years
 EMP1766,Charlie,Jones,25,Cloud Tech,Texas,Pending,7/9/2022,94385.07,Up-Mid,charlie.jones@example.com,6543627186,Poor,1,true,3,3 Years
@@ -772,53 +772,53 @@ EMP1769,Alice,Smith,40,HR,California,Pending,4/23/2024,117267.63,High,alice.smit
 EMP1770,Charlie,Jones,25,Admin,New York,Active,6/29/2023,N/A,Unknown,charlie.jones@example.com,2759980110,Excellent,4,true,2,2 Years
 EMP1771,Heidi,Jones,40,Sales,Texas,Pending,12/12/2024,84542.68,Low-Mid,heidi.jones@example.com,5155322,Good,3,true,1,1 Year
 EMP1772,Heidi,Smith,40,Finance,Florida,Active,5/16/2023,92007.15,Up-Mid,heidi.smith@example.com,4159597751,Average,2,true,2,2 Years
-EMP1773,Eva,Brown,N/a,DevOps,Illinois,Active,4/10/2020,62938.8,Low,eva.brown@example.com,4418222617,Average,2,false,5,4–5 Years
+EMP1773,Eva,Brown,N/a,DevOps,Illinois,Active,4/10/2020,62938.8,Low,eva.brown@example.com,4418222617,Average,2,false,5,4â€“5 Years
 EMP1774,Frank,Johnson,25,Admin,Texas,Pending,3/29/2023,108661.01,High,frank.johnson@example.com,9628874311,Poor,1,false,2,2 Years
-EMP1775,Bob,Jones,25,Cloud Tech,Florida,Active,11/26/2020,97046.33,Up-Mid,bob.jones@example.com,7102676719,Good,3,false,5,4–5 Years
-EMP1776,Charlie,Smith,40,DevOps,Illinois,Inactive,3/14/2020,56518.84,Low,charlie.smith@example.com,9579927078,Average,2,false,5,4–5 Years
-EMP1777,Frank,Garcia,40,Cloud Tech,Florida,Pending,5/12/2020,70498.29,Low-Mid,frank.garcia@example.com,5515122945,Good,3,true,5,4–5 Years
-EMP1778,Eva,Garcia,35,Sales,Florida,Pending,3/5/2021,98708.06,Up-Mid,eva.garcia@example.com,2135415969,Average,2,true,4,4–5 Years
-EMP1779,Bob,Williams,N/a,DevOps,Nevada,Pending,6/28/2020,83856.41,Low-Mid,bob.williams@example.com,9962543847,Excellent,4,false,5,4–5 Years
+EMP1775,Bob,Jones,25,Cloud Tech,Florida,Active,11/26/2020,97046.33,Up-Mid,bob.jones@example.com,7102676719,Good,3,false,5,4â€“5 Years
+EMP1776,Charlie,Smith,40,DevOps,Illinois,Inactive,3/14/2020,56518.84,Low,charlie.smith@example.com,9579927078,Average,2,false,5,4â€“5 Years
+EMP1777,Frank,Garcia,40,Cloud Tech,Florida,Pending,5/12/2020,70498.29,Low-Mid,frank.garcia@example.com,5515122945,Good,3,true,5,4â€“5 Years
+EMP1778,Eva,Garcia,35,Sales,Florida,Pending,3/5/2021,98708.06,Up-Mid,eva.garcia@example.com,2135415969,Average,2,true,4,4â€“5 Years
+EMP1779,Bob,Williams,N/a,DevOps,Nevada,Pending,6/28/2020,83856.41,Low-Mid,bob.williams@example.com,9962543847,Excellent,4,false,5,4â€“5 Years
 EMP1780,Eva,Smith,40,Sales,California,Inactive,12/12/2022,90259.99,Up-Mid,eva.smith@example.com,752034475,Average,2,false,3,3 Years
 EMP1781,Charlie,Williams,N/a,Sales,Florida,Pending,2/2/2024,94230.03,Up-Mid,charlie.williams@example.com,5047158028,Excellent,4,true,2,2 Years
-EMP1782,Charlie,Garcia,N/a,Admin,Nevada,Inactive,1/31/2021,50110.66,Low,charlie.garcia@example.com,904637659,Average,2,true,5,4–5 Years
-EMP1783,Bob,Brown,30,Sales,Florida,Inactive,4/3/2020,73365.46,Low-Mid,bob.brown@example.com,4655866524,Poor,1,false,5,4–5 Years
-EMP1784,David,Johnson,25,DevOps,New York,Pending,7/30/2021,67809.23,Low-Mid,david.johnson@example.com,4837441714,Excellent,4,false,4,4–5 Years
-EMP1785,Eva,Smith,N/a,Sales,California,Active,8/21/2020,98008.51,Up-Mid,eva.smith@example.com,8102131250,Average,2,false,5,4–5 Years
+EMP1782,Charlie,Garcia,N/a,Admin,Nevada,Inactive,1/31/2021,50110.66,Low,charlie.garcia@example.com,904637659,Average,2,true,5,4â€“5 Years
+EMP1783,Bob,Brown,30,Sales,Florida,Inactive,4/3/2020,73365.46,Low-Mid,bob.brown@example.com,4655866524,Poor,1,false,5,4â€“5 Years
+EMP1784,David,Johnson,25,DevOps,New York,Pending,7/30/2021,67809.23,Low-Mid,david.johnson@example.com,4837441714,Excellent,4,false,4,4â€“5 Years
+EMP1785,Eva,Smith,N/a,Sales,California,Active,8/21/2020,98008.51,Up-Mid,eva.smith@example.com,8102131250,Average,2,false,5,4â€“5 Years
 EMP1786,Alice,Davis,30,Admin,California,Inactive,10/9/2023,83537.58,Low-Mid,alice.davis@example.com,2931100590,Poor,1,false,2,2 Years
 EMP1787,Alice,Garcia,30,Finance,New York,Pending,8/1/2022,112444.08,High,alice.garcia@example.com,2975191022,Excellent,4,true,3,3 Years
 EMP1788,Frank,Garcia,40,Finance,Nevada,Active,9/6/2024,86475.13,Up-Mid,frank.garcia@example.com,1211063300,Poor,1,true,1,1 Year
 EMP1789,Frank,Davis,N/a,Sales,Texas,Active,3/28/2023,97984.53,Up-Mid,frank.davis@example.com,6583737926,Good,3,true,2,2 Years
-EMP1790,Frank,Miller,25,Admin,California,Active,11/25/2021,118853.31,High,frank.miller@example.com,4907280122,Good,3,false,4,4–5 Years
+EMP1790,Frank,Miller,25,Admin,California,Active,11/25/2021,118853.31,High,frank.miller@example.com,4907280122,Good,3,false,4,4â€“5 Years
 EMP1791,Charlie,Garcia,N/a,Sales,Florida,Active,5/3/2023,58179.12,Low,charlie.garcia@example.com,4289311324,Excellent,4,false,2,2 Years
 EMP1792,Eva,Jones,35,DevOps,Texas,Inactive,4/27/2022,56075.84,Low,eva.jones@example.com,3269496842,Average,2,true,3,3 Years
-EMP1793,Frank,Brown,40,HR,New York,Pending,9/11/2021,62250.89,Low,frank.brown@example.com,6453804420,Excellent,4,true,4,4–5 Years
+EMP1793,Frank,Brown,40,HR,New York,Pending,9/11/2021,62250.89,Low,frank.brown@example.com,6453804420,Excellent,4,true,4,4â€“5 Years
 EMP1794,Alice,Smith,30,Cloud Tech,Florida,Pending,2/21/2020,105931.77,High,alice.smith@example.com,175096169,Poor,1,true,6,5+ Years
 EMP1795,Charlie,Davis,30,HR,Florida,Pending,11/24/2024,86653.96,Up-Mid,charlie.davis@example.com,1595919456,Average,2,true,1,1 Year
-EMP1796,Charlie,Jones,25,Sales,Nevada,Active,2/24/2021,100719.94,Up-Mid,charlie.jones@example.com,5757475832,Good,3,false,5,4–5 Years
+EMP1796,Charlie,Jones,25,Sales,Nevada,Active,2/24/2021,100719.94,Up-Mid,charlie.jones@example.com,5757475832,Good,3,false,5,4â€“5 Years
 EMP1797,Bob,Davis,25,HR,Texas,Pending,10/2/2024,91600.13,Up-Mid,bob.davis@example.com,9205677566,Average,2,true,1,1 Year
 EMP1798,Heidi,Smith,25,Cloud Tech,Illinois,Pending,3/6/2024,71873.66,Low-Mid,heidi.smith@example.com,7722660255,Good,3,true,1,1 Year
-EMP1799,Eva,Williams,30,HR,New York,Active,8/9/2021,69365.47,Low-Mid,eva.williams@example.com,2650622922,Average,2,true,4,4–5 Years
-EMP1800,Heidi,Smith,25,HR,New York,Active,7/14/2021,58012.23,Low,heidi.smith@example.com,1067245306,Average,2,true,4,4–5 Years
-EMP1801,Bob,Miller,30,Sales,California,Pending,10/14/2021,68973.65,Low-Mid,bob.miller@example.com,6248433796,Average,2,true,4,4–5 Years
-EMP1802,Eva,Smith,N/a,Admin,New York,Active,9/29/2021,92928.4,Up-Mid,eva.smith@example.com,6627051156,Poor,1,true,4,4–5 Years
+EMP1799,Eva,Williams,30,HR,New York,Active,8/9/2021,69365.47,Low-Mid,eva.williams@example.com,2650622922,Average,2,true,4,4â€“5 Years
+EMP1800,Heidi,Smith,25,HR,New York,Active,7/14/2021,58012.23,Low,heidi.smith@example.com,1067245306,Average,2,true,4,4â€“5 Years
+EMP1801,Bob,Miller,30,Sales,California,Pending,10/14/2021,68973.65,Low-Mid,bob.miller@example.com,6248433796,Average,2,true,4,4â€“5 Years
+EMP1802,Eva,Smith,N/a,Admin,New York,Active,9/29/2021,92928.4,Up-Mid,eva.smith@example.com,6627051156,Poor,1,true,4,4â€“5 Years
 EMP1803,Heidi,Smith,25,Admin,Texas,Inactive,10/15/2023,53531.92,Low,heidi.smith@example.com,9423873669,Poor,1,true,2,2 Years
 EMP1804,Bob,Miller,40,Finance,New York,Pending,5/5/2023,112389.31,High,bob.miller@example.com,4254969191,Excellent,4,false,2,2 Years
 EMP1805,Heidi,Brown,N/a,HR,California,Inactive,8/1/2024,63870.3,Low,heidi.brown@example.com,8455259709,Excellent,4,false,1,1 Year
 EMP1806,Bob,Garcia,40,Sales,New York,Active,7/22/2024,106164.53,High,bob.garcia@example.com,7563353573,Good,3,false,1,1 Year
 EMP1807,Bob,Smith,40,HR,Nevada,Pending,12/25/2023,103654.54,Up-Mid,bob.smith@example.com,8595325938,Poor,1,false,2,2 Years
 EMP1808,David,Miller,30,Sales,California,Inactive,3/13/2022,62834.72,Low,david.miller@example.com,9337970580,Good,3,true,3,3 Years
-EMP1809,Frank,Jones,35,Finance,Florida,Active,5/13/2020,83273.41,Low-Mid,frank.jones@example.com,6295187793,Excellent,4,false,5,4–5 Years
+EMP1809,Frank,Jones,35,Finance,Florida,Active,5/13/2020,83273.41,Low-Mid,frank.jones@example.com,6295187793,Excellent,4,false,5,4â€“5 Years
 EMP1810,Heidi,Williams,30,HR,California,Pending,3/22/2023,58917.58,Low,heidi.williams@example.com,1763425072,Good,3,false,2,2 Years
 EMP1811,Bob,Williams,35,Sales,Nevada,Active,6/10/2024,71148.27,Low-Mid,bob.williams@example.com,3055978244,Excellent,4,true,1,1 Year
-EMP1812,Grace,Smith,30,Sales,New York,Pending,11/21/2020,118172.42,High,grace.smith@example.com,7598339913,Poor,1,true,5,4–5 Years
+EMP1812,Grace,Smith,30,Sales,New York,Pending,11/21/2020,118172.42,High,grace.smith@example.com,7598339913,Poor,1,true,5,4â€“5 Years
 EMP1813,Frank,Brown,30,DevOps,Illinois,Inactive,5/25/2024,118614.37,High,frank.brown@example.com,388436603,Average,2,false,1,1 Year
 EMP1814,Frank,Brown,N/a,DevOps,New York,Active,9/19/2023,96872.36,Up-Mid,frank.brown@example.com,4324006156,Poor,1,false,2,2 Years
-EMP1815,Heidi,Jones,25,Sales,Illinois,Inactive,10/28/2021,88856.14,Up-Mid,heidi.jones@example.com,2768297513,Good,3,true,4,4–5 Years
-EMP1816,Charlie,Smith,35,Finance,Texas,Pending,8/10/2020,97985.61,Up-Mid,charlie.smith@example.com,7439742924,Good,3,false,5,4–5 Years
-EMP1817,Grace,Williams,35,Finance,Nevada,Pending,5/5/2020,56337.31,Low,grace.williams@example.com,105875255,Poor,1,true,5,4–5 Years
+EMP1815,Heidi,Jones,25,Sales,Illinois,Inactive,10/28/2021,88856.14,Up-Mid,heidi.jones@example.com,2768297513,Good,3,true,4,4â€“5 Years
+EMP1816,Charlie,Smith,35,Finance,Texas,Pending,8/10/2020,97985.61,Up-Mid,charlie.smith@example.com,7439742924,Good,3,false,5,4â€“5 Years
+EMP1817,Grace,Williams,35,Finance,Nevada,Pending,5/5/2020,56337.31,Low,grace.williams@example.com,105875255,Poor,1,true,5,4â€“5 Years
 EMP1818,Alice,Brown,30,DevOps,New York,Inactive,12/24/2022,70405.23,Low-Mid,alice.brown@example.com,8065625903,Poor,1,true,3,3 Years
-EMP1819,Heidi,Smith,30,Admin,Nevada,Inactive,9/5/2021,89919.35,Up-Mid,heidi.smith@example.com,5990802710,Excellent,4,true,4,4–5 Years
+EMP1819,Heidi,Smith,30,Admin,Nevada,Inactive,9/5/2021,89919.35,Up-Mid,heidi.smith@example.com,5990802710,Excellent,4,true,4,4â€“5 Years
 EMP1820,Eva,Davis,40,DevOps,California,Active,4/8/2023,50568.35,Low,eva.davis@example.com,2218231554,Good,3,true,2,2 Years
 EMP1821,Grace,Brown,30,HR,Texas,Inactive,1/29/2023,N/A,Unknown,grace.brown@example.com,1651768085,Good,3,false,3,3 Years
 EMP1822,Frank,Miller,25,HR,Texas,Active,6/3/2022,99155.53,Up-Mid,frank.miller@example.com,6281372142,Poor,1,true,3,3 Years
@@ -831,71 +831,71 @@ EMP1828,Frank,Davis,30,Admin,Florida,Pending,1/16/2020,90455.7,Up-Mid,frank.davi
 EMP1829,David,Garcia,N/a,HR,Florida,Pending,3/26/2023,75687.9,Low-Mid,david.garcia@example.com,4614707985,Good,3,true,2,2 Years
 EMP1830,Heidi,Jones,35,Cloud Tech,Illinois,Inactive,11/15/2023,55604.42,Low,heidi.jones@example.com,3210613393,Average,2,false,2,2 Years
 EMP1831,Eva,Jones,40,Sales,Texas,Pending,12/27/2024,92704.94,Up-Mid,eva.jones@example.com,3945703942,Excellent,4,false,1,1 Year
-EMP1832,Bob,Williams,N/a,Sales,California,Pending,4/18/2020,113250.97,High,bob.williams@example.com,8040325375,Good,3,true,5,4–5 Years
+EMP1832,Bob,Williams,N/a,Sales,California,Pending,4/18/2020,113250.97,High,bob.williams@example.com,8040325375,Good,3,true,5,4â€“5 Years
 EMP1833,Alice,Brown,40,Finance,Illinois,Inactive,3/21/2023,101367.02,Up-Mid,alice.brown@example.com,5769277893,Excellent,4,false,2,2 Years
 EMP1834,Eva,Smith,35,Admin,Texas,Pending,5/8/2023,102459.77,Up-Mid,eva.smith@example.com,3191009003,Poor,1,false,2,2 Years
-EMP1835,Eva,Brown,25,DevOps,Florida,Pending,12/12/2020,90100.2,Up-Mid,eva.brown@example.com,476921052,Good,3,false,5,4–5 Years
-EMP1836,Eva,Williams,N/a,Cloud Tech,California,Inactive,6/17/2020,58877.49,Low,eva.williams@example.com,3651460400,Excellent,4,false,5,4–5 Years
-EMP1837,Eva,Jones,35,Admin,Illinois,Inactive,7/17/2021,N/A,Unknown,eva.jones@example.com,4247310719,Excellent,4,false,4,4–5 Years
-EMP1838,Bob,Brown,N/a,Admin,Illinois,Pending,11/5/2020,96140.89,Up-Mid,bob.brown@example.com,1137984408,Average,2,true,5,4–5 Years
-EMP1839,Charlie,Jones,35,DevOps,New York,Inactive,1/5/2021,105956.04,High,charlie.jones@example.com,7123166006,Excellent,4,false,5,4–5 Years
+EMP1835,Eva,Brown,25,DevOps,Florida,Pending,12/12/2020,90100.2,Up-Mid,eva.brown@example.com,476921052,Good,3,false,5,4â€“5 Years
+EMP1836,Eva,Williams,N/a,Cloud Tech,California,Inactive,6/17/2020,58877.49,Low,eva.williams@example.com,3651460400,Excellent,4,false,5,4â€“5 Years
+EMP1837,Eva,Jones,35,Admin,Illinois,Inactive,7/17/2021,N/A,Unknown,eva.jones@example.com,4247310719,Excellent,4,false,4,4â€“5 Years
+EMP1838,Bob,Brown,N/a,Admin,Illinois,Pending,11/5/2020,96140.89,Up-Mid,bob.brown@example.com,1137984408,Average,2,true,5,4â€“5 Years
+EMP1839,Charlie,Jones,35,DevOps,New York,Inactive,1/5/2021,105956.04,High,charlie.jones@example.com,7123166006,Excellent,4,false,5,4â€“5 Years
 EMP1840,Frank,Davis,25,Admin,Illinois,Active,9/11/2024,84716.38,Low-Mid,frank.davis@example.com,6762090143,Good,3,false,1,1 Year
 EMP1841,Grace,Garcia,30,DevOps,Florida,Pending,7/29/2023,61709.83,Low,grace.garcia@example.com,7340433699,Good,3,true,2,2 Years
-EMP1842,Frank,Smith,25,DevOps,California,Active,4/17/2020,61732.03,Low,frank.smith@example.com,9687304518,Average,2,true,5,4–5 Years
-EMP1843,Eva,Davis,40,DevOps,Illinois,Active,2/16/2022,97845.7,Up-Mid,eva.davis@example.com,5778255881,Good,3,true,4,4–5 Years
-EMP1844,Eva,Jones,30,Sales,Florida,Active,8/14/2021,114905.58,High,eva.jones@example.com,5562965753,Poor,1,false,4,4–5 Years
+EMP1842,Frank,Smith,25,DevOps,California,Active,4/17/2020,61732.03,Low,frank.smith@example.com,9687304518,Average,2,true,5,4â€“5 Years
+EMP1843,Eva,Davis,40,DevOps,Illinois,Active,2/16/2022,97845.7,Up-Mid,eva.davis@example.com,5778255881,Good,3,true,4,4â€“5 Years
+EMP1844,Eva,Jones,30,Sales,Florida,Active,8/14/2021,114905.58,High,eva.jones@example.com,5562965753,Poor,1,false,4,4â€“5 Years
 EMP1845,Frank,Jones,N/a,DevOps,Texas,Active,12/24/2022,94619.69,Up-Mid,frank.jones@example.com,2786561941,Good,3,true,3,3 Years
-EMP1846,Grace,Johnson,N/a,DevOps,California,Inactive,7/7/2021,68696.15,Low-Mid,grace.johnson@example.com,5577820581,Good,3,false,4,4–5 Years
+EMP1846,Grace,Johnson,N/a,DevOps,California,Inactive,7/7/2021,68696.15,Low-Mid,grace.johnson@example.com,5577820581,Good,3,false,4,4â€“5 Years
 EMP1847,Grace,Johnson,40,DevOps,Nevada,Active,2/12/2024,97032.29,Up-Mid,grace.johnson@example.com,9582923615,Excellent,4,false,2,2 Years
 EMP1848,Frank,Davis,30,HR,Illinois,Active,10/9/2023,50593.33,Low,frank.davis@example.com,1880819047,Excellent,4,true,2,2 Years
 EMP1849,Grace,Miller,25,Sales,Texas,Pending,7/2/2022,74606.15,Low-Mid,grace.miller@example.com,2357155867,Good,3,true,3,3 Years
-EMP1850,Eva,Davis,30,Cloud Tech,Texas,Pending,7/7/2020,53981.73,Low,eva.davis@example.com,6395613722,Average,2,false,5,4–5 Years
-EMP1851,David,Johnson,N/a,DevOps,Texas,Pending,9/2/2020,56047.05,Low,david.johnson@example.com,817214363,Excellent,4,true,5,4–5 Years
-EMP1852,Grace,Jones,N/a,Admin,Texas,Pending,1/12/2021,67733.5,Low-Mid,grace.jones@example.com,3813000412,Average,2,false,5,4–5 Years
+EMP1850,Eva,Davis,30,Cloud Tech,Texas,Pending,7/7/2020,53981.73,Low,eva.davis@example.com,6395613722,Average,2,false,5,4â€“5 Years
+EMP1851,David,Johnson,N/a,DevOps,Texas,Pending,9/2/2020,56047.05,Low,david.johnson@example.com,817214363,Excellent,4,true,5,4â€“5 Years
+EMP1852,Grace,Jones,N/a,Admin,Texas,Pending,1/12/2021,67733.5,Low-Mid,grace.jones@example.com,3813000412,Average,2,false,5,4â€“5 Years
 EMP1853,Bob,Williams,40,HR,Florida,Pending,9/29/2023,103891.64,Up-Mid,bob.williams@example.com,2114716559,Good,3,true,2,2 Years
 EMP1854,Charlie,Davis,25,HR,Texas,Inactive,3/6/2022,73285.83,Low-Mid,charlie.davis@example.com,9456534698,Good,3,true,3,3 Years
-EMP1855,Eva,Jones,30,Finance,Texas,Inactive,2/14/2021,92721.13,Up-Mid,eva.jones@example.com,7990707549,Poor,1,true,5,4–5 Years
-EMP1856,Heidi,Williams,25,Admin,Illinois,Inactive,3/23/2021,92977.64,Up-Mid,heidi.williams@example.com,4768169956,Excellent,4,false,4,4–5 Years
-EMP1857,Heidi,Williams,35,Cloud Tech,Texas,Active,5/24/2020,89994.12,Up-Mid,heidi.williams@example.com,607174810,Good,3,true,5,4–5 Years
+EMP1855,Eva,Jones,30,Finance,Texas,Inactive,2/14/2021,92721.13,Up-Mid,eva.jones@example.com,7990707549,Poor,1,true,5,4â€“5 Years
+EMP1856,Heidi,Williams,25,Admin,Illinois,Inactive,3/23/2021,92977.64,Up-Mid,heidi.williams@example.com,4768169956,Excellent,4,false,4,4â€“5 Years
+EMP1857,Heidi,Williams,35,Cloud Tech,Texas,Active,5/24/2020,89994.12,Up-Mid,heidi.williams@example.com,607174810,Good,3,true,5,4â€“5 Years
 EMP1858,Heidi,Johnson,25,Finance,New York,Pending,8/4/2023,50060.73,Low,heidi.johnson@example.com,3176539704,Poor,1,false,2,2 Years
 EMP1859,Grace,Davis,35,Admin,Nevada,Inactive,3/12/2022,90224.82,Up-Mid,grace.davis@example.com,4873961028,Excellent,4,false,3,3 Years
 EMP1860,Heidi,Brown,40,Finance,Florida,Pending,5/18/2024,106859.3,High,heidi.brown@example.com,871827495,Good,3,false,1,1 Year
-EMP1861,David,Smith,25,Finance,Nevada,Inactive,9/5/2020,89707.07,Up-Mid,david.smith@example.com,8049187273,Good,3,false,5,4–5 Years
-EMP1862,Frank,Johnson,35,DevOps,California,Inactive,4/23/2020,94259.08,Up-Mid,frank.johnson@example.com,2049561212,Excellent,4,true,5,4–5 Years
+EMP1861,David,Smith,25,Finance,Nevada,Inactive,9/5/2020,89707.07,Up-Mid,david.smith@example.com,8049187273,Good,3,false,5,4â€“5 Years
+EMP1862,Frank,Johnson,35,DevOps,California,Inactive,4/23/2020,94259.08,Up-Mid,frank.johnson@example.com,2049561212,Excellent,4,true,5,4â€“5 Years
 EMP1863,Bob,Johnson,35,Sales,California,Active,9/18/2024,82174.75,Low-Mid,bob.johnson@example.com,7730626041,Excellent,4,false,1,1 Year
 EMP1864,David,Brown,30,Sales,Texas,Inactive,9/15/2023,63370.22,Low,david.brown@example.com,3597371121,Excellent,4,false,2,2 Years
 EMP1865,Bob,Smith,35,Finance,Texas,Pending,6/15/2022,101472.69,Up-Mid,bob.smith@example.com,2990775607,Good,3,true,3,3 Years
 EMP1866,David,Jones,25,DevOps,Illinois,Active,9/28/2022,77213.73,Low-Mid,david.jones@example.com,5816704685,Good,3,false,3,3 Years
-EMP1867,Eva,Miller,40,Sales,Florida,Active,3/16/2020,73749.96,Low-Mid,eva.miller@example.com,1114576831,Poor,1,true,5,4–5 Years
+EMP1867,Eva,Miller,40,Sales,Florida,Active,3/16/2020,73749.96,Low-Mid,eva.miller@example.com,1114576831,Poor,1,true,5,4â€“5 Years
 EMP1868,Alice,Davis,40,Cloud Tech,New York,Pending,9/28/2023,86618.37,Up-Mid,alice.davis@example.com,1021923784,Average,2,false,2,2 Years
 EMP1869,Charlie,Miller,N/a,Admin,Texas,Active,2/15/2024,59911.33,Low,charlie.miller@example.com,8471296179,Excellent,4,true,2,2 Years
 EMP1870,Heidi,Jones,N/a,Cloud Tech,New York,Pending,8/21/2023,59137.64,Low,heidi.jones@example.com,3324260507,Good,3,false,2,2 Years
-EMP1871,Alice,Garcia,35,Cloud Tech,Florida,Pending,12/15/2020,108474.65,High,alice.garcia@example.com,184980424,Good,3,true,5,4–5 Years
-EMP1872,Bob,Johnson,25,Finance,Illinois,Pending,3/27/2021,54417.71,Low,bob.johnson@example.com,3733777311,Excellent,4,false,4,4–5 Years
+EMP1871,Alice,Garcia,35,Cloud Tech,Florida,Pending,12/15/2020,108474.65,High,alice.garcia@example.com,184980424,Good,3,true,5,4â€“5 Years
+EMP1872,Bob,Johnson,25,Finance,Illinois,Pending,3/27/2021,54417.71,Low,bob.johnson@example.com,3733777311,Excellent,4,false,4,4â€“5 Years
 EMP1873,Frank,Smith,40,HR,Texas,Pending,3/25/2023,88211.94,Up-Mid,frank.smith@example.com,6881228216,Average,2,false,2,2 Years
-EMP1874,David,Johnson,25,Sales,New York,Inactive,5/9/2020,58452.18,Low,david.johnson@example.com,8192365345,Excellent,4,true,5,4–5 Years
-EMP1875,Grace,Williams,30,DevOps,California,Pending,12/3/2020,80706.28,Low-Mid,grace.williams@example.com,605603566,Average,2,true,5,4–5 Years
-EMP1876,Alice,Johnson,30,Cloud Tech,Nevada,Pending,2/9/2022,N/A,Unknown,alice.johnson@example.com,9327986238,Good,3,true,4,4–5 Years
-EMP1877,Heidi,Johnson,25,Cloud Tech,Texas,Active,7/1/2020,99471.89,Up-Mid,heidi.johnson@example.com,8471690617,Average,2,true,5,4–5 Years
-EMP1878,Eva,Jones,40,DevOps,Florida,Pending,9/16/2020,64431.22,Low,eva.jones@example.com,1205464753,Poor,1,false,5,4–5 Years
+EMP1874,David,Johnson,25,Sales,New York,Inactive,5/9/2020,58452.18,Low,david.johnson@example.com,8192365345,Excellent,4,true,5,4â€“5 Years
+EMP1875,Grace,Williams,30,DevOps,California,Pending,12/3/2020,80706.28,Low-Mid,grace.williams@example.com,605603566,Average,2,true,5,4â€“5 Years
+EMP1876,Alice,Johnson,30,Cloud Tech,Nevada,Pending,2/9/2022,N/A,Unknown,alice.johnson@example.com,9327986238,Good,3,true,4,4â€“5 Years
+EMP1877,Heidi,Johnson,25,Cloud Tech,Texas,Active,7/1/2020,99471.89,Up-Mid,heidi.johnson@example.com,8471690617,Average,2,true,5,4â€“5 Years
+EMP1878,Eva,Jones,40,DevOps,Florida,Pending,9/16/2020,64431.22,Low,eva.jones@example.com,1205464753,Poor,1,false,5,4â€“5 Years
 EMP1879,Heidi,Jones,40,Admin,New York,Pending,11/17/2023,52633.48,Low,heidi.jones@example.com,8954787697,Good,3,false,2,2 Years
-EMP1880,Heidi,Jones,N/a,Cloud Tech,Nevada,Inactive,12/13/2021,79315.01,Low-Mid,heidi.jones@example.com,9992751757,Poor,1,true,4,4–5 Years
-EMP1881,David,Miller,25,Sales,Texas,Pending,1/11/2022,110391.17,High,david.miller@example.com,8914444982,Excellent,4,false,4,4–5 Years
-EMP1882,David,Williams,40,DevOps,Nevada,Active,7/20/2021,53714.83,Low,david.williams@example.com,5539354357,Excellent,4,true,4,4–5 Years
+EMP1880,Heidi,Jones,N/a,Cloud Tech,Nevada,Inactive,12/13/2021,79315.01,Low-Mid,heidi.jones@example.com,9992751757,Poor,1,true,4,4â€“5 Years
+EMP1881,David,Miller,25,Sales,Texas,Pending,1/11/2022,110391.17,High,david.miller@example.com,8914444982,Excellent,4,false,4,4â€“5 Years
+EMP1882,David,Williams,40,DevOps,Nevada,Active,7/20/2021,53714.83,Low,david.williams@example.com,5539354357,Excellent,4,true,4,4â€“5 Years
 EMP1883,Charlie,Garcia,40,Finance,New York,Active,10/4/2023,114587.11,High,charlie.garcia@example.com,6449639242,Excellent,4,true,2,2 Years
-EMP1884,Frank,Garcia,35,Admin,Florida,Inactive,11/15/2021,93177.35,Up-Mid,frank.garcia@example.com,5885379820,Average,2,false,4,4–5 Years
+EMP1884,Frank,Garcia,35,Admin,Florida,Inactive,11/15/2021,93177.35,Up-Mid,frank.garcia@example.com,5885379820,Average,2,false,4,4â€“5 Years
 EMP1885,Heidi,Jones,25,Cloud Tech,Nevada,Active,1/5/2023,62312.13,Low,heidi.jones@example.com,4339527535,Good,3,false,3,3 Years
 EMP1886,Heidi,Smith,N/a,Cloud Tech,Texas,Active,1/17/2024,81137.46,Low-Mid,heidi.smith@example.com,7497852490,Excellent,4,false,2,2 Years
-EMP1887,Grace,Miller,30,DevOps,Nevada,Inactive,4/16/2021,104528.27,Up-Mid,grace.miller@example.com,4168601346,Excellent,4,false,4,4–5 Years
-EMP1888,Bob,Brown,30,DevOps,Florida,Active,2/8/2022,112395.56,High,bob.brown@example.com,7894896339,Good,3,false,4,4–5 Years
+EMP1887,Grace,Miller,30,DevOps,Nevada,Inactive,4/16/2021,104528.27,Up-Mid,grace.miller@example.com,4168601346,Excellent,4,false,4,4â€“5 Years
+EMP1888,Bob,Brown,30,DevOps,Florida,Active,2/8/2022,112395.56,High,bob.brown@example.com,7894896339,Good,3,false,4,4â€“5 Years
 EMP1889,Heidi,Smith,25,Finance,New York,Active,6/2/2023,81849.36,Low-Mid,heidi.smith@example.com,6791766511,Excellent,4,false,2,2 Years
-EMP1890,Charlie,Davis,40,DevOps,New York,Pending,1/4/2022,118288.91,High,charlie.davis@example.com,2150014187,Poor,1,false,4,4–5 Years
-EMP1891,Charlie,Davis,25,DevOps,Illinois,Active,7/28/2021,59555.1,Low,charlie.davis@example.com,4216309000,Good,3,true,4,4–5 Years
+EMP1890,Charlie,Davis,40,DevOps,New York,Pending,1/4/2022,118288.91,High,charlie.davis@example.com,2150014187,Poor,1,false,4,4â€“5 Years
+EMP1891,Charlie,Davis,25,DevOps,Illinois,Active,7/28/2021,59555.1,Low,charlie.davis@example.com,4216309000,Good,3,true,4,4â€“5 Years
 EMP1892,Heidi,Smith,40,Admin,California,Active,12/20/2024,70661.31,Low-Mid,heidi.smith@example.com,5944633398,Good,3,true,1,1 Year
 EMP1893,Charlie,Jones,N/a,Sales,New York,Active,4/23/2022,109988.16,High,charlie.jones@example.com,9485320894,Good,3,true,3,3 Years
 EMP1894,David,Brown,N/a,Finance,Florida,Inactive,1/30/2020,101101.24,Up-Mid,david.brown@example.com,3263890218,Poor,1,true,6,5+ Years
-EMP1895,David,Brown,30,HR,Florida,Pending,3/31/2021,112427.58,High,david.brown@example.com,9471136336,Good,3,true,4,4–5 Years
-EMP1896,Charlie,Miller,N/a,Cloud Tech,Florida,Active,3/23/2020,119389.15,High,charlie.miller@example.com,9223410345,Poor,1,false,5,4–5 Years
+EMP1895,David,Brown,30,HR,Florida,Pending,3/31/2021,112427.58,High,david.brown@example.com,9471136336,Good,3,true,4,4â€“5 Years
+EMP1896,Charlie,Miller,N/a,Cloud Tech,Florida,Active,3/23/2020,119389.15,High,charlie.miller@example.com,9223410345,Poor,1,false,5,4â€“5 Years
 EMP1897,Alice,Brown,40,Sales,Florida,Inactive,7/16/2024,105861.23,High,alice.brown@example.com,9967331166,Good,3,true,1,1 Year
 EMP1898,Heidi,Davis,40,Admin,Texas,Pending,3/22/2024,50869.61,Low,heidi.davis@example.com,7269608436,Average,2,true,1,1 Year
 EMP1899,David,Williams,30,HR,California,Active,8/19/2023,N/A,Unknown,david.williams@example.com,6855078966,Excellent,4,true,2,2 Years
@@ -904,8 +904,8 @@ EMP1901,Heidi,Brown,30,DevOps,Florida,Active,6/5/2024,111008.63,High,heidi.brown
 EMP1902,Alice,Miller,25,Finance,Nevada,Inactive,12/23/2022,52289.99,Low,alice.miller@example.com,7093170694,Poor,1,true,3,3 Years
 EMP1903,Eva,Davis,N/a,Sales,Illinois,Active,6/1/2024,97926.56,Up-Mid,eva.davis@example.com,5607676163,Average,2,true,1,1 Year
 EMP1904,Frank,Williams,25,Sales,Nevada,Inactive,12/23/2024,53609.38,Low,frank.williams@example.com,5345472238,Good,3,false,1,1 Year
-EMP1905,Heidi,Johnson,N/a,Cloud Tech,California,Inactive,12/24/2020,95372.09,Up-Mid,heidi.johnson@example.com,8983065030,Excellent,4,false,5,4–5 Years
-EMP1906,David,Johnson,30,HR,New York,Pending,8/20/2020,95432.69,Up-Mid,david.johnson@example.com,2198041846,Excellent,4,true,5,4–5 Years
+EMP1905,Heidi,Johnson,N/a,Cloud Tech,California,Inactive,12/24/2020,95372.09,Up-Mid,heidi.johnson@example.com,8983065030,Excellent,4,false,5,4â€“5 Years
+EMP1906,David,Johnson,30,HR,New York,Pending,8/20/2020,95432.69,Up-Mid,david.johnson@example.com,2198041846,Excellent,4,true,5,4â€“5 Years
 EMP1907,David,Williams,30,HR,California,Inactive,10/28/2022,97615.87,Up-Mid,david.williams@example.com,2426423641,Average,2,false,3,3 Years
 EMP1908,Bob,Davis,35,HR,Florida,Inactive,10/23/2022,86867.78,Up-Mid,bob.davis@example.com,8131909247,Poor,1,false,3,3 Years
 EMP1909,Eva,Miller,40,Sales,California,Pending,11/20/2023,106615.71,High,eva.miller@example.com,7623039110,Average,2,false,2,2 Years
@@ -913,54 +913,54 @@ EMP1910,Bob,Williams,30,Finance,Texas,Active,3/11/2022,112856.21,High,bob.willia
 EMP1911,Bob,Jones,25,Admin,California,Active,11/28/2023,60356.78,Low,bob.jones@example.com,2305248087,Poor,1,true,2,2 Years
 EMP1912,David,Jones,N/a,DevOps,Texas,Inactive,5/3/2022,117870.22,High,david.jones@example.com,622072238,Excellent,4,false,3,3 Years
 EMP1913,Charlie,Johnson,40,HR,Florida,Inactive,2/19/2024,95127.91,Up-Mid,charlie.johnson@example.com,5947372131,Average,2,false,2,2 Years
-EMP1914,Bob,Brown,25,Admin,Illinois,Pending,11/18/2021,78818.42,Low-Mid,bob.brown@example.com,9016204786,Average,2,false,4,4–5 Years
+EMP1914,Bob,Brown,25,Admin,Illinois,Pending,11/18/2021,78818.42,Low-Mid,bob.brown@example.com,9016204786,Average,2,false,4,4â€“5 Years
 EMP1915,Frank,Miller,40,Sales,Nevada,Pending,12/21/2022,108933.55,High,frank.miller@example.com,6886878598,Poor,1,true,3,3 Years
 EMP1916,Eva,Johnson,N/a,Admin,California,Active,6/4/2024,68200.52,Low-Mid,eva.johnson@example.com,6486287202,Average,2,true,1,1 Year
 EMP1917,Eva,Brown,25,Admin,California,Inactive,7/22/2022,116934.97,High,eva.brown@example.com,1954196663,Good,3,true,3,3 Years
 EMP1918,Charlie,Brown,N/a,HR,New York,Active,9/14/2024,99567.78,Up-Mid,charlie.brown@example.com,5057303626,Good,3,true,1,1 Year
-EMP1919,Charlie,Garcia,30,Admin,Texas,Active,10/10/2021,90216.76,Up-Mid,charlie.garcia@example.com,9246320373,Average,2,true,4,4–5 Years
-EMP1920,Frank,Jones,30,Admin,Illinois,Pending,3/12/2020,96588.73,Up-Mid,frank.jones@example.com,7677537259,Average,2,true,5,4–5 Years
+EMP1919,Charlie,Garcia,30,Admin,Texas,Active,10/10/2021,90216.76,Up-Mid,charlie.garcia@example.com,9246320373,Average,2,true,4,4â€“5 Years
+EMP1920,Frank,Jones,30,Admin,Illinois,Pending,3/12/2020,96588.73,Up-Mid,frank.jones@example.com,7677537259,Average,2,true,5,4â€“5 Years
 EMP1921,Charlie,Davis,35,Finance,Illinois,Active,12/28/2022,71109.18,Low-Mid,charlie.davis@example.com,3214505765,Poor,1,true,3,3 Years
-EMP1922,Grace,Smith,40,Admin,Florida,Inactive,11/15/2020,50300.6,Low,grace.smith@example.com,1945887070,Good,3,false,5,4–5 Years
+EMP1922,Grace,Smith,40,Admin,Florida,Inactive,11/15/2020,50300.6,Low,grace.smith@example.com,1945887070,Good,3,false,5,4â€“5 Years
 EMP1923,Frank,Davis,35,Finance,California,Pending,9/27/2023,60295.84,Low,frank.davis@example.com,5534820127,Good,3,false,2,2 Years
 EMP1924,Heidi,Smith,35,DevOps,Texas,Pending,9/7/2022,113012.21,High,heidi.smith@example.com,4008385075,Excellent,4,false,3,3 Years
 EMP1925,Bob,Williams,35,Cloud Tech,Florida,Pending,9/18/2024,65425.54,Low-Mid,bob.williams@example.com,5975954507,Poor,1,true,1,1 Year
 EMP1926,Frank,Jones,25,Sales,Nevada,Active,4/9/2023,86850.37,Up-Mid,frank.jones@example.com,9177680897,Excellent,4,true,2,2 Years
 EMP1927,Eva,Brown,30,Cloud Tech,Texas,Pending,10/5/2024,81182.07,Low-Mid,eva.brown@example.com,1265742230,Good,3,true,1,1 Year
-EMP1928,Bob,Miller,N/a,Finance,New York,Inactive,10/12/2021,92222.03,Up-Mid,bob.miller@example.com,9646300401,Poor,1,true,4,4–5 Years
+EMP1928,Bob,Miller,N/a,Finance,New York,Inactive,10/12/2021,92222.03,Up-Mid,bob.miller@example.com,9646300401,Poor,1,true,4,4â€“5 Years
 EMP1929,Alice,Smith,35,Finance,New York,Pending,10/14/2024,79934.83,Low-Mid,alice.smith@example.com,3693626893,Average,2,true,1,1 Year
 EMP1930,Alice,Davis,35,HR,California,Inactive,7/1/2022,111201.12,High,alice.davis@example.com,3012047136,Poor,1,false,3,3 Years
 EMP1931,Heidi,Brown,40,Finance,California,Active,7/8/2024,100960.05,Up-Mid,heidi.brown@example.com,2711759573,Average,2,false,1,1 Year
-EMP1932,Grace,Smith,30,Sales,Illinois,Active,10/21/2020,64544.87,Low,grace.smith@example.com,9885582983,Average,2,true,5,4–5 Years
+EMP1932,Grace,Smith,30,Sales,Illinois,Active,10/21/2020,64544.87,Low,grace.smith@example.com,9885582983,Average,2,true,5,4â€“5 Years
 EMP1933,Frank,Smith,25,Sales,Florida,Active,1/14/2020,78662.24,Low-Mid,frank.smith@example.com,9330674583,Poor,1,true,6,5+ Years
 EMP1934,Grace,Garcia,30,Sales,Florida,Pending,3/9/2023,102867.06,Up-Mid,grace.garcia@example.com,7609441282,Average,2,true,2,2 Years
-EMP1935,Charlie,Smith,40,HR,Illinois,Inactive,3/27/2020,107595.95,High,charlie.smith@example.com,3372188565,Excellent,4,true,5,4–5 Years
-EMP1936,Eva,Miller,40,Sales,Nevada,Inactive,4/4/2021,N/A,Unknown,eva.miller@example.com,6954132970,Good,3,false,4,4–5 Years
-EMP1937,Eva,Jones,35,DevOps,Nevada,Inactive,9/11/2020,95766.91,Up-Mid,eva.jones@example.com,5066626704,Average,2,true,5,4–5 Years
-EMP1938,Grace,Miller,30,Finance,Nevada,Pending,5/16/2021,51990.98,Low,grace.miller@example.com,5143776935,Excellent,4,true,4,4–5 Years
+EMP1935,Charlie,Smith,40,HR,Illinois,Inactive,3/27/2020,107595.95,High,charlie.smith@example.com,3372188565,Excellent,4,true,5,4â€“5 Years
+EMP1936,Eva,Miller,40,Sales,Nevada,Inactive,4/4/2021,N/A,Unknown,eva.miller@example.com,6954132970,Good,3,false,4,4â€“5 Years
+EMP1937,Eva,Jones,35,DevOps,Nevada,Inactive,9/11/2020,95766.91,Up-Mid,eva.jones@example.com,5066626704,Average,2,true,5,4â€“5 Years
+EMP1938,Grace,Miller,30,Finance,Nevada,Pending,5/16/2021,51990.98,Low,grace.miller@example.com,5143776935,Excellent,4,true,4,4â€“5 Years
 EMP1939,Heidi,Johnson,25,Sales,Nevada,Inactive,4/5/2023,83634.01,Low-Mid,heidi.johnson@example.com,6343925294,Average,2,true,2,2 Years
 EMP1940,Eva,Brown,40,DevOps,Texas,Inactive,11/15/2022,N/A,Unknown,eva.brown@example.com,9611110285,Good,3,true,3,3 Years
-EMP1941,Eva,Jones,30,Sales,Texas,Active,10/16/2021,82273.08,Low-Mid,eva.jones@example.com,7120072023,Excellent,4,false,4,4–5 Years
+EMP1941,Eva,Jones,30,Sales,Texas,Active,10/16/2021,82273.08,Low-Mid,eva.jones@example.com,7120072023,Excellent,4,false,4,4â€“5 Years
 EMP1942,Frank,Garcia,30,Cloud Tech,California,Inactive,5/9/2022,94537.3,Up-Mid,frank.garcia@example.com,5591024509,Good,3,true,3,3 Years
-EMP1943,Alice,Jones,35,HR,Illinois,Pending,6/6/2020,85970.65,Up-Mid,alice.jones@example.com,9109032670,Good,3,true,5,4–5 Years
-EMP1944,Charlie,Jones,25,Sales,New York,Pending,10/22/2021,111071.02,High,charlie.jones@example.com,4949819420,Excellent,4,false,4,4–5 Years
-EMP1945,Eva,Davis,35,DevOps,Nevada,Pending,1/12/2022,56708.34,Low,eva.davis@example.com,7942817933,Excellent,4,false,4,4–5 Years
-EMP1946,Charlie,Jones,25,Admin,Illinois,Inactive,2/2/2022,104516.55,Up-Mid,charlie.jones@example.com,652775843,Excellent,4,false,4,4–5 Years
-EMP1947,Charlie,Garcia,25,Admin,New York,Pending,3/28/2021,108210.15,High,charlie.garcia@example.com,6634533721,Poor,1,true,4,4–5 Years
+EMP1943,Alice,Jones,35,HR,Illinois,Pending,6/6/2020,85970.65,Up-Mid,alice.jones@example.com,9109032670,Good,3,true,5,4â€“5 Years
+EMP1944,Charlie,Jones,25,Sales,New York,Pending,10/22/2021,111071.02,High,charlie.jones@example.com,4949819420,Excellent,4,false,4,4â€“5 Years
+EMP1945,Eva,Davis,35,DevOps,Nevada,Pending,1/12/2022,56708.34,Low,eva.davis@example.com,7942817933,Excellent,4,false,4,4â€“5 Years
+EMP1946,Charlie,Jones,25,Admin,Illinois,Inactive,2/2/2022,104516.55,Up-Mid,charlie.jones@example.com,652775843,Excellent,4,false,4,4â€“5 Years
+EMP1947,Charlie,Garcia,25,Admin,New York,Pending,3/28/2021,108210.15,High,charlie.garcia@example.com,6634533721,Poor,1,true,4,4â€“5 Years
 EMP1948,Bob,Miller,40,Finance,Texas,Active,8/3/2024,N/A,Unknown,bob.miller@example.com,109121721,Excellent,4,true,1,1 Year
 EMP1949,Frank,Jones,35,DevOps,California,Active,7/31/2024,80935.65,Low-Mid,frank.jones@example.com,1455937660,Excellent,4,false,1,1 Year
 EMP1950,Frank,Williams,30,DevOps,California,Active,3/4/2024,107020.19,High,frank.williams@example.com,8943705262,Excellent,4,false,1,1 Year
-EMP1951,Charlie,Brown,30,HR,New York,Active,9/23/2020,118677.67,High,charlie.brown@example.com,5100462775,Excellent,4,false,5,4–5 Years
-EMP1952,Bob,Jones,25,Cloud Tech,Florida,Inactive,3/28/2020,63744.57,Low,bob.jones@example.com,5725659201,Average,2,false,5,4–5 Years
-EMP1953,Alice,Brown,40,Cloud Tech,California,Active,5/15/2020,N/A,Unknown,alice.brown@example.com,4617520237,Poor,1,false,5,4–5 Years
-EMP1954,Bob,Williams,25,Sales,New York,Pending,2/13/2021,62934.73,Low,bob.williams@example.com,9743260054,Good,3,false,5,4–5 Years
-EMP1955,Bob,Williams,30,DevOps,California,Pending,12/13/2021,74654.23,Low-Mid,bob.williams@example.com,9550178331,Excellent,4,true,4,4–5 Years
+EMP1951,Charlie,Brown,30,HR,New York,Active,9/23/2020,118677.67,High,charlie.brown@example.com,5100462775,Excellent,4,false,5,4â€“5 Years
+EMP1952,Bob,Jones,25,Cloud Tech,Florida,Inactive,3/28/2020,63744.57,Low,bob.jones@example.com,5725659201,Average,2,false,5,4â€“5 Years
+EMP1953,Alice,Brown,40,Cloud Tech,California,Active,5/15/2020,N/A,Unknown,alice.brown@example.com,4617520237,Poor,1,false,5,4â€“5 Years
+EMP1954,Bob,Williams,25,Sales,New York,Pending,2/13/2021,62934.73,Low,bob.williams@example.com,9743260054,Good,3,false,5,4â€“5 Years
+EMP1955,Bob,Williams,30,DevOps,California,Pending,12/13/2021,74654.23,Low-Mid,bob.williams@example.com,9550178331,Excellent,4,true,4,4â€“5 Years
 EMP1956,David,Brown,N/a,Sales,Texas,Active,8/5/2024,N/A,Unknown,david.brown@example.com,5848689992,Average,2,true,1,1 Year
 EMP1957,David,Smith,30,HR,New York,Pending,1/9/2020,118150.59,High,david.smith@example.com,6079848703,Average,2,true,6,5+ Years
 EMP1958,David,Johnson,N/a,DevOps,Florida,Inactive,11/30/2023,91256.64,Up-Mid,david.johnson@example.com,5069176798,Average,2,false,2,2 Years
-EMP1959,Bob,Davis,30,HR,Florida,Inactive,3/14/2021,85997.57,Up-Mid,bob.davis@example.com,3593744038,Good,3,false,4,4–5 Years
-EMP1960,Frank,Smith,25,Finance,Texas,Pending,10/5/2020,84707.12,Low-Mid,frank.smith@example.com,4640830372,Excellent,4,false,5,4–5 Years
-EMP1961,Eva,Smith,N/a,DevOps,Texas,Active,11/2/2021,84559.9,Low-Mid,eva.smith@example.com,6060148859,Poor,1,false,4,4–5 Years
+EMP1959,Bob,Davis,30,HR,Florida,Inactive,3/14/2021,85997.57,Up-Mid,bob.davis@example.com,3593744038,Good,3,false,4,4â€“5 Years
+EMP1960,Frank,Smith,25,Finance,Texas,Pending,10/5/2020,84707.12,Low-Mid,frank.smith@example.com,4640830372,Excellent,4,false,5,4â€“5 Years
+EMP1961,Eva,Smith,N/a,DevOps,Texas,Active,11/2/2021,84559.9,Low-Mid,eva.smith@example.com,6060148859,Poor,1,false,4,4â€“5 Years
 EMP1962,Heidi,Miller,N/a,DevOps,California,Pending,9/18/2024,81076.91,Low-Mid,heidi.miller@example.com,8490793883,Poor,1,false,1,1 Year
 EMP1963,Eva,Davis,40,Admin,Texas,Inactive,10/22/2023,N/A,Unknown,eva.davis@example.com,1368528305,Average,2,false,2,2 Years
 EMP1964,Heidi,Davis,25,Finance,Florida,Pending,9/10/2023,97356.31,Up-Mid,heidi.davis@example.com,1537012423,Good,3,true,2,2 Years
@@ -968,40 +968,40 @@ EMP1965,Grace,Smith,40,DevOps,Illinois,Active,2/27/2024,114770.32,High,grace.smi
 EMP1966,Bob,Jones,35,Admin,California,Active,5/3/2023,109082.07,High,bob.jones@example.com,8811210313,Good,3,false,2,2 Years
 EMP1967,David,Miller,40,DevOps,Florida,Inactive,4/15/2024,99944.57,Up-Mid,david.miller@example.com,2175188780,Poor,1,true,1,1 Year
 EMP1968,Eva,Miller,40,HR,Florida,Pending,5/20/2023,116509.72,High,eva.miller@example.com,7941515262,Average,2,false,2,2 Years
-EMP1969,Eva,Williams,30,Finance,Texas,Active,5/28/2021,84253.9,Low-Mid,eva.williams@example.com,8409112251,Excellent,4,true,4,4–5 Years
+EMP1969,Eva,Williams,30,Finance,Texas,Active,5/28/2021,84253.9,Low-Mid,eva.williams@example.com,8409112251,Excellent,4,true,4,4â€“5 Years
 EMP1970,Charlie,Garcia,25,Cloud Tech,Nevada,Active,8/27/2024,54776.01,Low,charlie.garcia@example.com,8837505660,Poor,1,false,1,1 Year
-EMP1971,Charlie,Davis,40,Sales,Nevada,Inactive,11/8/2020,71192.68,Low-Mid,charlie.davis@example.com,8632397912,Average,2,false,5,4–5 Years
-EMP1972,Bob,Smith,N/a,Finance,Florida,Active,8/24/2021,96346.53,Up-Mid,bob.smith@example.com,7876553006,Average,2,true,4,4–5 Years
+EMP1971,Charlie,Davis,40,Sales,Nevada,Inactive,11/8/2020,71192.68,Low-Mid,charlie.davis@example.com,8632397912,Average,2,false,5,4â€“5 Years
+EMP1972,Bob,Smith,N/a,Finance,Florida,Active,8/24/2021,96346.53,Up-Mid,bob.smith@example.com,7876553006,Average,2,true,4,4â€“5 Years
 EMP1973,Eva,Williams,N/a,HR,Illinois,Pending,2/6/2020,116680.63,High,eva.williams@example.com,3095055604,Excellent,4,true,6,5+ Years
 EMP1974,Grace,Brown,25,Finance,Florida,Inactive,10/12/2024,76343.56,Low-Mid,grace.brown@example.com,7121988191,Excellent,4,false,1,1 Year
 EMP1975,Alice,Johnson,30,Sales,Nevada,Inactive,12/16/2024,99424.14,Up-Mid,alice.johnson@example.com,7788519052,Excellent,4,false,1,1 Year
 EMP1976,Charlie,Garcia,35,DevOps,Florida,Inactive,4/13/2024,57656.74,Low,charlie.garcia@example.com,4864010423,Good,3,true,1,1 Year
-EMP1977,Heidi,Garcia,40,Sales,New York,Pending,4/24/2020,77396.94,Low-Mid,heidi.garcia@example.com,6245618516,Excellent,4,true,5,4–5 Years
-EMP1978,Grace,Garcia,N/a,DevOps,California,Inactive,10/18/2021,54299.68,Low,grace.garcia@example.com,4460045211,Average,2,false,4,4–5 Years
+EMP1977,Heidi,Garcia,40,Sales,New York,Pending,4/24/2020,77396.94,Low-Mid,heidi.garcia@example.com,6245618516,Excellent,4,true,5,4â€“5 Years
+EMP1978,Grace,Garcia,N/a,DevOps,California,Inactive,10/18/2021,54299.68,Low,grace.garcia@example.com,4460045211,Average,2,false,4,4â€“5 Years
 EMP1979,Charlie,Miller,35,HR,Nevada,Pending,2/25/2020,103563.58,Up-Mid,charlie.miller@example.com,8991511454,Excellent,4,true,6,5+ Years
 EMP1980,Grace,Brown,25,Finance,California,Inactive,4/23/2022,74588.85,Low-Mid,grace.brown@example.com,1293913043,Average,2,false,3,3 Years
-EMP1981,David,Garcia,30,DevOps,California,Pending,6/22/2020,113727.23,High,david.garcia@example.com,8818984840,Poor,1,false,5,4–5 Years
+EMP1981,David,Garcia,30,DevOps,California,Pending,6/22/2020,113727.23,High,david.garcia@example.com,8818984840,Poor,1,false,5,4â€“5 Years
 EMP1982,Eva,Brown,25,HR,New York,Active,1/7/2023,72828.18,Low-Mid,eva.brown@example.com,6046154020,Good,3,false,3,3 Years
 EMP1983,Grace,Jones,N/a,Sales,Florida,Inactive,2/11/2020,98717.09,Up-Mid,grace.jones@example.com,1901707567,Poor,1,false,6,5+ Years
 EMP1984,Frank,Garcia,40,Sales,Florida,Inactive,3/18/2023,56840.8,Low,frank.garcia@example.com,1429831521,Poor,1,true,2,2 Years
-EMP1985,David,Johnson,35,Finance,Illinois,Pending,11/26/2021,61663.91,Low,david.johnson@example.com,9107322835,Average,2,true,4,4–5 Years
+EMP1985,David,Johnson,35,Finance,Illinois,Pending,11/26/2021,61663.91,Low,david.johnson@example.com,9107322835,Average,2,true,4,4â€“5 Years
 EMP1986,Grace,Brown,30,Finance,Nevada,Active,9/17/2024,109523.4,High,grace.brown@example.com,849378305,Poor,1,true,1,1 Year
 EMP1987,Eva,Brown,25,HR,Illinois,Inactive,7/5/2024,65812.02,Low-Mid,eva.brown@example.com,3963845268,Average,2,true,1,1 Year
-EMP1988,Bob,Johnson,N/a,Cloud Tech,Illinois,Inactive,7/13/2021,54708.88,Low,bob.johnson@example.com,6944391648,Excellent,4,true,4,4–5 Years
+EMP1988,Bob,Johnson,N/a,Cloud Tech,Illinois,Inactive,7/13/2021,54708.88,Low,bob.johnson@example.com,6944391648,Excellent,4,true,4,4â€“5 Years
 EMP1989,Heidi,Garcia,40,Admin,California,Active,8/27/2023,107661.73,High,heidi.garcia@example.com,7016934291,Excellent,4,true,2,2 Years
-EMP1990,Eva,Johnson,40,DevOps,Illinois,Inactive,2/13/2021,79002,Low-Mid,eva.johnson@example.com,9132033015,Average,2,true,5,4–5 Years
+EMP1990,Eva,Johnson,40,DevOps,Illinois,Inactive,2/13/2021,79002,Low-Mid,eva.johnson@example.com,9132033015,Average,2,true,5,4â€“5 Years
 EMP1991,Heidi,Brown,N/a,Admin,Texas,Pending,12/11/2023,86135.69,Up-Mid,heidi.brown@example.com,2341903105,Excellent,4,false,2,2 Years
-EMP1992,Heidi,Johnson,30,DevOps,Nevada,Inactive,7/2/2021,115601.4,High,heidi.johnson@example.com,1537221555,Good,3,true,4,4–5 Years
+EMP1992,Heidi,Johnson,30,DevOps,Nevada,Inactive,7/2/2021,115601.4,High,heidi.johnson@example.com,1537221555,Good,3,true,4,4â€“5 Years
 EMP1993,Grace,Brown,N/a,DevOps,Nevada,Active,12/5/2022,64045.36,Low,grace.brown@example.com,6847323652,Poor,1,true,3,3 Years
 EMP1994,David,Brown,30,DevOps,Nevada,Inactive,9/24/2024,80477.21,Low-Mid,david.brown@example.com,3774604066,Good,3,false,1,1 Year
 EMP1995,Bob,Jones,30,Finance,California,Inactive,8/16/2023,61240.9,Low,bob.jones@example.com,2007843613,Poor,1,true,2,2 Years
-EMP1996,David,Smith,40,Admin,Texas,Active,1/28/2021,51939.29,Low,david.smith@example.com,2442607818,Excellent,4,true,5,4–5 Years
+EMP1996,David,Smith,40,Admin,Texas,Active,1/28/2021,51939.29,Low,david.smith@example.com,2442607818,Excellent,4,true,5,4â€“5 Years
 EMP1997,Eva,Brown,40,Finance,Illinois,Inactive,5/14/2022,95284.54,Up-Mid,eva.brown@example.com,7543734763,Good,3,false,3,3 Years
 EMP1998,Charlie,Garcia,35,Admin,Texas,Inactive,6/5/2024,106247.67,High,charlie.garcia@example.com,2737203762,Excellent,4,true,1,1 Year
-EMP1999,Charlie,Williams,25,DevOps,Florida,Active,4/23/2020,110170.88,High,charlie.williams@example.com,8821458413,Poor,1,true,5,4–5 Years
+EMP1999,Charlie,Williams,25,DevOps,Florida,Active,4/23/2020,110170.88,High,charlie.williams@example.com,8821458413,Poor,1,true,5,4â€“5 Years
 EMP2000,Charlie,Miller,25,HR,Nevada,Pending,6/10/2024,52615.44,Low,charlie.miller@example.com,8460191343,Average,2,true,1,1 Year
-EMP2001,Eva,Davis,30,DevOps,Illinois,Inactive,4/18/2020,82547.26,Low-Mid,eva.davis@example.com,3899827801,Average,2,false,5,4–5 Years
-EMP2002,Bob,Smith,35,Finance,Illinois,Pending,6/29/2020,63049.22,Low,bob.smith@example.com,586950731,Good,3,true,5,4–5 Years
+EMP2001,Eva,Davis,30,DevOps,Illinois,Inactive,4/18/2020,82547.26,Low-Mid,eva.davis@example.com,3899827801,Average,2,false,5,4â€“5 Years
+EMP2002,Bob,Smith,35,Finance,Illinois,Pending,6/29/2020,63049.22,Low,bob.smith@example.com,586950731,Good,3,true,5,4â€“5 Years
 EMP2003,Frank,Smith,35,HR,California,Pending,2/15/2023,115229.12,High,frank.smith@example.com,1464493698,Excellent,4,true,3,3 Years
 EMP2004,Grace,Smith,25,DevOps,Illinois,Pending,6/15/2023,60687.63,Low,grace.smith@example.com,9516793349,Excellent,4,false,2,2 Years
 EMP2005,Frank,Jones,30,Finance,Illinois,Inactive,3/19/2022,67492.73,Low-Mid,frank.jones@example.com,5573857367,Good,3,true,3,3 Years
@@ -1013,9 +1013,9 @@ EMP2010,Bob,Jones,35,Sales,Nevada,Active,6/10/2024,71148.27,Low-Mid,bob.jones@ex
 EMP2011,David,Jones,40,Admin,California,Inactive,9/21/2022,52031.74,Low,david.jones@example.com,6511893939,Excellent,4,true,3,3 Years
 EMP2012,Grace,Miller,35,DevOps,Florida,Inactive,4/15/2023,N/A,Unknown,grace.miller@example.com,6557820189,Average,2,false,2,2 Years
 EMP2013,Eva,Williams,N/a,HR,Illinois,Pending,2/6/2020,116680.63,High,eva.williams@example.com,4322302332,Good,3,false,6,5+ Years
-EMP2014,Grace,Jones,30,Finance,Nevada,Pending,5/16/2021,51990.98,Low,grace.jones@example.com,2470739200,Excellent,4,true,4,4–5 Years
+EMP2014,Grace,Jones,30,Finance,Nevada,Pending,5/16/2021,51990.98,Low,grace.jones@example.com,2470739200,Excellent,4,true,4,4â€“5 Years
 EMP2015,David,Miller,30,HR,California,Active,8/19/2023,N/A,Unknown,david.miller@example.com,3546212759,Good,3,true,2,2 Years
-EMP2016,David,Johnson,30,Cloud Tech,Texas,Inactive,11/7/2021,100215.06,Up-Mid,david.johnson@example.com,2508261122,Good,3,true,4,4–5 Years
+EMP2016,David,Johnson,30,Cloud Tech,Texas,Inactive,11/7/2021,100215.06,Up-Mid,david.johnson@example.com,2508261122,Good,3,true,4,4â€“5 Years
 EMP2017,Charlie,Williams,40,Finance,New York,Active,10/4/2023,114587.11,High,charlie.williams@example.com,1261632487,Average,2,false,2,2 Years
 EMP2018,Alice,Garcia,30,HR,Florida,Inactive,12/16/2024,71318.79,Low-Mid,alice.garcia@example.com,8995729892,Good,3,true,1,1 Year
-EMP2019,Heidi,Jones,30,DevOps,Illinois,Pending,2/22/2021,77764.24,Low-Mid,heidi.jones@example.com,7629745492,Average,2,false,5,4–5 Years
+EMP2019,Heidi,Jones,30,DevOps,Illinois,Pending,2/22/2021,77764.24,Low-Mid,heidi.jones@example.com,7629745492,Average,2,false,5,4â€“5 Years
