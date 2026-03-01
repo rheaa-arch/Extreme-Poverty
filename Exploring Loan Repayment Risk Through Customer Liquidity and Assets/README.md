@@ -37,6 +37,7 @@ The analysis focuses on descriptive risk signals, not credit scoring or predicti
   - SQL: data aggregation, KPI calculation, trend analysis
   - Excel: Cleaning
   - Data Source: https://www.kaggle.com/datasets/uciml/german-credit
+  - Visualization : https://lookerstudio.google.com/embed/reporting/200573e1-3979-4989-9968-de94587524bf/page/006hF
 
 # Limitations
   - This analysis is descriptive, not predictive; no default probability or risk score is calculated.
